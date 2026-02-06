@@ -1,0 +1,957 @@
+CASS 5 Client money: insurance distribution activity
+You are viewing CASS 5 Client money: insurance distribution activity as of 06/02/2026. CASS 5 Client money: insurance distribution activity was last updated on 02/08/2024.
+Rules
+Guidance
+Evidential Provisions
+Deleted
+Related resources
+CASS 5.1 Application
+CASS 5.1.1
+01/10/2018
+R
+(1) CASS 5.1 to CASS 5.6 apply, subject to (2), (3) and CASS 5.1.3 R to CASS 5.1.6 R, to a firm that receives or holds money in the course of or in connection with its insurance distribution activity.
+(2) CASS 5.1 to CASS 5.6 do not, subject to (3), apply:
+(a) to a firm to the extent that it acts in accordance with the client money chapter; or
+(b) [deleted]
+(c) to an insurance undertaking in respect of its permitted activities; or
+(d) to a managing agent when acting as such; or
+(e) with respect to money held by a firm which:
+(i) is an approved bank; and
+(ii) has requisite capital under article 10(6)(b) of the IDD;
+but only when held by the firm in an account with itself, in which case the firm must notify the client (whether through a client agreement, terms of business, or otherwise in writing) that:
+(iii) money held for that client in an account with the approved bank will be held by the firm as banker and not as trustee (or in Scotland as agent); and
+(iv) as a result, the money will not be held in accordance with CASS 5.1 to CASS 5.6.
+(3) A firm may elect to comply with:
+(a) [deleted]
+(b) CASS 5.1, CASS 5.2 and CASS 5.4 to CASS 5.6 in respect of money which it receives in the course of carrying on an activity which would be insurance distribution activity, and which money would be client money, but for article 72D of the Regulated Activities Order (Large risks contracts where risk situated outside the EEA);
+but the election must be in respect of all the firm's business which consists of that activity.
+(4) A firm must keep a record of any election in (3).
+CASS 5.1.2
+14/01/2005
+G
+A firm that is an approved bank, and relies on the exemption under CASS 5.1.1 R (2)(e), should be able to account to all of its clients for amounts held on their behalf at all times. A bank account opened with the firm that is in the name of the client would generally be sufficient. When money from clients deposited with the firm is held in a pooled account, this account should be clearly identified as an account for clients. The firm should also be able to demonstrate that an amount owed to a specific client that is held within the pool can be reconciled with a record showing that individual's client balance and is, therefore, identifiable at any time.
+CASS 5.1.3
+09/12/2011
+R
+An authorised professional firm regulated by The Law Society (of England and Wales), The Law Society of Scotland or The Law Society of Northern Ireland that, with respect to its regulated activities, is subject to the rules of its designated professional body as specified in CASS 5.1.4 R, in force on 14 January 2005, must comply with those rules and if it does so, it will be deemed to comply with CASS 5.2 to CASS 5.6.
+CASS 5.1.4
+14/01/2005
+R
+For the purposes of CASS 5.1.3 R the relevant rules are:
+(1) If regulated by the Law Society (of England and Wales);
+(a) the Solicitors' Accounts Rules 1998; or
+(b) where applicable, the Solicitors Overseas Practice Rules 1990;
+(2) if regulated by the Law Society of Scotland, the Solicitors' (Scotland) Accounts, Accounts Certificate, Professional Practice and Guarantee Fund Rules 2001;
+(3) if regulated by the Law Society of Northern Ireland, the Solicitors' Accounts Regulations 1998.
+CASS 5.1.4A
+14/01/2005
+R
+(1) A firm will, subject to (3), be deemed to comply with CASS 5.3 to CASS 5.6 if it receives or holds client money and it either:
+(a) in relation to a service charge, complies with the requirement to segregate such money in accordance with section 42 of the Landlord and Tenant Act 1987 ("the 1987 Act"); or
+(b) in relation to money which is clients' money for the purpose of the Royal Institution of Chartered Surveyors' Rules of Conduct ("RICS rules") in force as at 14 January 2005, it complies with the requirement to segregate and account for such money in accordance with the RICS Members' Accounts rules.
+(2) Paragraph (1)(a) also applies to a firm in Scotland or in Northern Ireland if in acting as a property manager the firm receives or holds a service charge and complies (so far as practicable) with section 42 of the 1987 Act as if the requirements of that provision applied to it.
+(3) In addition to complying with (1), a firm must ensure that an account in which money held pursuant to the trust fund mentioned in section 42(3) of the 1987 Act or an account maintained in accordance with the RICS rules satisfies the requirements in CASS 5.5.49 R to the extent that the firm will hold money as trustee or otherwise on behalf of its clients.
+CASS 5.1.5
+14/01/2005
+R
+Subject to CASS 5.1.5A R money is not client money when:
+(1) it becomes properly due and payable to the firm:
+(a) for its own account; or
+(b) in its capacity as agent of an insurance undertaking where the firm acts in accordance with CASS 5.2; or
+(2) it is otherwise received by the firm pursuant to an arrangement made between an insurance undertaking and another person (other than a firm) by which that other person has authority to underwrite risks, settle claims or handle refunds of premiums on behalf of that insurance undertaking outside the United Kingdom and where the money relates to that business.
+CASS 5.1.5A
+14/01/2005
+R
+CASS 5.1.5 R (1)(b) and CASS 5.1.5 R (2) do not apply, and hence money is client money, in any case where:
+(1) in relation to an activity specified in CASS 5.2.3 R (1) (a) to CASS 5.2.3 R (1) (c), the insurance undertaking has agreed that the firm may treat money which it receives and holds as agent of the undertaking, as client money and in accordance with the provisions of CASS 5.3 to CASS 5.6; and
+(2) the agreement in (1) is in writing and adequate to show that the insurance undertaking consents to its interests under the trusts (or in Scotland agency) in CASS 5.3.2 R or CASS 5.4.7 R being subordinated to the interests of the firm's other clients.
+CASS 5.1.6
+01/10/2018
+R
+Except where a firm and an insurance undertaking have (in accordance with CASS 5.1.5A R) agreed otherwise, for the purposes of CASS 5.1 to CASS 5.6 an insurance undertaking (when acting as such) with whom a firm conducts insurance distribution activity is not to be treated as a client of the firm.
+Purpose
+CASS 5.1.7
+01/10/2018
+G
+(1) Principle 10 (Clients' assets) requires a firm to arrange adequate protection for client s' assets when the firm is responsible for them. An essential part of that protection is the proper accounting and handling of client money. The rules in CASS 5.1 to CASS 5.6 also give effect to the requirement in article 10.6 of the IDD that all necessary measures should be taken to protect clients against the inability of an insurance intermediary to transfer premiums to an insurance undertaking or to transfer the proceeds of a claim or premium refund to the insured.
+(2) There are two particular approaches which firms can adopt which reflect options given in article 10.6. The first is to provide by law or contract for a transfer of risk from the insurance intermediary to the insurance undertaking (CASS 5.2). The second is that client money is strictly segregated by being transferred to client accounts that cannot be used to reimburse other creditors in the event of the firm's insolvency (CASS 5.3 and CASS 5.4 provide different means of achieving such segregation). CASS 5.1.5A R permits a firm subject to certain conditions to treat money which it collects as agent of an insurance undertaking as client money; the principle of strict segregation is, however, satisfied because such undertakings must agree to their interests being subordinated to the interests of the firm's other clients.
+CASS 5.1.8
+01/10/2018
+G
+A firm which carries on MiFID business or designated investment business in relation to life assurance business may, in accordance with CASS 7.10.3R and in relation to that business only, either comply with CASS 7 or elect to comply with the insurance client money chapter.
+CASS 5.1.9
+14/01/2005
+G
+Firms are reminded that SUP 3 contains provisions which are relevant to the preparation and delivery of reports by auditors.
+CASS 5.2 Holding money as agent of an insurance undertaking
+Introduction
+CASS 5.2.1
+14/01/2005
+G
+If a firm holds money as agent of an insurance undertaking then the firm's clients (who are not insurance undertakings) will be adequately protected to the extent that the premiums which it receives are treated as being received by the insurance undertaking when they are received by the agent and claims money and premium refunds will only be treated as received by the client when they are actually paid over. The rules in CASS 5.2 make provision for agency agreements between firms and insurance undertakings to contain terms which make clear when money should be held by a firm as agent of an undertaking. Firms should refer to CASS 5.1.5 R to determine the circumstances in which they may treat money held on behalf of insurance undertakings as client money.
+CASS 5.2.2
+14/01/2005
+G
+(1) Agency agreements between insurance intermediaries and insurance undertakings may be of a general kind and facilitate the introduction of business to the insurance undertaking. Alternatively, an agency agreement may confer on the intermediary contractual authority to commit the insurance undertaking to risk or authority to settle claims or handle premium refunds (often referred to as "binding authorities"). CASS 5.2.3 R requires that binding authorities of this kind must provide that the intermediary is to act as the agent of the insurance undertaking for the purpose of receiving and holding premiums (if the intermediary has authority to commit the insurance undertaking to risk), claims monies (if the intermediary has authority to settle claims on behalf of the insurance undertaking) and premium refunds (if the intermediary has authority to make refunds of premium on behalf of the insurance undertaking). Accordingly such money is not, except where a firm and an insurance undertaking have in compliance with CASS 5.1.5A R agreed otherwise, client money for the purposes of CASS 5.
+(2) Other introductory agency agreements may also, depending on their precise terms, satisfy some or all of the requirements of the type of written agreement described in CASS 5.2.3 R. It is desirable that an intermediary should, before informing its clients (in accordance with CASS 5.2.3 R (3)) that it will receive money as agent of an insurance undertaking, agree the terms of that notification with the relevant insurance undertakings.
+Requirement for written agreement before acting as agent of an insurance undertaking
+CASS 5.2.3
+01/10/2018
+R
+(1) A firm must not agree to:
+(a) deal in investments as agent for an insurance undertaking in connection with an insurance distribution activity; or
+(b) act as agent for an insurance undertaking for the purpose of settling claims or handling premium refunds; or
+(c) otherwise receive money as agent of an insurance undertaking;
+unless:
+(d) it has entered into a written agreement with the insurance undertaking to that effect; and
+(e) it is satisfied on reasonable grounds that the terms of the policies issued by the insurance undertaking to the firm's clients are likely to be compatible with such an agreement; and
+(f)
+(i) (in the case of (a)) the agreement required by (d) expressly provides for the firm to act as agent of the insurance undertaking for the purpose of receiving premiums from the firm's clients; and
+(ii) (in the case of (b)) the agreement required by (d) expressly provides for the firm to act as agent of the insurance undertaking for the purpose of receiving and holding claims money (or, as the case may be, premium refunds) prior to transmission to the client making the claim (or, as the case may be, entitled to the premium refund) in question.
+(2) A firm must retain a copy of any agreement it enters pursuant to (1) for a period of at least six years from the date on which it is terminated.
+(3) Where a firm holds, or is to hold, money as agent for an insurance undertaking it must ensure that it informs those of its clients which are not insurance undertakings and whose transactions may be affected by the arrangement (whether in its terms of business, client agreements or otherwise in writing) that it will hold their money as agent of the insurance undertaking and if necessary the extent of such agency and whether it includes all items of client money or is restricted, for example, to the receipt of premiums.
+(4) A firm may (subject to the consent of the insurance undertaking concerned) include in an agreement in (1) provision for client money received by its appointed representative, field representatives and other agents to be held as agent for the insurance undertaking (in which event it must ensure that the representative or agent provides the information to clients required by (3)).
+CASS 5.2.4
+14/01/2005
+G
+Firms are reminded that CASS 5.1.5A R provides that, if the insurance undertaking has agreed in writing, money held in accordance with an agreement made under CASS 5.2.3 R may be treated as client money and may (but not otherwise) be kept in a client bank account.
+CASS 5.2.5
+14/01/2005
+G
+A firm which provides for the protection of a client(which is not an insurance undertaking) under CASS 5.2 is relieved of the obligation to provide protection for that client under CASS 5.3 or CASS 5.4 to the extent of the items of client money protected by the agency agreement.
+CASS 5.2.6
+14/01/2005
+G
+A firm may, in accordance with CASS 5.2.3 R (4), arrange for an insurance undertaking to accept responsibility for the money held by its appointed representatives, field representatives, and other agents, in which event CASS 5.5.18 R to CASS 5.5.25 G will not apply.
+CASS 5.2.7
+14/01/2005
+G
+A firm may operate on the basis of an agency agreement as provided for by CASS 5.2.3 R for some of its clients and with protection provided by a client money trust in accordance with CASS 5.3 or CASS 5.4 for other clients. A firm may also operate on either basis for the same client but in relation to different transactions. A firm which does so should be satisfied that its administrative systems and controls are adequate and, in accordance with CASS 5.2.4 G, should ensure that money held for both types of client and business is kept separate.
+CASS 5.3 Statutory trust
+CASS 5.3.1
+01/04/2013
+G
+Section 137B(1) of the Act (Miscellaneous ancillary matters) provides that rules may make provision which results in client money being held by a firm on trust (England and Wales and Northern Ireland) or as agent (Scotland only). CASS 5.3.2 R creates a fiduciary relationship between the firm and its client under which client money is in the legal ownership of the firm but remains in the beneficial ownership of the client. In the event of failure of the firm, costs relating to the distribution of client money may have to be borne by the trust.
+CASS 5.3.2
+14/01/2005
+R
+A firm (other than a firm acting in accordance with CASS 5.4) receives and holds client money as trustee (or in Scotland as agent) on the following terms:
+(1) for the purposes of and on the terms of CASS 5.3, CASS 5.5 and the client money (insurance) distribution rules;
+(2) subject to (4), for the clients (other than clients which are insurance undertakings when acting as such) for whom that money is held, according to their respective interests in it;
+(3) after all valid claims in (2) have been met, for clients which are insurance undertakings according to their respective interests in it;
+(4) on the failure of the firm, for the payment of the costs properly attributable to the distribution of the client money in accordance with (2) and (3); and
+(5) after all valid claims and costs under (2) to (4) have been met, for the firm itself.
+CASS 5.3.3
+14/01/2005
+G
+(1) A firm which holds client money can discharge its obligation to ensure adequate protection for its clients in respect of such money by complying with CASS 5.3 which provides for such money to be held by the firm on the terms of a trust imposed by the rules.
+(2) The trust imposed by CASS 5.3 is limited to a trust in respect of client money which a firm receives and holds. The consequential and supplementary requirements in CASS 5.5 are designed to secure the proper segregation and maintenance of adequate client money balances. In particular, CASS 5.5 does not permit a firm to use client money balances to provide credit for clients (or potential clients) such that, for example, their premium obligations may be met in advance of the premium being remitted to the firm. A firm wishing to provide credit for clients may however do so out of its own funds.
+CASS 5.4 Non-statutory client money trust
+Introduction
+CASS 5.4.1
+06/04/2010
+G
+(1) CASS 5.4 permits a firm, which has adequate resources, systems and controls, to declare a trust on terms which expressly authorise it, in its capacity as trustee, to make advances of credit to the firm's clients. The client money trust required by CASS 5.4 extends to such debt obligations which will arise if the firm, as trustee, makes credit advances, to enable a client's premium obligations to be met before the premium is remitted to the firm and similarly if it allows claims and premium refunds to be paid to the client before receiving remittance of those monies from the insurance undertaking.
+(2) CASS 5.4 does not permit a firm to make advances of credit to itself out of the client money trust. Accordingly, CASS 5.4 does not permit a firm to withdraw commission from the client money trust before it has received the premium from the client in relation to the non-investment insurance contract which generated the commission.
+Voluntary nature of this section
+CASS 5.4.2
+14/01/2005
+R
+A firm may elect to comply with the requirements in this section, and may do so for some of its business whilst complying with CASS 5.3 for other parts.
+CASS 5.4.3
+14/01/2005
+R
+A firm is not subject to CASS 5.3 when and to the extent that it acts in accordance with this section.
+Conditions for using the non-statutory client money trust
+CASS 5.4.4
+01/01/2007
+R
+A firm may not handle client money in accordance with the rules in this section unless each of the following conditions is satisfied:
+(1) the firm must have and maintain systems and controls which are adequate to ensure that the firm is able to monitor and manage its client money transactions and any credit risk arising from the operation of the trust arrangement and, if in accordance with CASS 5.4.2 R a firm complies with both the rules in CASS 5.3 and CASS 5.4, such systems and controls must extend to both arrangements;
+(2) the firm must obtain, and keep current, written confirmation from its auditor that it has in place systems and controls which are adequate to meet the requirements in (1);
+(3) the firm must designate a manager with responsibility for overseeing the firm's day to day compliance with the systems and controls in (1) and the rules in this section;
+(4) the firm (if, under the terms of the non-statutory trust, it is to handle client money for retail customers) must have and at all times maintain capital resources of not less than £50,000 calculated in accordance with MIPRU 4.4.1 R; and
+(5) in relation to each of the clients for whom the firm holds money in accordance with CASS 5.4, the firm must take reasonable steps to ensure that its terms of business or other client agreements adequately explain, and obtain the client's informed consent to, the firm holding the client's money in accordance with CASS 5.4 (and in the case of a client which is an insurance undertaking (when acting as such) there must be an agreement which satisfies CASS 5.1.5A R).
+CASS 5.4.5
+01/01/2007
+G
+The amount of a firm's capital resources maintained for the purposes of MIPRU 4.2.11 R will also satisfy (in whole or in part) the requirement in CASS 5.4.4 R (4).
+Client money to be received under the non-statutory client money trust
+CASS 5.4.6
+14/01/2005
+R
+Except to the extent that a firm acts in accordance with CASS 5.3, a firm must not receive or hold any client money unless it does so as trustee (or, in Scotland, as agent) and has properly executed a deed (or equivalent formal document) to that effect.
+Contents of trust deed
+CASS 5.4.7
+14/01/2005
+R
+The deed referred to in CASS 5.4.6 R must provide that the money (and, if appropriate, designated investments) are held:
+(1) for the purposes of and on the terms of:
+(a) CASS 5.4;
+(b) the applicable provisions of CASS 5.5; and
+(c) the client money (insurance) distribution rules
+(2) subject to (4), for the clients (other than clients which are insurance undertakings when acting as such) for whom that money is held, according to their respective interests in it;
+(3) after all valid claims in (2) have been met for clients which are insurance undertakings according to their respective interests in it;
+(4) on failure of the firm, for the payment of the costs properly attributable to the distribution of the client money in accordance with (2) and (3); and
+(5) after all valid claims and costs under (2) to (4) have been met, for the firm itself.
+CASS 5.4.8
+14/01/2005
+R
+The deed (or equivalent formal document) referred to in CASS 5.4.6 R may provide that:
+(1) the firm, acting as trustee (or, in Scotland, as agent), has power to make advances or give credit to clients or insurance undertakings from client money, provided that it also provides that any debt or other obligation of a client or resulting obligation of an insurance undertaking, in relation to an advance or credit, is held on the same terms as CASS 5.4.7 R;
+(2) the benefit of a letter of credit or unconditional guarantee provided by an approved bank on behalf of a firm to satisfy any shortfall in the firm's client money resource (as calculated under CASS 5.5.65 R) when compared with the firm's client money requirement (as calculated under CASS 5.5.66 R or as appropriate CASS 5.5.68 R), is held on the same terms as CASS 5.4.7 R.
+CASS 5.5 Segregation and the operation of client money accounts
+Application
+CASS 5.5.1
+14/01/2005
+R
+Unless otherwise stated each of the provisions in CASS 5.5 applies to firms which are acting in accordance with CASS 5.3 (Statutory trust) or CASS 5.4 (Non-statutory trust).
+CASS 5.5.2
+14/01/2005
+G
+One purpose of CASS 5.5 is to ensure that, unless otherwise permitted, client money is kept separate from the firm's own money. Segregation, in the event of a firm's failure, is important for the effective operation of the trust that is created to protect client money. The aim is to clarify the difference between client money and general creditors' entitlements in the event of the failure of the firm.
+Requirement to segregate
+CASS 5.5.3
+14/01/2005
+R
+A firm must, except to the extent permitted by CASS 5.5, hold client money separate from the firm's money.
+Money due to a client from a firm
+CASS 5.5.4
+14/01/2005
+R
+If a firm is liable to pay money to a client, it must as soon as possible, and no later than one business day after the money is due and payable:
+(1) pay it into a client bank account, in accordance with CASS 5.5.5 R; or
+(2) pay it to, or to the order of, the client.
+Segregation
+CASS 5.5.5
+14/01/2005
+R
+A firm must segregate client money by either:
+(1) paying it as soon as is practicable into a client bank account; or
+(2) paying it out in accordance with CASS 5.5.80 R.
+CASS 5.5.6
+01/04/2013
+G
+The FCA expects that in most circumstances it will be practicable for a firm to pay client money into a client bank account by not later than the next business day after receipt.
+CASS 5.5.7
+06/01/2008
+G
+Where an insurance transaction involves more than one firm acting in a chain such that for example money is transferred from a "producing" broker who has received client money from a consumer to an intermediate broker and thereafter to an insurance undertaking, each broker firm will owe obligations to its immediate client to segregate client money which it receives (in this example the producing broker in relation to the consumer and the intermediate broker in relation to the producing broker). A firm which allows a third party broker to hold or control client money will not thereby be relieved of its fiduciary obligations (see CASS 5.5.34 R).
+CASS 5.5.8
+14/01/2005
+R
+A firm may segregate client money in a different currency from that of receipt. If it does so, the firm must ensure that the amount held is adjusted at intervals of not more than twenty five business days to an amount at least equal to the original currency amount (or the currency in which the firm has its liability to its clients, if different), translated at the previous day's closing spot exchange rate.
+CASS 5.5.9
+14/01/2005
+R
+A firm must not hold money other than client money in a client bank account unless it is:
+(1) a minimum sum required to open the account, or to keep it open; or
+(2) money temporarily in the account in accordance with CASS 5.5.16 R (Withdrawal of commission and mixed remittance); or
+(3) interest credited to the account which exceeds the amount due to clients as interest and has not yet been withdrawn by the firm.
+CASS 5.5.10
+14/01/2005
+R
+If it is prudent to do so to ensure that client money is protected (and provided that doing so would otherwise be in accordance with CASS 5.5.63 R (1)(b)(ii)), a firm may pay into, or maintain in, a client bank account money of its own, and that money will then become client money for the purposes of CASS 5 and the client money (insurance) distribution rules.
+CASS 5.5.11
+14/01/2005
+R
+A firm, when acting in accordance with CASS 5.3 (statutory trust), must ensure that the total amount of client money held for each client in any of the firm's client money bank accounts is positive and that no payment is made from any such account for the benefit of a client unless the client has provided the firm with cleared funds to enable the payment to be made.
+CASS 5.5.11A
+14/01/2005
+G
+When a firm acts in accordance with CASS 5.3 (Statutory trust) it should not make a payment from the client bank account unless it is satisfied on reasonable grounds that the client has provided it with cleared funds. Accordingly, a firm should normally allow a reasonable period of time for cheques to clear. If a withdrawal is made and the client's cheque is subsequently dishonoured it will be the firm's responsibility to make good the shortfall in the account as quickly as possible (and without delay whilst a cheque is re-presented).
+CASS 5.5.12
+14/01/2005
+R
+If client money is received by the firm in the form of an automated transfer, the firm must take reasonable steps to ensure that:
+(1) the money is received directly into a client bank account; and
+(2) if money is received directly into the firm's own account, the money is transferred into a client bank account no later than the next business day after receipt.
+CASS 5.5.13
+14/01/2005
+G
+A firm can hold client money in either a general client bank account (CASS 5.5.38 R) or a designated client bank account (CASS 5.5.39 R). A firm holds all client money in general client bank accounts for its clients as part of a common pool of money so those particular clients do not have a claim against a specific sum in a specific account; they only have a claim to the client money in general. A firm holds client money in designated client bank accounts for those clients who requested that their client money be part of a specific pool of money, so those particular clients do have a claim against a specific sum in a specific account; they do not have a claim to the client money in general unless a primary pooling event occurs. If the firm becomes insolvent, and there is (for whatever reason) a shortfall in money held for a client compared with that client's entitlements, the available funds will be distributed in accordance with the client money (insurance) distribution rules.
+Non-statutory trust - segregation of designated investments
+CASS 5.5.14
+06/01/2008
+R
+(1) A firm which handles client money in accordance with the rules for a non-statutory trust in CASS 5.4 may, to the extent it considers appropriate, but subject to (2), satisfy the requirement to segregate client money by segregating or arranging for the segregation of designated investments with a value at least equivalent to such money as would otherwise have been segregated into a client bank account.
+(2) A firm may not segregate designated investments unless it:
+(a) takes reasonable steps to ensure that any consumers whose client money interests may be protected by such segregation are aware that the firm may operate such an arrangement and have (whether through its terms of business, client agreements, or otherwise in writing) an adequate opportunity to give their informed consent;
+(b) ensures that the terms on which it will segregate designated investments include provision for it to take responsibility for meeting any shortfall in its client money resource which is attributable to falls in the market value of a segregated investment;
+(c) provides in the deed referred to in CASS 5.4.6 R for designated investments which it segregates to be held by it on the terms of the non-statutory trust; and
+(d) takes reasonable steps to ensure that the segregation is at all times in conformity with the range of permitted investments, general principles and conditions in CASS 5 Annex 1 R.
+CASS 5.5.15
+14/01/2005
+G
+A firm which takes advantage of CASS 5.5.14 R will need to consider whether its permission should include the permitted activity of managing investments. If the firm is granted a power to manage with discretion the funds over which it is appointed as trustee under the trust deed required by CASS 5.4 then it will be likely to need a permission to manage investments. It is unlikely to need such a permission, however, if it is merely granted a power to invest but the deed stipulates that the funds may only be managed with discretion by another firm (which has the necessary permission). Such an arrangement would not preclude the firm holding client money as trustee from appointing another firm (or firms) as manager and setting an appropriate strategy and overall asset allocation, subject to the limits set out in CASS 5 Ann 1 R. A firm may also need to consider whether it needs a permission to operate a collective investment scheme if any of its clients are to participate in the income or gains arising from the acquisition or disposal of designated investments.
+Withdrawal of commission and mixed remittance
+CASS 5.5.16
+14/01/2005
+R
+(1) A firm may draw down commission from the client bank account if:
+(a) it has received the premium from the client (or from a third party premium finance provider on the client's behalf); and
+(b) this is consistent with the firm's terms of business which it maintains with the relevant client and the insurance undertaking to whom the premium will become payable;
+and the firm may draw down commission before payment of the premium to the insurance undertaking, provided that the conditions in (a) and (b) are satisfied.
+(2) If a firm receives a mixed remittance (that is part client money and part other money), it must:
+(a) pay the full sum into a client bank account in accordance with CASS 5.5.5 R; and
+(b) pay the money that is not client money out of the client bank account as soon as reasonably practicable and in any event by not later than twenty-five business days after the day on which the remittance is cleared (or, if earlier, when the firm performs the client money calculation in accordance with CASS 5.5.63 R (1)).
+CASS 5.5.17
+14/01/2005
+G
+(1) As soon as commission becomes due to the firm (in accordance with CASS 5.5.16 R (1)) it must be treated as a remittance which must be withdrawn in accordance with CASS 5.5.16 R (2). The procedure required by CASS 5.5.16 R will also apply where money is due and payable to the firm in respect of fees due from clients (whether to the firm or other professionals).
+(2) Firms are reminded that money received in accordance with CASS 5.2 must not, except where a firm and an insurance undertaking have (in accordance with CASS 5.1.5A R) agreed otherwise, be kept in a client bank account. Client money received from a third-party premium finance provider should, however, be segregated into a client bank account.
+(3) Where a client makes payments of premium to a firm in instalments, CASS 5.5.16 R (1) applies in relation to each instalment.
+(4) If a firm is unable to match a remittance with a transaction it may be unable to immediately determine whether the payment comprises a mixed remittance or is client money. In such cases the remittance should be treated as client money while the firm takes steps to match the remittance to a transaction as soon as possible.
+Appointed representatives, field representatives and other agents
+CASS 5.5.18
+06/04/2010
+R
+(1) Subject to (4), a firm must in relation to each of its appointed representatives, field representatives and other agents comply with CASS 5.5.19 R to CASS 5.5.21 R (Immediate segregation) or with CASS 5.5.23 R (Periodic segregation and reconciliation).
+(2) A firm must in relation to each representative or other agent keep a record of whether it is complying with CASS 5.5.19 R to CASS 5.5.21 R or with CASS 5.5.23 R.
+(3) A firm is, but without affecting the application of CASS 5.5.19 R to CASS 5.5.23 R, to be treated as the recipient of client money which is received by any of its appointed representatives, field representatives or other agents.
+(4) Paragraphs (1) to (3) do not apply in relation to an appointed representative, field representative or other agent to which (if it were a firm) CASS 5.1.4AR (1) or CASS 5.1.4AR (2) would apply, but subject to the representative or agent maintaining an account which satisfies the requirements of CASS 5.5.49 R to the extent that the representative or agent will hold client money on trust or otherwise on behalf of its clients.
+Immediate segregation
+CASS 5.5.19
+14/01/2005
+R
+A firm must establish and maintain procedures to ensure that client money received by its appointed representatives, field representatives, or other agents of the firm is:
+(1) paid into a client bank account of the firm in accordance with CASS 5.5.5 R; or
+(2) forwarded to the firm, or in the case of a field representative forwarded to a specified business address of the firm, so as to ensure that the money arrives at the specified business address by the close of the third business day.
+CASS 5.5.20
+14/01/2005
+G
+For the purposes of CASS 5.5.19 R, the client money received on business day one should be forwarded to the firm or specified business address of the firm no later than the next business day after receipt (business day two) in order for it to reach that firm or specified business address by the close of the third business day. Procedures requiring the client money to be sent to the firm or the specified business address of the firm by first class post no later than the next business day after receipt would meet the requirements of CASS 5.5.19 R.
+CASS 5.5.21
+14/01/2005
+R
+If client money is received in accordance with CASS 5.5.19 R, the firm must ensure that its appointed representatives, field representatives or other agents keep client money (whether in the form of premiums, claims money or premium refunds) separately identifiable from any other money (including that of the firm) until the client money is paid into a client bank account or sent to the firm.
+CASS 5.5.22
+14/01/2005
+G
+A firm which acts in accordance with CASS 5.5.19 R to CASS 5.5.21 R need not comply with CASS 5.5.23 R.
+Periodic segregation and reconciliation
+CASS 5.5.23
+14/01/2005
+R
+(1) A firm must, on a regular basis, and at reasonable intervals, ensure that it holds in its client bank account an amount which (in addition to any other amount which it is required by these rules to hold) is not less than the amount which it reasonably estimates to be the aggregate of the amounts held at any time by its appointed representatives, field representatives, and other agents.
+(2) A firm must, not later than ten business days following the expiry of each period in (1):
+(a) carry out, in relation to each such representative or agent, a reconciliation of the amount paid by the firm into its client bank account with the amount of client money actually received and held by the representative or other agent; and
+(b) make a corresponding payment into, or withdrawal from, the account.
+CASS 5.5.24
+14/01/2005
+G
+(1) CASS 5.5.23 R allows a firm with appointed representatives, field representatives and other agents to avoid the need for the representative to forward client money on a daily basis but instead requires a firm to segregate into its client money bank account amounts which it reasonably estimates to be sufficient to cover the amount of client money which the firm expects its representatives or agents to receive and hold over a given period. At the expiry of each such period, the firm must obtain information about the actual amount of client money received and held by its representatives so that it can reconcile the amount of client money it has segregated with the amounts actually received and held by its representatives and agents. The frequency at which this reconciliation is to be performed is not prescribed but it must be at regular and reasonable intervals having regard to the nature and frequency of the insurance business carried on by its representatives and agents. For example, a period of six months might be appropriate for a representative which conducts business involving the receipt of premiums only infrequently whilst for other representatives a periodic reconciliation at monthly intervals (or less) may be appropriate.
+(2) Where a firm operates on the basis of CASS 5.5.23 R, the money which is segregated into its client bank account is client money and will be available to meet any obligations owed to the clients of its representatives who for this purpose are treated as the firm'sclients.
+CASS 5.5.25
+14/01/2005
+G
+A firm which acts in accordance with CASS 5.5.23 R need not comply with CASS 5.5.19 R to CASS 5.5.21 R.
+Client entitlements
+CASS 5.5.26
+14/01/2005
+R
+A firm must take reasonable steps to ensure that it is notified promptly of any receipt of client money in the form of client entitlements.
+CASS 5.5.27
+14/01/2005
+G
+The 'entitlements' mentioned in CASS 5.5.26 R refer to any kind of miscellaneous payment which the firm receives on behalf of a client and which are due to be paid to the client.
+CASS 5.5.28
+14/01/2005
+R
+When a firm receives a client entitlement on behalf of a client, it must pay any part of it which is client money:
+(1) for client entitlements received in the United Kingdom, into a client bank account in accordance with CASS 5.5.5 R; or
+(2) for client entitlements received outside the United Kingdom, into any bank account operated by the firm, provided that such client money is:
+(a) paid to, or in accordance with, the instructions of the client concerned; or
+(b) paid into a client bank account in accordance with CASS 5.5.5 R (1), as soon as possible but no later than five business days after the firm is notified of its receipt.
+CASS 5.5.29
+14/01/2005
+R
+A firm must take reasonable steps to ensure that a client entitlement which is client money is allocated within a reasonable period of time after notification of receipt.
+Interest and investment returns
+CASS 5.5.30
+01/10/2018
+R
+(1) In relation to consumers, a firm must, subject to (2), take reasonable steps to ensure that its terms of business or other client agreements adequately explain, and where necessary obtain a client's informed consent to, the treatment of interest and, if applicable, investment returns, derived from its holding of client money and any segregated designated investments.
+(2) In respect of interest earned on client bank accounts, (1) does not apply if a firm has reasonable ground to be satisfied that in relation to insurance distribution activities carried on with or for a consumer the amount of interest earned will be not more than £20 per transaction.
+CASS 5.5.31
+06/01/2008
+G
+If no interest is payable to a consumer, that fact should be separately identified in the firm's client agreement or terms of business.
+CASS 5.5.32
+01/01/2022
+G
+If a firm outlines its policy on its payment of interest, it need not necessarily disclose the actual rates prevailing at any particular time; the firm should disclose the terms, for example, the relevant reference rate plus or minus 'x' percentage points.
+Transfer of client money to a third party
+CASS 5.5.33
+14/01/2005
+G
+CASS 5.5.34 R sets out the requirements a firm must comply with when it transfers client money to another person without discharging its fiduciary duty owed to that client. Such circumstances arise when, for example, a firm passes client money to another broker for the purposes of the client's transaction being effected. A firm can only discharge itself from its fiduciary duty by acting in accordance with, and in the circumstances permitted by, CASS 5.5.80 R.
+CASS 5.5.34
+06/01/2008
+R
+A firm may allow another person, such as another broker to hold or control client money, but only if:
+(1) the firm transfers the client money for the purpose of a transaction for a client through or with that person; and
+(2) in the case of a consumer, that customer has been notified (whether through a client agreement, terms of business, or otherwise in writing) that the client money may be transferred to another person.
+CASS 5.5.35
+14/01/2005
+G
+In relation to the notification required by CASS 5.5.34 R (2), there is no need for a firm to make a separate disclosure in relation to each transfer made.
+CASS 5.5.36
+14/01/2005
+G
+A firm should not hold excess client money with another broker. It should be held in a client bank account.
+Client bank accounts
+CASS 5.5.37
+01/04/2013
+G
+The FCA generally requires a firm to place client money in a client bank account with an approved bank. However, a firm which is an approved bank must not (subject to CASS 5.1.1 R (2)(e)) hold client money in an account with itself.
+CASS 5.5.38
+14/01/2005
+R
+(1) A firm must ensure that client money is held in a client bank account at one or more approved banks.
+(2) If the firm is a bank, it must not hold client money in an account with itself.
+CASS 5.5.39
+14/01/2005
+R
+A firm may open one or more client bank accounts in the form of a designated client bank account. Characteristics of these accounts are that:
+(1) the account holds money of one or more clients;
+(2) the account includes in its title the word 'designated';
+(3) the clients whose money is in the account have each consented in writing to the use of the bank with which the client money is to be held; and
+(4) in the event of the failure of that bank, the account is not pooled with any other type of account unless a primary pooling event occurs.
+CASS 5.5.40
+14/01/2005
+G
+(1) A firm may operate as many client accounts as it wishes.
+(2) A firm is not obliged to offer its clients the facility of a designated client bank account.
+(3) Where a firm holds money in a designated client bank account, the effect upon either:
+(a) the failure of a bank where any other client bank account is held; or
+(b) the failure of a third party to whom money has been transferred out of any other client bank account in accordance with CASS 5.5.34 R;
+(each of which is a secondary pooling event) is that money held in the designated client bank account is not pooled with money held in any other account. Accordingly clients whose money is held in a designated client bank account will not share in any shortfall resulting from a failure of the type described in (a) or (b).
+(4) Where a firm holds client money in a designated client bank account, the effect upon the failure of the firm (which is a primary pooling event ) is that money held in the designated client bank account is pooled with money in every other client bank account of the firm. Accordingly, clients whose money is held in a designated client bank account will share in any shortfall resulting from a failure of the firm.
+CASS 5.5.41
+06/01/2008
+R
+A firm may hold client money with a bank that is not an approved bank if all the following conditions are met:
+(1) the client money relates to one or more insurance transactions which are subject to the law or market practice of a jurisdiction outside the United Kingdom;
+(2) because of the applicable law or market practice of that overseas jurisdiction, it is not possible to hold the client money in a client bank account with an approved bank;
+(3) the firm holds the money with such a bank for no longer than is necessary to effect the transactions;
+(4) the firm notifies each relevant client and has, in relation to a consumer, a client agreement, or terms of business which adequately explain that:
+(a) client money will not be held with an approved bank;
+(b) in such circumstances, the legal and regulatory regime applying to the bank with which the client money is held will be different from that of the United Kingdom and, in the event of a failure of the bank, the client money may be treated differently from the treatment which would apply if the client money were held by an approved bank in the United Kingdom; and
+(c) if it is the case, the particular bank has not accepted that it has no right of set-off or counterclaim against money held in a client bank account, in respect of any sum owed on any other account of the firm, notwithstanding the firm's request to the bank as required by CASS 5.5.49 R; and
+(5) the client money is held in a designated bank account.
+A firm's selection of a bank
+CASS 5.5.42
+14/01/2005
+G
+A firm owes a duty of care to a client when it decides where to place client money. The review required by CASS 5.5.43 R is intended to ensure that the risks inherent in placing client money with a bank are minimised or appropriately diversified by requiring a firm to consider carefully the bank or banks with which it chooses to place client money. For example, a firm which is likely only to hold relatively modest amounts of client money will be likely to be able to satisfy this requirement if it selects an authorised UK clearing bank.
+CASS 5.5.43
+14/01/2005
+R
+Before a firm opens a client bank account and as often as is appropriate on a continuing basis (and no less than once in each financial year), it must take reasonable steps to establish that the bank is appropriate for that purpose.
+CASS 5.5.44
+14/01/2005
+G
+A firm should consider diversifying placements of client money with more than one bank where the amounts are, for example, of sufficient size to warrant such diversification.
+CASS 5.5.45
+14/01/2005
+G
+When considering where to place client money and to determine the frequency of the appropriateness test under CASS 5.5.43 R, a firm should consider taking into account, together with any other relevant matters:
+(1) the capital of the bank;
+(2) the amount of client money placed, as a proportion of the bank's capital and deposits;
+(3) the credit rating of the bank (if available); and
+(4) to the extent that the information is available, the level of risk in the investment and loan activities undertaken by the bank and its affiliated companies.
+CASS 5.5.46
+01/01/2021
+G
+A firm will be expected to perform due diligence when opening a client bank account with a bank that is authorised in the United Kingdom. Any continuing assessment of that bank may be restricted to verification that it remains authorised in the United Kingdom.
+Group banks
+CASS 5.5.47
+01/11/2007
+R
+Subject to CASS 5.5.41 R, a firm that holds or intends to hold client money with a bank which is in the same group as the firm must:
+(1) undertake a continuous review in relation to that bank which is at least as rigorous as the review of any bank which is not in the same group, in order to ensure that the decision to use a group bank is appropriate for the client;
+(2) disclose in writing to its client at the outset of the client relationship (whether by way of a client agreement, terms of business or otherwise in writing) or, if later, not less than 20 business days before it begins to hold client money of that client with that bank:
+(a) that it is holding or intends to hold client money with a bank in the same group;
+(b) the identity of the bank concerned; and
+(c) that the client may choose not to have his money placed with such a bank.
+CASS 5.5.48
+14/01/2005
+R
+If a client has notified a firm in writing that he does not wish his money to be held with a bank in the same group as the firm, the firm must either:
+(1) place that client money in a client bank account with another bank in accordance with CASS 5.5.38 R; or
+(2) return that client money to, or pay it to the order of, the client.
+Notification and acknowledgement of trust (banks)
+CASS 5.5.49
+14/01/2005
+R
+When a firm opens a client bank account, the firm must give or have given written notice to the bank requesting the bank to acknowledge to it in writing:
+(1) that all money standing to the credit of the account is held by the firm as trustee (or if relevant in Scotland, as agent) and that the bank is not entitled to combine the account with any other account or to exercise any right of set-off or counterclaim against money in that account in respect of any sum owed to it on any other account of the firm; and
+(2) that the title of the account sufficiently distinguishes that account from any account containing money that belongs to the firm, and is in the form requested by the firm.
+CASS 5.5.50
+14/01/2005
+R
+In the case of a client bank account in the United Kingdom, if the bank does not provide the acknowledgement referred to in CASS 5.5.49 R within 20 business days after the firm dispatched the notice, the firm must withdraw all money standing to the credit of the account and deposit it in a client bank account with another bank as soon as possible.
+CASS 5.5.51
+14/01/2005
+R
+In the case of a client bank account outside the United Kingdom, if the bank does not provide the acknowledgement referred to in CASS 5.5.49 R within 20 business days after the firm dispatched the notice, the firm must notify the client of this fact as set out in CASS 5.5.53 R.
+CASS 5.5.52
+14/01/2005
+G
+Firms are reminded of the provisions of CASS 5.5.41 R (4), which sets out the notification and consents required when using a bank that is not an approved bank.
+Notification to clients: use of an approved bank outside the United Kingdom
+CASS 5.5.53
+06/01/2008
+R
+A firm must not hold, for a consumer, client money in a client bank account outside the United Kingdom, unless the firm has previously disclosed to the consumer (whether in its terms of business, client agreement or otherwise in writing):
+(1) that his money may be deposited in a client bank account outside the United Kingdom but that the client may notify the firm that he does not wish his money to be held in a particular jurisdiction;
+(2) that in such circumstances, the legal and regulatory regime applying to the approved bank will be different from that of the United Kingdom and, in the event of a failure of the bank, his money may be treated in a different manner from that which would apply if the client money were held by a bank in the United Kingdom; and
+(3) if it is the case, that a particular bank has not accepted that it has no right of set-off or counterclaim against money held in a client bank account in respect of any sum owed on any other account of the firm, notwithstanding the firm's request to the bank as required by CASS 5.5.49 R.
+CASS 5.5.54
+14/01/2005
+G
+There is no need for a firm to make a separate disclosure under CASS 5.5.53 R (1) and CASS 5.5.53 R (2) in relation to each jurisdiction.
+CASS 5.5.55
+14/01/2005
+G
+Firms are reminded of the provisions of CASS 5.5.41 R (4), which sets out the notification and consents required when using a bank that is not an approved bank.
+CASS 5.5.56
+14/01/2005
+R
+If a client has notified a firm in writing before entering into a transaction that client money is not to be held in a particular jurisdiction, the firm must either:
+(1) hold the client money in a client bank account in a jurisdiction to which the client has not objected; or
+(2) return the client money to, or to the order of, the client.
+CASS 5.5.57
+14/01/2005
+G
+Firms are reminded of the provisions of CASS 5.5.41 R (4), which sets out the notification and consents required when using a bank that is not an approved bank.
+Notification to consumers: use of broker or settlement agent outside the United Kingdom
+CASS 5.5.58
+06/01/2008
+R
+A firm must not undertake any transaction for a consumer that involves client money being passed to another broker or settlement agent located in a jurisdiction outside the United Kingdom, unless the firm has previously disclosed to the consumer (whether in its terms of business, client agreement or otherwise in writing):
+(1) that his client money may be passed to a person outside the United Kingdom but the client may notify the firm that he does not wish his money to be passed to a person in a particular jurisdiction; and
+(2) that, in such circumstances, the legal and regulatory regime applying to the broker or settlement agent will be different from that of the United Kingdom and, in the event of a failure of the broker or settlement agent, this money may be treated in a different manner from that which would apply if the money were held by a broker or settlement agent in the United Kingdom.
+CASS 5.5.59
+14/01/2005
+G
+There is no need for a firm to make a separate disclosure under CASS 5.5.58 R in relation to each jurisdiction.
+CASS 5.5.60
+14/01/2005
+R
+If a client has notified a firm before entering into a transaction that he does not wish his money to be passed to another broker or settlement agent located in a particular jurisdiction, the firm must either:
+(1) hold the client money in a client bank account in the United Kingdom or a jurisdiction to which the money has not objected and pay its own money to the firm's own account with the broker, agent or counterparty; or
+(2) return the money to, or to the order of, the client.
+Notification to the FCA: failure of a bank, broker or settlement agent
+CASS 5.5.61
+01/04/2013
+R
+On the failure of a third party with which client money is held, a firm must notify the FCA:
+(1) as soon as it becomes aware, of the failure of any bank, other broker or settlement agent or other entity with which it has placed, or to which it has passed, client money; and
+(2) as soon as reasonably practical, whether it intends to make good any shortfall that has arisen or may arise and of the amounts involved.
+Client money calculation and reconciliation
+CASS 5.5.62
+14/01/2005
+G
+(1) In order that a firm may check that it has sufficient money segregated in its client bank account (and held by third parties) to meet its obligations to clients it is required periodically to calculate the amount which should be segregated (the client money requirement) and to compare this with the amount shown as its client money resource. This calculation is, in the first instance, based upon the firm's accounting records and is followed by a reconciliation with its banking records. A firm is required to make a payment into the client bank account if there is a shortfall or to remove any money which is not required to meet the firm's obligations.
+(2) For the purpose of calculating its client money requirement two alternative calculation methods are permitted, but a firm must use the same method in relation to CASS 5.3 and CASS 5.4. The first refers to individual client cash balances; the second to aggregate amounts of client money recorded on a firm business ledgers.
+CASS 5.5.63
+14/01/2005
+R
+(1) A firm must, as often as is necessary to ensure the accuracy of its records and at least at intervals of not more than 25 business days:
+(a) check whether its client money resource, as determined by CASS 5.5.65 R on the previous business day, was at least equal to the client money requirement, as determined by CASS 5.5.66 R or CASS 5.5.68 R, as at the close of business on that day; and
+(b) ensure that:
+(i) any shortfall is paid into a client bank account by the close of business on the day the calculation is performed; or
+(ii) any excess is withdrawn within the same time period unless CASS 5.5.9 R or CASS 5.5.10 R applies to the extent that the firm is satisfied on reasonable grounds that it is prudent to maintain a positive margin to ensure the calculation in (a) is satisfied having regard to any unreconciled items in its business ledgers as at the date on which the calculations are performed; and
+(c) include in any calculation of its client money requirement (whether calculated in accordance with CASS 5.5.66 R or CASS 5.5.68 R) any amounts attributable to client money received by its appointed representatives, field representatives or other agents and which, as at the date of calculation, it is required to segregate in accordance with CASS 5.5.19 R.
+(2) A firm must within ten business days of the calculation in (a) reconcile the balance on each client bank account as recorded by the firm with the balance on that account as set out in the statement or other form of confirmation used by the bank with which that account is held.
+(3) When any discrepancy arises as a result of the reconciliation carried out in (2), the firm must identify the reason for the discrepancy and correct it as soon as possible, unless the discrepancy arises solely as a result of timing differences between the accounting systems of the party providing the statement or confirmation and those of the firm.
+(4) While a firm is unable to resolve a difference arising from a reconciliation, and one record or a set of records examined by the firm during its reconciliation indicates that there is a need to have a greater amount of client money than is in fact the case, the firm must assume, until the matter is finally resolved, that the record or set of records is accurate and either pay its own money into a relevant account or make a withdrawal of any excess.
+CASS 5.5.64
+14/01/2005
+R
+A firm must keep a record of whether it calculates its client money requirement in accordance with CASS 5.5.66 R or CASS 5.5.68 R and may only use one method during each annual accounting period (which method must be the same in relation to both CASS 5.3 and CASS 5.4).
+Client money resource
+CASS 5.5.65
+14/01/2005
+R
+The client money resource, for the purposes of CASS 5.5.63 R (1)(a), is:
+(1) the aggregate of the balances on the firm's client money bank accounts, as at the close of business on the previous business day and, if held in accordance with CASS 5.4, designated investments (valued on a prudent and consistent basis) together with client money held by a third party in accordance with CASS 5.5.34 R; and
+(2) (but only if the firm is comparing the client money resource with its client's money (accruals) requirement in accordance with CASS 5.5.68 R) to the extent that client money is held in accordance with CASS 5.3 (statutory trust), insurance debtors (which in this case cannot include pre-funded items); and
+(3) (but only if the firm is comparing the client money resource with its client's money (accruals) requirement in accordance with CASS 5.5.68 R) to the extent that client money is held in accordance with CASS 5.4 (non-statutory trust):
+(a) all insurance debtors (including pre-funded items whether in respect of advance premiums, claims, premium refunds or otherwise) shown in the firm's business ledgers as amounts due from clients, insurance undertakings and other persons, such debts valued on a prudent and consistent basis to the extent required to meet any shortfall of the client money resource compared with the firm's client money requirement; and
+(b) the amount of any letter of credit or unconditional guarantee provided by an approved bank and held on the terms of the trust (or, in Scotland, agency), limited to:
+(i) the maximum sum payable by the approved bank under the letter of credit or guarantee; or
+(ii) if less, the amount which would, apart from the benefit of the letter of credit or guarantee, be the shortfall of the client money resource compared with the client money requirement under CASS 5.5.66 R or CASS 5.5.68 R.
+But a firm may treat a transaction with an insurance undertaking which is not a UK domestic firm as complete, and accordingly may (but only for the purposes of the calculation in (1)) disregard any unreconciled items of client money transferred to an intermediate broker relating to such a transaction, if:
+(4) it has taken reasonable steps to ascertain whether the transaction is complete; and
+(5) it has no reason to consider the transaction has not been completed; and
+(6) a period of at least 12 months has elapsed since the money was transferred to the intermediate broker for the purpose of the transaction.
+Client money (client balance) requirement
+CASS 5.5.66
+14/01/2005
+R
+A firm's client money (client balance) requirement is the sum of, for all clients, the individual client balances calculated in accordance with CASS 5.5.67 R but excluding any individual balances which are negative (that is, uncleared client funds).
+CASS 5.5.67
+14/01/2005
+R
+The individual client balance for each client must be calculated as follows:
+(1) the amount paid by a client to the firm (to include all premiums); plus
+(2) the amount due to the client (to include all claims and premium refunds); plus
+(3) the amount of any interest or investment returns due to the client;
+(4) less the amount paid to insurance undertakings for the benefit of the client (to include all premiums and commission due to itself) (i.e. commissions that are due but have not yet been removed from the client account);
+(5) less the amount paid by the firm to the client (to include all claims and premium refunds);
+and where the individual client balance is found by the sum ((1) + (2) + (3)) - ((4) + (5)).
+Client money (accruals) requirement
+CASS 5.5.68
+14/01/2005
+R
+A firm's client money (accruals) requirement is the sum of the following:
+(1) all insurance creditors shown in the firm's business ledgers as amounts due to insurance undertakings, clients and other persons; plus
+(2) unearned commission being the amount of commission shown as accrued (but not shown as due and payable) as at the date of the calculation (a prudent estimate must be used if the firm is unable to produce an exact figure at the date of the calculation).
+CASS 5.5.69
+14/01/2005
+R
+A firm which calculates its client money requirement on the preceding basis must in addition and within a reasonable period be able to match its client money resource to its requirement by reference to individual clients (with such matching being achieved for the majority of its clients and transactions).
+Failure to perform calculations or reconciliation
+CASS 5.5.76
+01/04/2013
+R
+A firm must notify the FCA immediately if it is unable to, or does not, perform the calculation required by CASS 5.5.63 R (1).
+CASS 5.5.77
+01/04/2013
+R
+A firm must notify the FCA immediately it becomes aware that it may not be able to make good any shortfall identified by CASS 5.5.63 R (1) by the close of business on the day the calculation is performed and if applicable when the reconciliation is completed.
+Discharge of fiduciary duty
+CASS 5.5.79
+06/07/2006
+G
+The purpose of CASS 5.5.80 R to CASS 5.5.83 R is to set out those situations in which a firm will have fulfilled its contractual and fiduciary obligations in relation to any client money held for or on behalf of its client, or in relation to the firm's ability to require repayment of that money from a third party.
+CASS 5.5.80
+02/08/2024
+R
+Money ceases to be client money if it is paid:
+(1) to the client, or a duly authorised representative of the client; or
+(2) to a third party on the instruction of or with the specific consent of the client, but not if it is transferred to a third party in the course of effecting a transaction, in accordance with CASS 5.5.34 R; or
+(3) into a bank account of the client (not being an account which is also in the name of the firm); or
+(4) to the firm itself, when it is due and payable to the firm in accordance with CASS 5.1.5 R (1); or
+(5) to the firm itself, when it is an excess in the client bank account as set out in CASS 5.5.63 R (1)(b)(ii); or
+(6) to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 5.5.85R.
+CASS 5.5.81
+02/08/2024
+G
+(1) A firm which pays professional fees (for example to a loss adjuster or valuer) on behalf of a client may do so in accordance with CASS 5.5.80 R (2) where this is done on the instruction of or with the consent of the client.
+(2) When a firm wishes to transfer client money balances to a third party in the course of transferring its business to another firm, it should do so in compliance with CASS 5.5.80 R and a transferee firm will come under an obligation to treat any client money so transferred in accordance with these rules.
+(3) Firms are reminded of their obligation, when transferring money to third parties in accordance with CASS 5.5.34 R, to use appropriate skill, care and judgment in their selection of third parties in order to ensure adequate protection of client money.
+(4) Firms are reminded that, in order to calculate their client money resource in accordance with CASS 5.5.63 R to CASS 5.5.65 R, they will need to have systems in place to produce an accurate accounting record showing how much client money is being held by third parties at any point in time. For the purposes of CASS 5.5.63 R to CASS 5.5.65 R, however, a firm must assume that monies remain at an intermediate broker awaiting completion of the transaction unless it has received confirmation that the transaction has been completed.
+(5) A payment of client money under section 21 of the Dormant Assets Act 2022 to a dormant asset fund operator that has Part 4A permission for dealing with unwanted asset money would amount to a payment to a third party with the instruction of the client for the purposes of CASS 5.5.80R(2).
+CASS 5.5.82
+14/01/2005
+R
+When a firm draws a cheque or other payable order to discharge its fiduciary duty under CASS 5.5.80 R, it must continue to treat the sum concerned as client money until the cheque or order is presented and paid by the bank.
+CASS 5.5.83
+14/01/2005
+R
+For the purposes of CASS 5.1.5 R, if a firm makes a payment to, or on the instructions of, a client, from an account other than a client bank account, until that payment has cleared, no equivalent sum will become due and payable to the firm or may be withdrawn from a client bank account by way of reimbursement.
+Records
+CASS 5.5.84
+14/01/2005
+R
+A firm must ensure that proper records, sufficient to show and explain the firm's transactions and commitments in respect of its client money, are made and retained for a period of three years after they were made.
+Transfers of client money to a dormant asset fund operator under Part 1 of the Dormant Assets Act 2022
+CASS 5.5.85
+02/08/2024
+R
+A firm may transfer a client money balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022. If it does so the transferred balance will cease to be client money under CASS 5.5.80R(6), provided that the firm can demonstrate it took reasonable steps to trace the client concerned and to return the balance prior to making such a transfer.
+CASS 5.5.86
+02/08/2024
+E
+(1)
+(a) This paragraph applies where the balance of client money in question is of a minimal amount. For these purposes, a ‘minimal amount’ means either:
+(i) in respect of a balance held for a consumer, £25 or less in aggregate; or
+(ii) in respect of a balance held for a commercial customer, £100 or less in aggregate.
+(b) Where the balance of client money in question is of a minimal amount, taking reasonable steps in CASS 5.5.85R includes the firm making at least one attempt to contact the client to return the balance (using the most up-to-date contact details the firm has for the client) and allowing the client 28 days to respond.
+(2) This paragraph applies in all other cases where paragraph (1) does not apply. In all other such cases, taking reasonable steps in CASS 5.5.85R includes following this course of conduct:
+(a) determining, as far as reasonably possible, the correct contact details for the relevant client;
+(b) writing to the client at the last known address either by post or by electronic mail to inform it of the firm’s intention to no longer treat the client money balance as client money and to transfer the sums concerned to a dormant asset fund operator if the firm does not receive instructions from the client within 28 days (naming the specific relevant dormant asset fund operator);
+(c) where the client has not responded after the 28 days referred to in (b), attempting to communicate the information set out in (b) to the client on at least one further occasion by any means other than that used in (b), including by post, electronic mail, telephone or media advertisement;
+(d) subject to (e) and (f), where the client has not responded within 28 days following the most recent communication, writing again to the client at the last known address either by post or by electronic mail to inform them:
+(i) that, as the firm did not receive a claim for the relevant client money balance, it will in 28 days transfer the balance to a dormant asset fund operator (naming the specific relevant dormant asset fund operator); and
+(ii) of the steps that they must take to make a repayment claim;
+(e) if the firm has carried out the steps in (b) or (c) and in response has received positive confirmation in writing that the client is no longer at a particular address, the firm should not use that address for the purposes of (d);
+(f) if, after carrying out the steps in (a), (b) and (c), the firm has obtained positive confirmation that none of the contact details it holds for the relevant client are accurate or, if utilised, the communication is unlikely to reach the client, the firm does not have to comply with (d); and
+(g) waiting a further 28 days following the most recent communication under this rule before transferring the balance to the dormant asset fund operator.
+(3) Compliance with (1) or (2) (as applicable) may be relied on as tending to establish compliance with CASS 5.5.85R.
+(4) Contravention of (1) or (2) (as applicable) may be relied on as tending to establish contravention of CASS 5.5.85R.
+CASS 5.5.87
+02/08/2024
+G
+(1) Unless the firm has failed and CASS 5.3.2R(4) or CASS 5.4.7R(4) applies (as applicable), any costs associated with a firm ceasing to treat unclaimed client money balances as client money pursuant to CASS 5.5.85R should be paid for from the firm’s own funds.
+(2) When transferring a client money balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022, a firm will need to consider its obligations under any contractual or other arrangements of the sort described at section 23 of the Dormant Assets Act 2022 in addition to meeting its obligations under the client money rules and the client money (insurance) distribution rules.
+CASS 5.6 Client money distribution
+Application
+CASS 5.6.1
+14/01/2005
+R
+(1) CASS 5.6 (the client money (insurance) distribution rules) applies to a firm that in holding client money is subject to CASS 5.3 (statutory trust) or CASS 5.4 (Non-statutory trust) when a primary pooling event or a secondary pooling event occurs.
+(2) In the event of there being any discrepancy between the terms of the trust as required by CASS 5.4.7 R (1)(c) and the provisions of CASS 5.6, the latter shall apply.
+CASS 5.6.2
+01/01/2021
+G
+(1) The client money (insurance) distribution rules have force and effect on any firm that holds client money in accordance with CASS 5.3 or CASS 5.4. Therefore, they may apply to a UK branch of a an overseas firm. In this case, the UK branch of the firm may be treated as if the branch itself is a free-standing entity subject to the client money (insurance) distribution rules.
+(2) Firms that act in accordance with CASS 5.4 (Non-statutory trust) are reminded that the client money (insurance) distribution rules should be given effect in the terms of trust required by CASS 5.4.
+Purpose
+CASS 5.6.3
+14/01/2005
+G
+The client money (insurance) distribution rules seek to facilitate the timely return of client money to a client in the event of the failure of a firm or third party at which the firm holds client money.
+Failure of the authorised firm: primary pooling event
+CASS 5.6.4
+14/01/2005
+G
+A primary pooling event triggers a notional pooling of all the client money, in every type of client money account, and the obligation to distribute it.
+CASS 5.6.5
+01/04/2013
+R
+A primary pooling event occurs:
+(1) on the failure of the firm; or
+(2) on the vesting of assets in a trustee in accordance with an 'assets requirement' imposed under 55P(1)(b) or (c) (as the case may be) of the Act; or
+(3) on the coming into force of a requirement for all client money held by the firm; or
+(4) when the firm notifies, or is in breach of its duty to notify, the FCA, in accordance with CASS 5.5.77 R, that it is unable correctly to identify and allocate in its records all valid claims arising as a result of a secondary pooling event.
+CASS 5.6.6
+01/04/2013
+R
+CASS 5.6.5 R (4) does not apply so long as:
+(1) the firm is taking steps, in consultation with the FCA, to establish those records; and
+(2) there are reasonable grounds to conclude that the records will be capable of rectification within a reasonable period.
+Pooling and distribution
+CASS 5.6.7
+02/08/2024
+R
+If a primary pooling event occurs:
+(1) client money held in each client money account of the firm is treated as pooled;
+(2) the firm must distribute that client money in accordance with CASS 5.3.2 R or, as appropriate, CASS 5.4.7 R, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with CASS 5.5.66 R;
+(3) the firm must, as trustee, call in and make demand in respect of any debt due to the firm as trustee, and must liquidate any designated investment, and any letter of credit or guarantee upon which it relies for meeting any shortfall in its client money resource and the proceeds shall be pooled together with other client money as in (1) and distributed in accordance with (2) and;
+(4)
+(a) subject to (b), as an alternative to distributing a client’s client money to them under (2), a firm may transfer all of that client’s client money to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 5.5.85R; and
+(b) as a consequence of any such transfer to a dormant asset fund operator, the firm must not distribute to any other client an amount of money that would be less than that which such other client was entitled to have distributed under this rule.
+CASS 5.6.7A
+02/08/2024
+G
+The purpose of CASS 5.6.7R(4)(b) is to ensure that where a particular client’s client money is transferred under CASS 5.6.7R(4)(a) to a dormant asset fund operator, such a transfer does not prejudice any other client. This means, for example, that the amount that may be transferred to a dormant asset fund operator under that provision should take account of any shortfall that affects the relevant clients.
+CASS 5.6.8
+14/01/2005
+G
+A client's main claim is for the return of client money held in a client bank account. A client may claim for any shortfall against money held in a firm's own account. For that claim, the client will be an unsecured creditor of the firm.
+Client money received after the failure of the firm
+CASS 5.6.9
+06/07/2006
+R
+Client money received by the firm (including in its capacity as trustee under CASS 5.4 (Non-statutory trust)) after a primary pooling event must not be pooled with client money held in any client money account operated by the firm at the time of the primary pooling event. It must be placed in a client bank account that has been opened after that event and must be handled in accordance with the client money rules, and returned to the relevant client without delay, except to the extent that:
+(1) it is client money relating to a transaction that has not completed at the time of the primary pooling event; or
+(2) it is money relating to a client, for whom the client money requirement, calculated in accordance with CASS 5.5.66 R or CASS 5.5.68 R, shows that money is due from the client to the firm including in its capacity as trustee under CASS 5.4 (Non-statutory trust) at the time of the primary pooling event.
+CASS 5.6.10
+14/01/2005
+G
+Client money received after the primary pooling event relating to an incomplete transaction should be used to complete that transaction.
+CASS 5.6.11
+14/01/2005
+R
+If a firm receives a mixed remittance after a primary pooling event, it must:
+(1) pay the full sum into the separate client bank account opened in accordance with CASS 5.6.9 R; and
+(2) pay the money that is not client money out of that client bank account into the firm's own bank account within one business day of the day on which the remittance is cleared.
+CASS 5.6.12
+14/01/2005
+G
+Whenever possible the firm should seek to split a mixed remittance before the relevant accounts are credited.
+Closing a client money pool - transfers to dormant asset fund operator
+CASS 5.6.12A
+02/08/2024
+R
+(1) This rule applies to a firm which, prior to a primary pooling event, had put in place contractual or other arrangements with a dormant asset fund operator of the sort described at section 23 of the Dormant Assets Act 2022.
+(2) If, having attempted to, a firm is unable to distribute a balance of client money in accordance with CASS 5.6.7R to the relevant client, it must attempt to transfer the balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 5.5.85R.
+CASS 5.6.12B
+02/08/2024
+G
+(1) A firm may be unable to distribute a balance of client money in accordance with CASS 5.6.7R for reasons including that:
+(a) the firm is unable to trace the relevant client; or
+(b) despite the firm making enquiries, the relevant client has not provided the firm with instructions that would enable the firm to make a distribution.
+(2) Where the firm transfers a balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 5.5.85R, it may cease to treat the balance as client money under CASS 5.5.80R(6).
+(3) In attempting to transfer the balance to a dormant asset fund operator under CASS 5.6.12AR(2), the firm should begin by seeking confirmation from the relevant dormant asset fund operator as to whether or not it would be in a position to accept the balance.
+Failure of a bank, other broker or settlement agent: secondary pooling events
+CASS 5.6.13
+14/01/2005
+R
+If both a primary pooling event and a secondary pooling event occur, the provisions of this section relating to a primary pooling event apply.
+CASS 5.6.14
+14/01/2005
+R
+A secondary pooling event occurs on the failure of a third party to which client money held by the firm has been transferred under CASS 5.5.34 R.
+CASS 5.6.15
+14/01/2005
+R
+CASS 5.6.20 R to CASS 5.6.31 R do not apply if, on the failure of the third party, the firm repays to its clients or pays into a client bank account, at an unaffected bank, an amount equal to the amount of client money which would have been held if a shortfall had not occurred at that third party.
+CASS 5.6.16
+14/01/2005
+G
+When client money is transferred to a third party, a firm continues to owe a fiduciary duty to the client. However, consistent with a fiduciary's responsibility (whether as agent or trustee) for third parties under general law, a firm will not be held responsible for a shortfall in client money caused by a third party failure if it has complied with those duties.
+CASS 5.6.17
+14/01/2005
+G
+To comply with its duties, the firm should show proper care:
+(1) in the selection of a third party; and
+(2) when monitoring the performance of the third party.
+In the case of client money transferred to a bank, by demonstrating compliance with CASS 5.5.43 R, a firm should be able to demonstrate that it has taken reasonable steps to comply with its duties.
+Failure of a bank
+CASS 5.6.18
+14/01/2005
+G
+When a bank fails and the firm decides not to make good the shortfall in the amount of client money held at that bank, a secondary pooling event will occur in accordance with CASS 5.6.20 R. The firm would be expected to reflect the shortfall that arises at the firm's bank in the periodic client money calculation by reducing the client money resource and client money requirement accordingly.
+CASS 5.6.19
+14/01/2005
+G
+The client money (insurance) distribution rules seek to ensure that clients who have previously specified that they are not willing to accept the risk of the bank that has fails, and who therefore requested that their client money be placed in a designated client bank account as a different bank, should not suffer the loss of the bank that has failed.
+Failure of a bank: pooling
+CASS 5.6.20
+14/01/2005
+R
+If a secondary pooling event occurs as a result of the failure of a bank where one or more general client bank accounts are held, then:
+(1) in relation to every general client bank account of the firm, the provisions of CASS 5.6.22 R and CASS 5.6.26 R to CASS 5.6.28 G will apply;
+(2) in relation to every designated client bank account held by the firm with the failed bank, the provisions of CASS 5.6.24 R and CASS 5.6.26 R to CASS 5.6.28 G will apply; and
+(3) any money held at a bank, other than the bank that has failed, in designated client bank accounts is not pooled with any other client money.
+CASS 5.6.21
+14/01/2005
+R
+If a secondary pooling event occurs as a result of the failure of a bank where one or more designated client bank accounts are held then in relation to every designated client bank account held by the firm with the failed bank, the provisions of CASS 5.6.24 R and CASS 5.6.26 R to CASS 5.6.28 G will apply.
+CASS 5.6.22
+14/01/2005
+R
+Money held in each general client bank account of the firm must be treated as pooled and:
+(1) any shortfall in client money held, or which should have been held, in general client bank accounts, that has arisen as a result of the failure of the bank, must be borne by all the clients whose client money is held in a general client bank account of the firm, rateably in accordance with their entitlements;
+(2) a new client money entitlement must be calculated for each client by the firm, to reflect the requirements in (1), and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client's share of the client money shortfall at the failed bank until the client is repaid; and
+(4) the firm must use the new client entitlements, calculated in accordance with (2), when performing the client money calculation in accordance with CASS 5.5.63 R to CASS 5.5.69 R.
+CASS 5.6.23
+14/01/2005
+G
+The term 'which should have been held' is a reference to the failed bank's failure (and elsewhere, as appropriate, is a reference to the other failed third party's failure) to hold the client money at the time of the pooling event.
+CASS 5.6.24
+14/01/2005
+R
+For each client with a designated client bank account held at the failed bank:
+(1) any shortfall in client money held, or which should have been held, in designated client bank accounts that has arisen as a result of the failure, must be borne by all the clients whose client money is held in a designated client bank account of the firm at the failed bank, rateably in accordance with their entitlements;
+(2) a new client money entitlement must be calculated for each of the relevant clients by the firm, and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client's share of the client money shortfall at the failed bank until the client is repaid; and
+(4) the firm must use the new client money entitlements, calculated in accordance with (2), when performing the periodic client money calculation, in accordance with CASS 5.5.63 R to CASS 5.5.69 R.
+CASS 5.6.25
+14/01/2005
+R
+A client whose money was held, or which should have been held, in a designated client bank account with a bank that has failed is not entitled to claim in respect of that money against any other client bank account or client transaction account of the firm.
+Client money received after the failure of a bank
+CASS 5.6.26
+14/01/2005
+R
+Client money received by the firm after the failure of a bank, that would otherwise have been paid into a client bank account at that bank:
+(1) must not be transferred to the failed bank unless specifically instructed by the client in order to settle an obligation of that client to the failed bank; and
+(2) must be, subject to (1), placed in a separate client bank account that has been opened after the secondary pooling event and either:
+(a) on the written instruction of the client, transferred to a bank other than the one that has failed; or
+(b) returned to the client as soon as possible.
+CASS 5.6.27
+14/01/2005
+R
+If a firm receives a mixed remittance after the secondary pooling event which consists of client money that would have been paid into a general client bank account, a designated client bank account or a designated client fund account maintained at the bank that has failed, it must:
+(1) pay the full sum into a client bank account other than one operated at the bank that has failed; and
+(2) pay the money that is not client money out of that client bank account within one business day of the day on which the remittance is cleared.
+CASS 5.6.28
+14/01/2005
+G
+Whenever possible the firm should seek to split a mixed remittance before the relevant accounts are credited.
+Failure of an intermediate broker or settlement agent: pooling
+CASS 5.6.29
+14/01/2005
+R
+If a secondary pooling event occurs as a result of the failure of another broker or settlement agent to whom the firm has transferred client's money then, in relation to every general client bank account of the firm, the provisions of CASS 5.6.26 R to CASS 5.6.28 G and CASS 5.6.30 R will apply.
+CASS 5.6.30
+14/01/2005
+R
+Money held in each general client bank account of the firm must be treated as pooled and:
+(1) any shortfall in client money held, or which should have been held, in general client bank accounts, that has arisen as a result of the failure, must be borne by all the clients whose client money is held in a general client bank account of the firm, rateably in accordance with their entitlements;
+(2) a new client money entitlement must be calculated for each client by the firm, to reflect the requirements of (1), and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client's share of the client money shortfall at the failed intermediate broker or settlement agent until the client is repaid; and
+(4) the firm must use the new client money entitlements, calculated in accordance with (2), when performing the periodic client money calculation, in accordance with CASS 5.5.63 R to CASS 5.5.69 R.
+Client money received after the failure of a broker or settlement agent
+CASS 5.6.31
+14/01/2005
+R
+Client money received by the firm after the failure of another broker or settlement agent, to whom the firm has transferred client money that would otherwise have been paid into a client bank account at that broker or settlement agent:
+(1) must not be transferred to the failed thirty party unless specifically instructed by the client in order to settle an obligation of that client to the failed broker or settlement agent; and
+(2) must be, subject to (1), placed in a separate client bank account that has been opened after the secondary pooling event and either:
+(a) on the written instruction of the client, transferred to a third party other than the one that has failed; or
+(b) returned to the client as soon as possible.
+Notification on the failure of a bank, other broker or settlement agent
+CASS 5.6.32
+14/01/2005
+R
+The provisions of CASS 5.5.61 R apply.
+CASS 5.8 Safe keeping of client's documents and other assets
+Application
+CASS 5.8.1
+01/10/2018
+R
+(1) CASS 5.8 applies to a firm (including in its capacity as trustee under CASS 5.4) which in the course of insurance distribution activity takes into its possession for safekeeping any client title documents (other than documents of no value) or other tangible assets belonging to clients.
+(2) CASS 5.8 does not apply to a firm when:
+(a) carrying on an insurance distribution activity which is in respect of a reinsurance contract; or
+(b) acting in accordance with CASS 6 (Custody rules).
+Purpose
+CASS 5.8.2
+01/10/2018
+G
+The rules in this section amplify the obligation in Principle 10 which requires a firm to arrange adequate protection for client's assets. Firms carrying on insurance distribution activities may hold, on a temporary or longer basis, client title documents such as policy documents (other than policy documents of no value) and also items of physical property if, for example, a firm arranges for a valuation. The rules are intended to ensure that firms make adequate arrangements for the safe keeping of such property.
+Requirement
+CASS 5.8.3
+14/01/2005
+R
+(1) A firm which has in its possession or control documents evidencing a client's title to a contract of insurance or other similar documents (other than documents of no value) or which takes into its possession or control tangible assets belonging to a client, must take reasonable steps to ensure that any such documents or items of property:
+(a) are kept safe until they are delivered to the client;
+(b) are not delivered or given to any other person except in accordance with instructions given by the client; and that
+a record is kept as to the identity of any such documents or items of property and the dates on which they were received by the firm and delivered to the client or other person.
+(2) A firm must retain the record required in (1) for a period of three years after the document or property concerned is delivered to the client or other person.
+CASS 5 Annex 1 Segregation of designated investments: permitted investments, general principles and conditions (This Annex belongs to CASS 5.5.14 R)
+CASS 5 Annex 1
+14/01/2005
+1
+The general principles which must be followed when client money segregation includes designated investments:
+(a)
+there must be a suitable spread of investments;
+(b)
+investments must be made in accordance with an appropriate liquidity strategy;
+(c)
+the investments must be in accordance with an appropriate credit risk policy;
+(d)
+any foreign exchange risks must be prudently managed.
+2
+Table of permitted designated investments for the purpose of CASS 5.5.14 R (1).
+Investment type
+Qualification
+1. Negotiable debt security (including a certificate of deposit)
+(a) Remaining term to maturity of 5 years or less; and
+(b) The issuer or investment must have a short-term credit rating of A1 by Standard and Poor's, or P1 by Moody's Investor Services, or F1 by Fitch if the instrument has a remaining term to maturity of 366 days or less; or a minimum long term credit rating of AA- by Standards and Poor's, or Aa3 by Moody's Investor Services or AA- by Fitch if the instrument has a term to maturity of more than 366 days.
+2. A repo in relation to negotiable debt security
+As for 1 above and where the credit rating of the counterparty also meets the criteria in 1.
+3. Bond funds
+(a) An authorised fund or a recognised scheme or an investment company which is registered by the Securities and Exchange Commission of the United States of America under the Investment Company Act 1940;
+(b) A minimum credit rating and risk rating of Aaf and S2 respectively by Standard and Poor's or Aa and MR2 respectively by Moody's Investor Services or AA and V2 respectively by Fitch.
+4. Money market fund
+(a) An authorised fund or a recognised scheme;
+(b) A minimum credit and risk rating of Aaa and MR1+ respectively by Moody's Investor Services or AAAm by Standard and Poor's or AAA and V1+ respectively by Fitch.
+5. Derivatives
+Only for the purpose of prudently managing foreign currency risks.
+3
+The general conditions which must be satisfied in the segregation of designated investments are:
+(a)
+any redemption of an investment must be by payment into the firm's client money bank account;
+(b)
+where the credit or risk rating of a designated investment falls below the minimum set out in the Table, the firm must dispose of the investment as soon as possible and in any event not later than 20 business days following the downgrade;
+(c)
+where any investment or issuer has more than one rating, the lowest shall apply.

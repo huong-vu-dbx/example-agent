@@ -1,0 +1,523 @@
+CASS 5.1.1 R (4)
+Record of election of compliance with specified CASS rules
+Record of compliance with specified CASS rules
+Not specified
+Not specified
+CASS 5.2.3 R (2)
+Holding client money as agent
+The terms of the agreement
+Not specified
+Six years
+CASS 5.4.4 R (2)
+Adequacy of systems and controls
+Written confirmation of adequate systems and controls from its auditor
+Not specified
+Not specified
+CASS 5.5.84 R
+Client money calculation
+Whether the firm calculates its client money requirements according to CASS 5.5.84 R or CASS 5.5.84 R
+Not specified
+Not specified
+CASS 5.5.84 R
+Transactions and commitments for client money
+Explanation of the firm's transactions and commitments for client money
+Not specified
+Three years
+CASS 5.8.3 R (1)
+Client's title to a contract of insurance
+Identity of such documents and/or property and dates received and delivered to client
+Not specified
+Three years
+CASS 6.1.6BR (3)
+Written agreement regarding any arrangement relating to a TTCA
+The agreement
+When agreement made
+From the date the agreement is entered into and until five years after the agreement is terminated
+CASS 6.1.8AR(1) and (2)
+Client’s communication to firm of wish to terminate TTCA
+Client’s communication of wish to terminate TTCA
+When communication made
+Five years (from date of communication)
+CASS 6.1.8AR (4)
+Firm's response to client's wish to terminate TTCA
+Firm's response to client's wish to terminate TTCA
+When notification given
+Five years (from date of communication)
+CASS 6.1.12R(5)
+Firm's segregation of money as client money under this rule
+Description of safe custody asset in question, identity of relevant client, amount of money segregated
+Maintain up to date
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.1.12E R
+Client's agreement to firm's use of exemption in CASS 6.1.12 R
+Client's written agreement
+At the time of client's agreement
+During the time the firm makes use or intends to make use of the exemption in CASS 6.1.12 R in respect of that client's safe custody assets
+CASS 6.1.16CR (3)
+A personal investment firm that temporarily holds a client's designated investments which is not in the course of MiFID business
+Client details and any actions taken by the firm
+5 years (from the making of the record)
+CASS 6.1.16K R
+Client custody assets which the firm has arranged for another to hold or receive
+Full details
+On receipt
+5 years
+[deleted]
+CASS 6.2.15 R
+Safe custody assets divested by the firm under CASS 6.2.10 R
+Details of asset divested, relevant documentation and the firm's attempts to contact the client concerned
+When asset divested
+Indefinite
+CASS 6.3.2AR (1)
+Appropriateness of a firm's selection of a third party
+Grounds upon which a firm satisfies itself as to the appropriateness of the firm's selection of a third party to hold safe custody assets belonging to clients
+Date of the selection
+5 years (from the date the firm ceases to use the third party to hold safe custody assets belonging to clients)
+CASS 6.3.2AR (2)
+A firm's periodic review into the selection and appointment of a third party under CASS 6.3.1 R
+Date of review, actions taken by the firm in reviewing the selection and appointment of a third party under CASS 6.3.1 R, and grounds upon which the firm continues to be satisfied of appropriateness of its selection of that third party to hold safe custody assets belonging to clients
+On the date of the review
+Five years (from the date the firm ceases to use the third party to hold safe custody assets belonging to clients)
+CASS 6.3.6AR(2)
+Granting of security interests, liens or rights of set-off
+Recording of the granting of security interests, liens or rights of set-off in the firm’s books and records
+On the firm’s granting, or where the firm has been informed of the granting
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.4.3 R
+Details of clients and safe custody assets used for the firm's own account or the account of another client of the firm
+Details of the client on whose instructions the use of the safe custody assets has been effected and the number of safe custody assets used belonging to each client
+Maintain up to date records
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.6.2 R
+Safe custody assets held for each client and the firm's own applicable assets
+All that is necessary to enable the firm to distinguish safe custody assets held for one client from safe custody assets held for any other client, and from the firm's own applicable assets
+Maintain up to date records
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.6.3 R
+Safe custody assets held for clients
+Accurate records which ensure theircorrespondence to the safe custody assets held for clients
+Maintain up to date records
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.5.2A R
+[deleted]
+CASS 6.5.3 R
+[deleted]
+CASS 6.6.4 R
+Client specific safe custody asset record
+Client specific safe custody asset record
+Maintain up to date
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.6.6R
+Client agreements that include a firm’s right to use safe custody assets for its own account
+A copy of every executed client agreement that includes a firm’s right to use safe custody assets for its own account
+Not specified
+Not specified (see default provision CASS 6.6.7R)
+CASS 6.6.7R
+Default record keeping provisions for CASS 6
+Refer to the rule concerned
+Refer to the rule concerned
+Five years from the later of:
+(1) the date it was created; and
+(2) if it has been modified since the date in (1), the date it was most recently modified
+CASS 6.6.8 R
+Internal custody record checks, physical asset reconciliations and external custody reconciliations carried out by the firm.
+Date and actions the firm took when carrying out the relevant process; a list of the discrepancies the firm identified and the actions the firm took to resolve those discrepancies
+Immediate
+Not specified (see default provision CASS 6.6.7 R)
+CASS 6.6.16 R
+Aggregate safe custody asset record
+All the safe custody assets the firm holds for its clients, including those deposited with third parties under CASS 6.3 and any physical safe custody assets
+Maintain up to date if the firm wishes to use the internal custody reconciliation method
+Not specified (see default provision CASS 6.6.7 R)
+CASS 6.6.30 R
+Rolling stock method for physical asset reconciliations
+Firm's reasons for concluding that this method is adequately designed to mitigate risk of records being manipulated or falsified
+Before using this method
+Five years (from the date the firm ceases to use this method)
+CASS 6.6.45 R
+Frequency of the firm's internal custody record checks, physical asset reconciliations and external custody reconciliations
+Sufficient to show and explain decision taken under CASS 6.6.44 R when determining frequency
+Immediate
+(1) Subject to (2), indefinitely.
+(2) For any decision which is superseded by a subsequent decision, five years from the subsequent decision (with (1) applying to the subsequent decision).
+CASS 6.6.46R (2)
+Review of frequency if the firm's internal custody record checks, physical asset reconciliations and external custody reconciliations
+Date of each review and the actions the firm took in reviewing the frequency at which it conducts the relevant process
+Immediate
+Not specified (see default provision CASS 6.6.7 R)
+CASS 6.6.54R (2)(a)
+Actions taken by the firm to resolve shortfall under this rule
+Actions taken, description of shortfall, identity of affected client(s), applicable assets appropriated to cover the shortfall. Update when discrepancy resolved.
+Maintain up to date
+Not specified (see default provision CASS 6.6.7 R)
+CASS 6.6.54R (2)(b)
+Actions taken by the firm to resolve shortfall under this rule
+Actions taken, description of shortfall, identity of affected client(s), amount of money appropriated to cover the shortfall. Update when discrepancy resolved.
+Maintain up to date
+Not specified (see default provision CASS 6.6.7 R)
+CASS 6.7.6R
+Any safe custody asset disposed of in accordance with CASS 6.7.2R
+(i) The safe custody asset that was disposed of;
+(ii) the value of the consideration received for the safe custody asset disposed of;
+(iii) the name and contact details of the client to whom the safe custody asset was allocated, according to the firm’s records at the time of making the record; and
+(iv) efforts applied by the firm to determine the client’s correct contact details under CASS 6.7.4E(1)(a) or, if being relied on, for the purposes of CASS 6.2.10R(4).
+At the time of the disposal
+Indefinite
+CASS 7.10.3R(3)
+Record of election to comply with the client money chapter
+Record of election to comply with the client money chapter, including the date from which the election is to be effective
+Date of the election
+5 years (from the date the firm ceases to use the election)
+CASS 7.10.31 R
+Record of election in relation to CASS 7.10.30R
+Record of election in relation to CASS 7.10.30R
+Date of election
+Not specified (see default provision CASS 7.15.5R(3))
+CASS 7.10.35 R
+Trustee firm's election to comply, or to cease to comply, with specific CASS 7 provisions
+Relevant provisions, date of election and of any decision to cease to comply
+When election made or decision taken to cease to comply
+5 years after ceasing to use the election
+CASS 7.10.38 R
+Trustee firm's election to comply, or to cease to comply, with specific CASS 7 provisions
+Relevant provisions, date of election and of any decision to cease to comply
+When election made or decision taken to cease to comply
+5 years after ceasing to use the election
+CASS 7.11.3R(3)
+Written agreement regarding any arrangement relating to a TTCA
+The agreement
+When agreement made
+From the date the agreement is entered into and until five years after the agreement is terminated
+CASS 7.11.20R
+Client's agreement to firm's use of exemption in CASS 7.11.14R
+Client's written agreement
+At the time of client's agreement
+During the time the firm makes use or intends to make use of the exemption in CASS 7.11.14R in respect of that client's monies
+CASS 7.11.24R
+Client’s agreement to firm’s use of the delivery versus payment exemption in CASS 7.11.21R
+Client’s written agreement
+At the time of client’s agreement
+During the time the firm makes use, or intends to make use, of the exemption in CASS 7.11.21R in respect of that client’s monies
+CASS 7.11.55 R
+Client money paid to charity by the firm under CASS 7.11.50R(4)
+Details of balances released, relevant documentation and the firm's attempts to contact the client concerned
+When balance released
+Indefinite
+CASS 7.11.57R (4)
+Client money paid to charity by the firm under this rule
+Records of all balances released from client bank accounts, including the information in CASS 7.11.55R(1)(a) and CASS 7.11.55R(1)(b)
+When balance released
+Not specified (see default provision CASS 7.15.5R(3))
+CASS 7.13.14BR
+The firm’s written policy produced under CASS 7.13.14AR(1)(a) in respect of the firm’s use of client bank accounts under CASS 7.13.13R(3A)(b), and subsequent versions of it
+(i) For each of the firm’s business lines, the maximum proportion of the client money held by the firm under CASS 7.13.3R(1) to (3) in respect of the business line that the firm considers would be appropriate to hold in such accounts;
+(ii) the firm’s rationale for reaching its conclusion(s) under (i); and
+(iii) the means by which the firm will comply with CASS 7.13.14AR(2)(a), having regard to CASS 7.13.14CE.
+On the date it creates the version of the policy
+Five years after the earlier of:
+(1) the date on which the version of the policy was superseded; and
+(2) the date on which the firm ceased to use client bank accounts under CASS 7.13.13R(3A)(b).
+CASS 7.13.25R(1)
+Appropriateness of a firm's selection of a third party
+Grounds upon which a firm satisfies itself as to the appropriateness of the firm's selection of a third party to hold client money
+Date of the selection
+5 years (from the firm ceases to use the third party to hold client money)
+CASS 7.13.32R(3)
+Physical receipts
+Physical receipt of money
+When the firm receives client money in the form of cash, a cheque or other payable order
+Not specified (see default provision CASS 7.15.5R(3))
+CASS 7.13.33R(3)
+Future dated cheque
+Receipt of money
+When the firm receives client money in the form of a cheque that is dated with a future date
+Not specified (see default provision CASS 7.15.5R(3))
+CASS 7.13.55R
+Firm's adoption of the alternative approach
+Reasons for concluding that the normal approach would lead to greater risk to client money, adopting the alternative approach would not result in undue risk to client money, the alternative approach is appropriate for use by the particular business line, and the firm has adequate systems and controls
+Before adopting alternative approach
+Five years after it ceases to use the alternative approach in connection with that business line
+CASS 7.4.19A R to CASS 7.4.19C R
+[deleted]
+CASS 7.15.2 R
+Client money held for each client and the firm's own money
+All that is necessary to enable the firm to distinguish client money held for one client from client money held for any other client, and from the firm's own money
+Maintain up to date records
+Five years (from the date the record was made)
+CASS 7.15.3 R
+Client money held for each client
+Accurate records to ensure the correspondence between the records and accounts of the entitlement of each client for whom the firm holds client money with the records and accounts of the client money the firm holds in client bank accounts and client transaction accounts
+Maintain up to date records
+Five years (from the date the record was made)
+CASS 7.15.5R(3)
+Default record keeping provision for CASS 7
+Refer to the rule concerned
+Refer to the rule concerned
+Five years from the later of:
+(1) the date it was created; and
+(2) if it has been modified since the date in (1), the date it was most recently modified
+CASS 7.15.18R
+Internal reconciliation of client money balances
+The firm’s reasons for concluding that the method of internal client money reconciliation it proposes to use meets the criteria at CASS 7.15.18R(1)(a)
+Before the firm uses a non-standard method of internal client money reconciliation or materially changes its method
+Not specified (see default provision CASS 7.15.5R(3))
+CASS 7.18.10R(1)
+Acknowledgment letters
+Countersigned acknowledgment letter
+From date of receipt
+5 years from closure of last account to which the acknowledgment letter relates
+CASS 7.18.10R(2)
+Acknowledgment letters
+Copy of acknowledgment letter sent to authorised central counterparty under CASS 7.8.3R (1)
+From date firm sends the letter
+5 years from closure of last account to which the acknowledgment letter relates
+CASS 7.18.11R
+Acknowledgment letters
+Any other documentation or evidence the firm believes necessary to demonstrate compliance with CASS 7.8
+None specified
+None specified (see default provision CASS 7.6.4 R)
+CASS 7.10.7ER
+The election made under CASS 7.10.7AR
+The election including the date from which the election is to be effective and, if the firm cancels the election, the date from which the election is to cease to be effective
+At the time of the election and, if the firm cancels the election, at the time it is cancelled
+Five years after ceasing to use the election
+CASS 7.11.9R (2)
+Client's communication to firm of wish to terminate TTCA
+Client's communication of wish to terminate TTCA
+When communication made
+Five years (from date of communication)
+CASS 7.11.9R (4)
+Firm's response to client's wish to terminate TTCA
+Firm's response to client's wish to terminate TTCA
+When notification given
+Five years (from date of notification)
+CASS 7.11.20 R
+[deleted]
+CASS 7.11.24 R
+[deleted]
+CASS 7.13.25R (2)
+Firm's periodic review into selection and appointment of third party under CASS 7.13.8 R.
+Date of each review, actions the firm took in reviewing the selection and appoint of a third party under CASS 7.13.8 R, and the grounds upon which the firm continues to be satisfied of appropriateness of its selection of that third party to hold client money
+Date of review
+Five years (from date of review)
+CASS 7.13.25R (3)
+Firm's periodic review under CASS 7.13.22 R.
+Fact of review, its considerations and conclusions
+Date of review
+Five years (from date of review)
+CASS 7.13.36 R
+Unallocated client money
+Fact that the balance treated as unallocated client money
+When firm is unable to immediately identify money as client money or its own money and it treats the balance as client money
+Pending firm's allocation of the client money concerned to an individual client
+CASS 7.13.50 R; CASS 7.13.51 R
+Prudent segregation record
+Details of money segregated under CASS 7.13.41 R required by these rules
+Maintain up to date
+Five years (after the firm ceases to retain money as client money under CASS 7.13.41 R)
+CASS 7.13.66 R; CASS 7.13.67 R
+Alternative approach mandatory prudent segregation record
+Details of money segregated under CASS 7.13.65 R required by these rules
+Maintain up to date
+Five years (after the firm ceases to retain money as client money under CASS 7.13.65 R)
+CASS 7.13.74 R; CASS 7.13.75 R
+Clearing arrangement mandatory prudent segregation record
+Details of money segregated under CASS 7.13.73R (3)(a) required by these rules
+Maintain up to date
+Five years (after the firm ceases to retain money as client money under CASS 7.13.73R (3)(a))
+CASS 7.15.5R (1)
+Total amount of client money the firm should be holding for each client
+Total amount of client money the firm should be holding for each client
+Maintain up to date
+Not specified (see default provision CASS 7.15.5R (3))
+CASS 7.15.5R (2)
+Transactions and commitments for client money
+Sufficient to show and explain transactions and commitments
+Maintain up to date
+Not specified (see default provision CASS 7.15.5R (3))
+CASS 7.15.7 R
+Internal client money reconciliations and external client money reconciliations conducted carried out by the firm
+Date, actions the firm took in carrying out the relevant process, and the outcome of its calculation of its client money requirement and client money resource Fact of each reconciliation and review of the firm's arrangements for complying with CASS 7.15.5 R to CASS 7.15.7 R
+Immediate
+Not specified (see default provision CASS 7.15.5R (3))
+CASS 7.15.9 R
+Receipts of client money
+Appropriate to account for all receipts of client money in the form of cash, cheque or other payable order not yet deposited in a client bank account
+Maintain up to date
+Not specified (see default provision CASS 7.15.5R(3))
+CASS 7.15.24 R
+Frequency of the firm's external client money reconciliations
+Sufficient to show and explain decision taken under CASS 7.15.23 R when determining frequency
+Immediate
+(1) Subject to (2), indefinitely.
+(2) For any decision which is superseded by a subsequent decision, five years from the subsequent decision (with (1) applying to the subsequent decision).
+CASS 7.15.26R (2)
+Review of frequency of the firm's external client money reconciliations
+Date of each review and the actions the firm took in reviewing the frequency at which it carries out the external client money reconciliations
+Not specified
+Not specified (see default provision CASS 7.15.5R (3))
+CASS 7.19.6 R
+For each sub-pool established by the firm
+All the client beneficiaries of that sub-pool
+From the date on which the sub-pool is created
+Five years following the date on which client money was last held by the firm in relation to the sub-pool to which the record applied
+CASS 7.19.7 R
+For each sub-pool established by the firm
+(a) The name of the sub-pool
+(b) The identity of the net margined omnibus account to which the sub-pool relates;
+(c) Each client bank account and each client transaction account maintained for the sub-pool;
+(d) the applicable sub-pool disclosure document for the sub-pool.
+Prior to the date on which the firm intends to receive or hold client money for that sub-pool
+Five years following the date on which client money was last held by the firm in relation to the sub-pool to which the record applied
+CASS 7.19.8 R
+For each sub-pool established by the firm
+A list of all the sub-pools the firm has created.
+From the date on which the sub-pool is created
+Five years following the date on which client money was last held by the firm in relation to the sub-pool to which the record applied
+CASS 7.19.9 R
+For each sub-pool established by the firm
+A sub-pool disclosure document
+At the time of establishing the relevant sub-pool
+Five years following the date on which client money was last held by the firm in relation to the sub-pool to which the sub-pool disclosure document applied
+CASS 7.19.13R (2)
+For each sub-pool established by the firm
+The name of each client bank account and each client transaction account maintained for the sub-pool, including a unique identifying reference
+From the date on which the client bank account and client transaction account is maintained for the sub-pool
+5 years following the date on which client money was last held by the firm in relation to the sub-pool to which the record applied
+CASS 7A.2.6FR
+Any balance under CASS 7A.2.6AR(1)(b)(i) or (ii) which has been applied towards any costs incurred in accordance with CASS 7.17.2R or towards any shortfall in the relevant notional pool in accordance with CASS 7A.2.6AR(1)(b) or (c) respectively
+(i) The amount of the balance of client money;
+(ii) the name and contact details of any client to whom that balance was allocated according to the firm’s records at the time of making the record; and
+(iii) efforts applied by the firm to determine the client’s correct contact details under CASS 7A.2.6CE(1)(a) or, if being relied on, for the purposes of CASS 7.11.50R(3).
+Immediately before taking steps to apply the balance towards costs or a shortfall in accordance with CASS 7A.2.6AR(1)(b) or (c) respectively
+Indefinite
+CASS 7A.3.8R (3)
+Client money shortfall
+Each client's entitlement to client money shortfall at the failed bank
+Maintain up to date records
+Until client is repaid
+CASS 7A.3.10R (3)
+Client money shortfall
+Each client's entitlement to client money shortfall at the failed bank
+Maintain up to date records
+Until client is repaid
+CASS 7A.3.11R (3)
+Client money shortfall
+Each client's entitlement to client money shortfall at the failed bank
+Maintain up to date records
+Until client is repaid
+CASS 7A.3.17R (3)
+Client money shortfall
+Each client's entitlement to client money shortfall at the failed intermediate broker, settlement agent or OTC counterparty
+Maintain up to date records
+Until client is repaid
+CASS 8.3.1 R
+Adequate records and internal controls in respect of the firm's use of mandates (see CASS 8.3.2 R to CASS 8.3.2C R )
+Up to date list of firm's mandates and any conditions regarding the use of mandates, all transactions entered into, details of procedures and internal controls for giving and receiving of instructions under mandates, and important client documents held by the firm, and, in relation to non-written mandates, the further details required by CASS 8.3.2C R
+Maintain current full details
+One year after the firm ceases to have the mandate or, if the mandate was held in the course of or in connection with the firm's MiFID business, five years after the same date
+CASS 10.1.3 R
+A firm's CASS resolution pack
+The documents to which CASS 10.2 and CASS 10.3 refer
+From the date on which a firm becomes subject to CASS 10.1.3 R
+None is specified
+CASS 11.3.6 R
+Allocation of CASS oversight function in CASS 11.3.1 R or CASS 11.3.2 R, or CASS operational oversight function in CASS 11.3.4 R
+The person to whom (as applicable) the CASS oversight responsibilities have been allocated, or to whom the CASS operational oversight function has been allocated
+Upon allocation
+5 years (from the date the record was made)
+CASS 11.7.6 R
+Appropriateness of a CASS large debt management firm's selection of an approved bank
+Grounds upon which a CASS large debt management firm satisfies itself as to the appropriateness of the firm's selection of an approved bank at which to hold client money
+Date of the selection
+5 years (from the date the firm ceases to use the approved bank to hold client money)
+CASS 11.8.8 R
+Client bank account acknowledgement letters sent in accordance with CASS 11.8.2 R
+Each countersigned client bank account acknowledgement letters received
+On receipt of each letter
+5 years (following closure of the last client bank account to which the letter relates)
+CASS 11.8.9 R
+Demonstration that a CASS debt management firm has complied with CASS 11.8.2 R to CASS 11.8.7 R
+Evidence of such compliance
+On compliance with the relevant provision
+None specified
+CASS 11.9.5 R
+Money received from clients in the form of cash, cheques or other payable orders
+Details of money received
+On receipt
+None specified
+CASS 11.9.8 R (2)
+Unidentified client money under CASS 11.9.8 R (2)
+Details of unidentified client money held
+Being unable to identify money as client money or its own money, and deciding it is reasonably prudent to so record
+Until it performs the necessary steps to identify the money under CASS 11.9.8 R (1)
+CASS 11.11.1 R
+Client money held for each client and the CASS debt management firm's own money
+All that is necessary to enable the CASS debt management firm to distinguish client money held for one client from client money held for any other client, and from the firm's own money
+Maintain up-to-date records
+None is specified
+CASS 11.11.3 R
+Client money held for each client
+Accurate records to ensure the correspondence between the records and accounts of the entitlement of each client for whom the CASS debt management firm holds client money with the records and accounts of the client money the firm holds in client bank accounts
+Maintain up-to-date records
+None is specified
+CASS 11.11.4 R
+Payments made to, for or on behalf of clients by a CASS debt management firm and written and oral contact with clients and creditors
+Details of payments made and of the written or oral contact
+Maintain up-to-date records
+None is specified
+CASS 11.12.4 R
+A CASS debt management firm's CASS 11 resolution pack
+The documents to which CASS 11.12.3 R and CASS 11.12.4 R refer.
+From the date on which a CASS debt management firm becomes subject to CASS 11.12.3 R
+None is specified
+CASS 11.13.12 R (3)
+A CASS large debt management firm's record of each client's shortfall in the event of a secondary pooling event
+Details of the shortfall
+On the secondary pooling event occurring
+None is specified
+CASS 13.2.3R
+Allocation of oversight function in CASS 13.2.3R
+The person to who the oversight function is allocated
+Upon allocation
+5 years (from the date the record was made)
+CASS 13.5.8R
+Client bank account acknowledgement letters sent in accordance with CASS 13.5.2R
+Each countersigned client bank account acknowledgement letter received
+On receipt of each letter
+5 years (following closure of the last client bank account to which the letter relates)
+CASS 13.5.9R
+Demonstration that the firm has complied with the requirements of CASS 13.5
+Evidence of such compliance
+On compliance with the relevant provision
+None specified
+CASS 13.6.5R
+Money received from customers in the form of cash, cheques or other payable orders
+Details of money received
+On receipt
+None specified
+CASS 13.6.6R(2)
+Unidentified client money under CASS 13.6.6R(2)
+Details of unidentified client money held
+Being unable to identify money as client money or its own money, and deciding it is reasonably prudent to so record
+Until it performs the necessary steps to identify the money under CASS 13.6.6R(1)
+CASS 13.10.1R(1)
+Client money held for each customer and the firm’s own money
+All that is necessary to enable the firm to distinguish client money held for one customer from client money held for any other customer and from the firm’s own money
+Maintain up-to-date records
+None specified
+CASS 13.10.3R
+Client money held for each customer
+Accurate records to ensure the correspondence between the records and accounts of the entitlement of each customer for whom the firm holds client money with the records and accounts of the client money the firm holds in client bank accounts
+Maintain up-to-date records
+None is specified
+CASS 13.10.4R
+Payments made to, for or on behalf of customers by the firm
+Details of payments made
+Maintain up-to-date records
+None is specified
+CASS 13.11.13R
+A record of each customer’s shortfall in the event of a secondary pooling event
+Details of the shortfall
+On the secondary pooling event occurring
+None is specified

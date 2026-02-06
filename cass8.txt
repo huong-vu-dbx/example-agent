@@ -1,0 +1,154 @@
+CASS 8 Mandates
+You are viewing CASS 8 Mandates as of 06/02/2026. CASS 8 Mandates was last updated on 01/01/2021.
+Rules
+Guidance
+Deleted
+Related resources
+CASS 8.1 Application
+CASS 8.1.1
+01/10/2018
+R
+This chapter (the mandate rules) applies to a firm when it has a mandate in the course of, or in connection with, the firm's:
+(1) designated investment business (including MiFID business); or
+(2) insurance distribution activity, except where it relates to a reinsurance contract;
+(3) debt management activity.
+CASS 8.1.2A
+01/01/2021
+R
+The mandate rules do not apply to a firm:
+(1) in relation to client money that the firm is holding in accordance with CASS 5 or CASS 7 (including client money that the firm has allowed another person to hold or control in accordance with CASS 7.14.2R) or CASS 11; or
+(2) in relation to custody assets that the firm is holding, or in respect of which the firm is carrying on safeguarding and administration of assets (without arranging), acting as trustee or depositary of an AIF or acting as trustee or depositary of a UK UCITS in accordance with CASS 6; or
+(2A) in relation to custody assets for which a small AIFM is:
+(a) carrying on those excluded custody activities that would amount to safeguarding and administration of assets (without arranging) but for the exclusion in article 72AA of the RAO; and
+(b) is doing so in accordance with CASS 6; or
+(3) in relation to a client's assets that the firm is holding or has received under an arrangement to which CASS 3 applies; or
+(4) when it acts as the operator of a regulated collective investment scheme in relation to property held for or within the scheme.
+CASS 8.1.2B
+01/01/2013
+G
+(1) CASS 8.1.2A R is not an absolute exemption, but it excludes the application of the mandate rules in relation to money or assets that a firm has received, is holding, or is responsible for (as appropriate and in the circumstances described in CASS 8.1.2A R).
+(2) This means that, for example in respect of CASS 8.1.2A R (1), a firm holding client money in accordance with CASS 5 or CASS 7 does not also need to comply with the mandate rules in relation to the client money which it actually holds, but the mandate rules would apply if the firm has a mandate under which it can receive a client's money from another person in the course of, or in connection with, the activities set out at CASS 8.1.1 R (1) and CASS 8.1.1 R (2).
+(3) Similarly, in respect of CASS 8.1.2A R (4), the mandate rules apply to a firm that is the operator of a regulated collective investment scheme if, for example, it has a mandate under which it can receive a client's money from another person for the purposes of investing it in the scheme.
+Purpose
+CASS 8.1.4
+01/01/2013
+G
+The mandate rules require firms to establish and maintain records and internal controls to prevent the misuse of a mandate.
+CASS 8.1.4A
+01/01/2013
+G
+The mandate rules only apply to a firm that has a mandate, and do not affect the duties of any other person to whom the firm is able to give the types of instructions referred to in CASS 8.2.1R (4). For example, if a person (A) has accepted a deposit from a client, and a firm (B) has a mandate in respect of that client's deposit held by A, the mandate rules only apply to B, and do not affect the duties of A in relation to the deposit.
+CASS 8.2 Definition of mandate
+CASS 8.2.1
+01/01/2021
+R
+A mandate is any means that give a firm the ability to control a client's assets or liabilities, which meet the conditions in (1) to (5):
+(1) they are obtained by the firm from the client, and with the client's consent;
+(2) where those means are obtained in the course of, or in connection with, the firm's insurance distribution activity, they are in written form at the time they are obtained from the client;
+(3) they are retained by the firm;
+(4) they put the firm in a position where it is able to give any or all of the types of instructions described in (a) to (d):
+(a) instructions to another person in relation to the client's money that is credited to an account maintained by that other person for the client;
+(b) instructions to another person in relation to any money to which the client has an entitlement, where that other person is responsible to the client for that entitlement (including where that other person is holding client money for the client in accordance with CASS 5 or CASS 7);
+(c) instructions to another person in relation to an asset of the client, where that other person is responsible to the client for holding that asset (including where that other person is safeguarding and administering investments, acting as trustee or depositary of an AIF or acting as trustee or depositary of a UK UCITS);
+(d) instructions to another person such that the client incurs a debt or other liability to that other person or any other person (other than the firm); and
+(5) their circumstances are such that the client's further involvement would not be necessary for the firm's instructions described in 4(a) to 4(d) to be given effect.
+The form of a mandate
+CASS 8.2.2
+01/06/2015
+G
+A mandate can take any form and need not state that it is a mandate. For example it could take the form of:
+(1) a standalone document containing certain information conferring authority to control a client's assets or liabilities on the firm;
+(2) a specific provision within a document or agreement that also relates to other matters; or
+(3) an authority provided by a client orally.
+Retention by the firm
+CASS 8.2.3
+01/06/2015
+G
+(1) If a firm receives information that puts it in the position described in CASS 8.2.1 R (4) in order to effect transactions immediately on receiving that information, then such information could only amount to a mandate if the firm retained it (for example by not destroying the relevant document, electronic record or telephone recording):
+(a) after it uses it to effect those immediate transactions; or
+(b) because those transactions are not, for whatever reason, effected immediately.
+(2) If a firm receives information that puts it in the position described in CASS 8.2.1 R (4) and the firm retains that information (for example in accordance with its record-keeping procedures or in order to effect transactions in the future or over a period of time) then such information could amount to a mandate.
+Ability to give instructions to another person
+CASS 8.2.4
+01/01/2013
+G
+The instructions referred to at CASS 8.2.1 R (4) are all instructions given by a firm to another person who also has a relationship with the firm's client. For example, the other person may be the client's bank, intermediary, custodian or credit card provider. This means, for example, that any means by which a firm can control a client's money or assets for which it is itself responsible to the client (rather than any other person) would not amount to a mandate. This includes where the firm is holding a client's money or assets other than in accordance with CASS 5, CASS 6 or CASS 7 (for example, because of an exemption in those rules).
+CASS 8.2.5
+01/06/2015
+G
+A mandate in relation to the type of instructions referred to in CASS 8.2.1R (4)(a) could include a direct debit instruction over a client's bank account in favour of the firm. The fact that the instruction was given by the client in the form of a paperless direct debit would not prevent it from being a mandate.
+CASS 8.2.6
+01/06/2015
+G
+A mandate in relation to the type of instructions referred to in CASS 8.2.1 R (4)(d) could include the client's credit card details.
+Conditions on use of mandate and client’s further involvement
+CASS 8.2.7
+01/01/2013
+G
+(1) If a firm obtains the means by which it can give the types of instructions referred to in CASS 8.2.1 R (4), but its use of those means is subject to any limits or conditions, then this does not necessarily prevent those means from being a mandate. For example, a client might require that a firm uses a mandate only in connection with transactions up to a certain value.
+(2) However, if a firm obtains the means by which it can give the types of instructions referred to in CASS 8.2.1 R (4), but the firm cannot, in practice, use those means without the client's further involvement, then the condition in CASS 8.2.1 R (5) would not be met. For example, a firm might have the means by which it can give instructions of the type referred to in CASS 8.2.1 R (4)(a) in relation to an account maintained by another person for a client, but that other person might require the client's signature or other authorisation before it gives effect to those instructions.
+CASS 8.3 Records and internal controls
+CASS 8.3.1
+01/01/2013
+R
+A firm that has mandates must establish and maintain adequate records and internal controls in respect of its use of the mandates.
+CASS 8.3.2
+01/06/2015
+R
+The records and internal controls required by CASS 8.3.1 R must include:
+(1) an up-to-date list of each mandate that the firm has obtained, including a record of any conditions placed by the client or the firm's management on the use of the mandate and, where a mandate was received in non-written form in the course of, or in connection with, its designated investment business, the details required under CASS 8.3.2C R;
+(2) a record of each transaction entered into under each mandate that the firm has;
+(3) internal controls to ensure that each transaction entered into under each mandate that the firm has is carried out in accordance with any conditions placed by the client or the firm's management on the use of the mandate;
+(4) the details of the procedures and internal controls around the giving of instructions under the mandates that the firm has (such instructions being those referred to in CASS 8.2.1 R (4)); and
+(5) where the firm holds a passbook or similar documents belonging to the client, internal controls for the safeguarding (including against loss, unauthorised destruction, theft, fraud or misuse) of any passbook or similar document belonging to the client held by the firm.
+A firm’s list of mandates
+CASS 8.3.2A
+01/06/2015
+R
+(1) A firm's up-to-date list of mandates under CASS 8.3.2 R (1) must be maintained in a medium that allows the storage of information in a way accessible for future reference by the FCA or by an auditor preparing a report under SUP 3.10.4 R.
+(2) It must be possible for any corrections or other amendments, and the contents of the list prior to such corrections and amendments, to be easily ascertained.
+CASS 8.3.2B
+01/06/2015
+G
+A firm may use version control to comply with CASS 8.3.2A R (2).
+CASS 8.3.2C
+01/06/2015
+R
+An entry in a firm's list of mandates underCASS 8.3.2 R (1) that relates to a mandate that was received in non-written form (eg in a telephone call) in the course of, or in connection with, its designated investment business must, as well as the information referred to at CASS 8.3.2 R (1), include the following details:
+(1) the nature of the mandate (eg debit card details);
+(2) the purpose of the mandate (eg collecting insurance premiums);
+(3) how the mandate was obtained (eg by telephone);
+(4) the name of the relevant client; and
+(5) the date on which the mandate was obtained.
+CASS 8.3.2D
+01/06/2015
+G
+If a firm receives information through a telephone call in the course of, or in connection with, its designated investment business that amounts to a mandate as a result of the firm retaining a recording of the call (see CASS 8.2.3 G), the requirements at CASS 8.3.2 R (1) apply, regardless of whether or not the firm intends to use the mandate in the future. The firm will meet the requirements of CASS 8.3.2 R (1) if the firm's list of mandates is updated with the details of the mandate that the firm obtained as a result of the call.
+CASS 8.3.2E
+01/06/2015
+G
+A firm should not reproduce information meeting the conditions under CASS 8.2.1 R as a separate record (eg by including such information in its list of mandates under CASS 8.3.2 R (1)) unless the firm considers this necessary, as this creates additional risk of misuse. Making a record of the details concerning the mandate described in CASS 8.3.2C R would be appropriate.
+CASS 8.3.2F
+01/06/2015
+G
+When keeping its list of mandates under CASS 8.3.2 R (1) up to date:
+(1) a firm should create a new entry in the list each time the firm obtains a new mandate;
+(2) if, for an existing entry on its list, a firm obtains the same information meeting the conditions in CASS 8.2.1 R again (eg in a written confirmation following a paperless direct debit), the additional mandate is not a new mandate and the firm should not create another entry on the list; but
+(3) the firm should, for every entry on its list, identify each of the locations in which it has retained the information that meets the conditions in CASS 8.2.1 R (eg a client's debit card details retained in a telephone recording and also the firm's written log of the call, or two separate documents containing the same information).
+Retention of records
+CASS 8.3.2G
+01/06/2015
+R
+A firm must retain the records required under CASS 8.3.1 R in relation to a particular mandate for the following period after it ceases to have the mandate (e.g. because the firm has destroyed the relevant document, electronic record or telephone recording), as applicable:
+(1) subject to (2), a minimum of one year;
+(2) a minimum of five years, where the relevant mandate was held by the firm in the course of, or in connection with, its MiFID business.
+CASS 8.3.2H
+01/06/2015
+G
+Where a firm has an obligation under CASS 8.3.2G R to retain records after it ceases to have a particular mandate, it may keep the mandate on the firm's list under CASS 8.3.2 R (1) for the relevant period, but the list should be updated to reflect the fact that it ceased to have the relevant mandate at the relevant date.
+CASS 8.3.3
+01/01/2013
+G
+A firm should distinguish between conditions placed by a client on the firm's use of a mandate, and criteria to which transactions effected by a firm with or for a client may be subject.
+(1) The requirements in CASS 8.3.2 R (1) and CASS 8.3.2 R (3) apply only in respect of conditions placed around the firm's use of a mandate itself or around the instructions described in CASS 8.2.1 R (4). Examples of these include conditions under which a mandate may only be used by the firm in connection with transactions up to a certain value, or under which instructions under a mandate may only be given by certain personnel within the firm.
+(2) The requirements in CASS 8.3.2 R (1) and CASS 8.3.2 R (3) do not apply in respect of criteria which relate to the nature and circumstances of transactions effected by a firm with or for a client. Examples of those criteria include investment restrictions or exposure limits for a managed portfolio, and required or preferred execution prices or execution venues.

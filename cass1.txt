@@ -1,0 +1,192 @@
+CASS 1 Application and general provisions
+You are viewing CASS 1 Application and general provisions as of 06/02/2026. CASS 1 Application and general provisions was last updated on 01/01/2021. Future Versions: 07/05/2026
+Guidance
+Rules
+Deleted
+Related resources
+CASS 1.1 Application and purpose
+Application
+CASS 1.1.1
+01/12/2004
+G
+CASS applies to a firm as specified in the remainder of this chapter.
+Purpose
+CASS 1.1.2
+01/12/2004
+G
+The purpose of this chapter is to set out to whom, for what activities, and within what territorial limits the rules, evidential provisions and guidance in CASS apply.
+CASS 1.2 General application: who? what?
+General application: who?
+CASS 1.2.1
+01/12/2004
+G
+The rules in CASS 1.2 set out the maximum scope of this sourcebook. The application of CASS is modified for certain activities by CASS 1.4. Also particular chapters or sections of CASS may have provisions which limit their application.
+CASS 1.2.2
+01/12/2004
+R
+CASS applies to every firm, except as provided for in CASS 1.2.3 R, with respect to the carrying on of:
+(1) all regulated activities except to the extent that a provision of CASS provides for a narrower application; and
+(2) unregulated activities to the extent specified in any provision of CASS.
+CASS 1.2.3
+01/01/2021
+R
+CASS does not apply to an ICVC.
+CASS 1.2.4
+01/11/2007
+R
+With the exception of this chapter and the insurance client money chapter, CASS does not apply to:
+(1) an authorised professional firm with respect to its non-mainstream regulated activities; or
+(2) the Society.
+CASS 1.2.5
+01/10/2018
+R
+The insurance client money chapter does not apply to an authorised professional firm with respect to its non-mainstream regulated activities, which are insurance distribution activities, if:
+(1) the firm's designated professional body has made rules which implement article 10.6 of the IDD;
+(2) those rules have been approved by the FCA under section 332(5) of the Act; and
+(3) the firm is subject to the rules in the form in which they were approved.
+CASS 1.2.5A
+01/10/2018
+G
+(1) In the client money chapter and the insurance client money chapter, an insurance undertaking acts as such when it carries on the business of effecting or carrying out contracts of insurance.
+(2) An insurance undertaking does not act as such when it enters into a reinsurance contract as a client of the reinsurer.
+General application: what?
+CASS 1.2.7
+01/07/2014
+G
+(1) [deleted]
+(2) [deleted]
+(3) [deleted]
+(3A) [deleted]
+(4) [deleted]
+(5) [deleted]
+(6) [deleted]
+(7) The debt management client money chapter applies to CASS debt management firms receiving or holding client money for, or on behalf of, a client in the course of or in connection with debt management activity.
+Application for retail clients, professional clients and eligible counterparties
+CASS 1.2.8
+01/07/2014
+G
+(1) CASS applies directly in respect of activities conducted with or for all categories of clients.
+(2) [deleted]
+(3) The insurance client money chapter does not generally distinguish between different categories of client. However, the term consumer is used for those to whom additional obligations are owed, rather than the term retail client. This is to be consistent with the client categories used in the Insurance: New Conduct of Business sourcebook.
+(4) Each provision in the collateral rules, custody chapter, the client money chapter and CASS 9 (Information to clients) makes it clear whether it applies to activities carried on for retail clients, professional clients or both.
+(4A) There is no further modification of the rules in the chapters referred to in (4) for activities carried on for eligible counterparties. Such clients are treated in the same way as other professional clients for the purposes of these rules.
+(5) The debt management client money chapter generally applies in respect of relevant dealings with the client category known as customers. In general, the client categories of retail clients, professional clients, as well as eligible counterparties, have no relevance to credit-related regulated activities, including debt management activities.
+Application for affiliates
+CASS 1.2.9A
+01/06/2015
+G
+(1) The fact that a firm's client is an affiliated company for MiFID business does not affect the operation of CASS to the firm in relation to that client.
+(2) For business that is not MiFID business, the operation of the custody chapter or the client money chapter may differ if a firm's client is an affiliated company and depending on certain other conditions (see, for example, CASS 6.1.10B R and CASS 7.10.26 R).
+Investments and money held under different regimes
+CASS 1.2.11
+01/06/2015
+R
+(1) A firm must not keep money in respect of which any one of the following chapters applies in the same client bank account or client transaction account as money in respect of which another of the following chapters applies:
+(a) the client money chapter;
+(b) the insurance client money chapter;
+(c) the debt management client money chapter.
+(2) In accordance with CASS 7.10.36 R, a firm which is subject to the client money chapter and holds money both (i) in its capacity as a trustee firm and (ii) other than in its capacity as a trustee firm must not keep money held in its capacity as a trustee firm in the same client bank account or client transaction account as money held other than in its capacity as a trustee firm.
+(3) To the extent that the restriction under (1) or (2) applies to a firm, the client bank accounts and client transaction accounts that a firm holds in respect of different chapters or in its different capacities (as the case may be) must be separately designated.
+CASS 1.2.12
+01/11/2007
+G
+The purpose of the rules regarding the segregation of investments and money held under different regimes is to reduce the risk of confusion between assets held under different regimes either on an on-going basis or on the failure of a firm or a third party holding those assets.
+CASS 1.2.13
+01/06/2015
+G
+A firm may, where permitted by the relevant rules opt to hold under a single chapter money that would otherwise be held under different chapters (see CASS 7.10.3 R and CASS 7.10.30 R). However, making such an election does not remove the requirement under CASS 1.2.11R (1).
+CASS 1.3 General application: where?
+CASS 1.3.1
+01/01/2021
+G
+The rules in CASS 1.3 set out the maximum territorial scope of this sourcebook. Particular rules may have express territorial limitations.
+UK establishments: general
+CASS 1.3.2
+01/01/2021
+R
+CASS 1 to CASS 13 apply to every firm, in relation to regulated activities carried on by it from an establishment in the United Kingdom.
+CASS 1.3.2A
+01/01/2021
+G
+The territorial scope of CASS 14 is set out at CASS 14.1.6R.
+CASS 1.4 Application: particular activities
+Occupational pension scheme firms (OPS firms)
+CASS 1.4.1
+01/12/2004
+R
+In the case of OPS activity undertaken by an OPS firm, CASS applies with the following general modifications:
+(1) references to customer are to the OPS or welfare trust, whichever fits the case, in respect of which the OPS firm is acting or intends to act, and with or for the benefit of which the relevant activity is to be carried on; and
+(2) if an OPS firm is required by any rule in CASS to provide information to, or obtain consent from, a customer, that firm must ensure that the information is provided to, or consent obtained from, each of the trustees of the OPS or welfare trust in respect of which that firm is acting, unless the context requires otherwise.
+Stock lending activity with or for clients
+CASS 1.4.2
+01/01/2009
+G
+(1) The custody chapter and the client money chapter apply in respect of any stock lending activity that is undertaken with or for a client by a firm.
+(2) The collateral rules apply, where relevant, in respect of stock lending activity.
+Corporate finance business
+CASS 1.4.3
+01/01/2009
+G
+(1) The custody chapter and the client money chapter apply in respect of corporate finance business that is undertaken by a firm.
+(2) The collateral rules apply, where relevant, in respect of corporate finance business.
+Oil market activity and energy market activity
+CASS 1.4.4
+01/01/2009
+G
+(1) The custody chapter and the client money chapter apply in respect of oil market activity and other energy market activity that is undertaken by a firm.
+(2) The collateral rules apply, where relevant, in respect of energy market activity.
+Appointed representatives and tied agents
+CASS 1.4.5
+01/11/2007
+G
+(1) Although CASS does not apply directly to a firm's appointed representatives, a firm will always be responsible for the acts and omissions of its appointed representatives in carrying on business for which the firm has accepted responsibility (section 39(3) of the Act). In determining whether a firm has complied with any provision of CASS, anything done or omitted by a firm's appointed representative (when acting as such) will be treated as having been done or omitted by the firm (section 39(4) of the Act). Equally, CASS does not apply directly to tied agents. A MiFID investment firm will be fully and unconditionally responsible for the acts and omission of the tied agents that it appoints.
+(2) Firms should also refer to SUP 12 (Appointed representatives), which sets out requirements which apply to firms using appointed representatives and tied agents.
+Depositaries
+CASS 1.4.6
+01/01/2009
+R
+The client money chapter does not apply to a depositary when acting as such.
+CASS 1.4.6A
+22/07/2013
+G
+Firms acting as trustee or depositary of an AIF are reminded of the obligations in FUND 3.11 (Depositaries) and Chapter IV (Depositary) of the AIFMD level 2 regulation which apply in addition to those in CASS.
+CASS 1.4.6B
+01/01/2021
+G
+Firms acting as trustee or depositary of a UK UCITS are reminded of the obligations in COLL 6.6B (UCITS depositaries) and in the UCITS level 2 regulation, which apply in addition to those in CASS.
+CASS 1.4.7
+18/03/2016
+R
+Subject to CASS 1.4.6 R, CASS applies to a depositary, when acting as such, with the following general modifications: 'client' means 'trustee', 'trust', 'AIF', 'AIFM acting on behalf of the AIF', ‘UCITS scheme’, ‘authorised fund manager acting on behalf of the UCITS scheme’, or 'collective investment scheme', as appropriate.
+CASS 1.4.8A
+01/07/2014
+R
+(1) The application of CASS for a trustee firm acting as a depositary is set out in CASS 1.4.6 R and CASS 1.4.7 R.
+(2) The application of CASS for a trustee firm that is not acting as a depositary is limited as follows:
+(a) the mandate rules apply;
+(b) for MiFID business, the custody chapter and the client money chapter apply; and
+(c) for business that is not MiFID business, the custody chapter and the client money chapter apply only to trustee firms acting as trustees of personal pension schemes or stakeholder pension schemes, including SIPPs.
+(3) To the extent that CASS applies to a trustee firm, it applies with the following general modification: 'client' means 'relevant trustee', 'trust', or 'beneficiary', as appropriate.
+Debt management activities
+CASS 1.4.15
+01/04/2014
+G
+(1) The debt management client money chapter applies to CASS debt management firms receiving or holding client money.
+(2) The mandate rules apply, where relevant, to CASS debt management firms carrying on debt management activity.
+CASS 1.5 Application: electronic media and E-Commerce
+Application to electronic media
+CASS 1.5.1
+01/12/2004
+G
+GEN 2.2.14 R (References to writing) has the effect that electronic media may be used to make communications that are required by the Handbook to be "in writing" unless a contrary intention appears.
+CASS 1.5.2
+01/12/2004
+G
+For any electronic communication with a customer, a firm should:
+(1) have in place appropriate arrangements, including contingency plans, to ensure the secure transmission and receipt of the communication; it should also be able to verify the authenticity and integrity of the communication; the arrangements should be proportionate and take into account the different levels of risk in a firm's business;
+(2) be able to demonstrate that the customer wishes to communicate using this form of media; and
+(3) if entering into an agreement, make it clear to the customer that a contractual relationship is created that has legal consequences.
+CASS 1.5.3
+01/12/2004
+G
+Firms should note that GEN 2.2.14 R does not affect any other legal requirement that may apply in relation to the form or manner of executing a document or agreement.

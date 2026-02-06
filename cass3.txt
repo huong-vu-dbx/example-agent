@@ -1,0 +1,59 @@
+CASS 3 Collateral
+You are viewing CASS 3 Collateral as of 06/02/2026. CASS 3 Collateral was last updated on 23/10/2025.
+Rules
+Guidance
+Deleted
+Related resources
+CASS 3.1 Application and Purpose
+Application
+CASS 3.1.1
+01/11/2007
+R
+This chapter applies to a firm when it receives or holds assets in connection with an arrangement to secure the obligation of a client in the course of, or in connection with, its designated investment business, including MiFID business.
+CASS 3.1.2
+01/01/2021
+G
+Firms are reminded that the application of this chapter is also dependent on the location from which the activity is undertaken (see CASS 1.3.2R).
+CASS 3.1.3
+01/11/2007
+R
+This chapter does not apply to a firm that has only a bare security interest (without rights to hypothecate) in the client's asset. In such circumstances, the firm must comply with the custody rules or client money rules as appropriate.
+CASS 3.1.4
+01/11/2007
+G
+For the purpose of this chapter only, a bare security interest in the client's asset gives a firm the right to realise the assets only on a client's default and without the right to use other than in default.
+Purpose
+CASS 3.1.5
+01/11/2007
+G
+The purpose of this chapter is to ensure that an appropriate level of protection is provided for those assets over which a client gives a firm certain rights. The arrangements covered by this chapter are those under which the firm is given a right to use the asset, and the firm treats the asset as if legal title and associated rights to that asset had been transferred to the firm subject only to an obligation to return equivalent assets to the client upon satisfaction of the client's obligation to the firm. The rights covered in this chapter do not include those arrangements by which the firm has only a bare security interest in the client's asset (in which case the custody rules or client money rules apply).
+CASS 3.1.6
+01/11/2007
+G
+Examples of the arrangements covered by this chapter include the taking of collateral by a firm, under the ISDA English Law (transfer of title) and the New York Law Credit Support Annexes (assuming the right to rehypothecate has not been disapplied).
+CASS 3.1.7
+01/11/2007
+G
+This chapter recognises the need to apply a differing level of regulatory protection to the assets which form the basis of the two different types of arrangement described in CASS 3.1.5 G. Under the bare security interest arrangement, the asset continues to belong to the client until the firm's right to realise that asset crystallises (that is, on the client's default). But under a "right to use arrangement", the client has transferred to the firm the legal title and associated rights to the asset, so that when the firm exercises its right to treat the asset as its own, the asset ceases to belong to the client and in effect becomes the firm's asset and is no longer in need of the full range of client asset protection. The firm may exercise its right to treat the asset as its own by, for example, clearly so identifying the asset in its own books and records.
+CASS 3.1.7A
+01/07/2014
+G
+Firms are reminded of the client's best interests rule which requires a firm to act honestly, fairly and professionally, in accordance with the best interests of its clients, when agreeing to, entering into, exercising its rights under and fulfilling its obligations under an arrangement covered by this chapter, and when structuring its business to include such arrangements.
+CASS 3.1.8
+01/03/2011
+G
+A prime brokerage firm is reminded of the additional obligations in CASS 9.3.1R which apply to prime brokerage agreements.
+CASS 3.2 Requirements
+Application
+CASS 3.2.2
+01/11/2007
+R
+A firm that receives or holds a client's assets under an arrangement to which this chapter applies and which exercises its right to treat the assets as its own must ensure that it maintains adequate records to enable it to meet any future obligations including the return of equivalent assets to the client.
+CASS 3.2.3
+01/12/2004
+G
+If the firm has the right to use the client's asset under a "right to use arrangement" but has not yet exercised its right to treat the asset as its own, the client money rules or the custody rules will continue to apply as appropriate until such time as the firm exercises its right, at which time CASS 3.2.2 R will apply.
+CASS 3.2.4
+23/10/2025
+G
+When appropriate, firms that enter into the arrangements with retail clients covered in this chapter will be expected to identify in the statement of custody assets sent to the client in accordance with COBS 16.4 (Statements of client designated investments or client money), COBS 16A.5 (Statements of client financial instruments or client funds) or CASS 9.5 (Reporting to clients on request) details of the assets which form the basis of the arrangements. Where the firm utilises global netting arrangements, a statement of the assets held on this basis will suffice.

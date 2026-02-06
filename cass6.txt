@@ -1,0 +1,1180 @@
+CASS 6 Custody rules
+You are viewing CASS 6 Custody rules as of 06/02/2026. CASS 6 Custody rules was last updated on 23/05/2025.
+Rules
+Guidance
+Evidential Provisions
+Deleted
+Related resources
+CASS 6.1 Application
+CASS 6.1.1
+01/01/2021
+R
+This chapter (the custody rules) applies to a firm:
+(1) [deleted]
+(a) [deleted]
+(b) [deleted]
+(1A) when it holds financial instruments belonging to a client in the course of its MiFID business;
+(1B) when it is safeguarding and administering investments, in the course of business that is not MiFID business;
+(1C) when it is acting as trustee or depositary of an AIF;
+(1D) when it is acting as trustee or depositary of a UK UCITS; and
+(1E) in respect of any arrangement for a client to transfer full ownership of a safe custody asset (or an asset which would be a safe custody asset but for the arrangement) to the firm which is:
+(a) in the course of, or in connection with, the firm's designated investment business; and
+(b) for the purpose of securing or otherwise covering present or future, actual or contingent or prospective obligations, and the application of the custody rules to a firm under this paragraph is set out in the rules and guidance in CASS 6.1.6 R to CASS 6.1.9 G; and
+(1F) when it is a small AIFM carrying on excluded custody activities.
+(2) [deleted]
+CASS 6.1.1-A
+01/04/2015
+R
+In applying the custody rules to a small AIFM's excluded custody activities, any reference to a firm carrying on the regulated activities of safeguarding and administering investments, safeguarding and administering assets (without arranging) or arranging safeguarding and administration of assets includes those excluded custody activities that would, but for the exclusion in article 72AA of the RAO, amount to whichever of those regulated activities is referred to.
+CASS 6.1.1A
+06/04/2010
+G
+The regulated activity of safeguarding and administering investments covers both the safeguarding and administration of assets (without arranging) andarranging safeguarding and administration of assets, when those assets are either safe custody investments or custody assets. A safe custody investment is, in summary, a designated investment which a firm receives or holds on behalf of a client. Custody assets include designated investments, and any other assets that the firm holds or may hold in the same portfolio as a designated investment held for or on behalf of a client.
+CASS 6.1.1B
+18/03/2016
+R
+(1) Firms to which the custody rules apply by virtue of CASS 6.1.1R (1B) or (1E) must also apply the custody rules to those custody assets which are not safe custody investments in a manner appropriate to the nature and value of those custody assets.
+(2) Firms to which the custody rules apply by virtue of CASS 6.1.1R (1C) must also apply the custody rules:
+(a) to those custody assets which are not AIF custodial assets but are safe custody investments; and
+(b) in a manner appropriate to the nature and value of those custody assets, to those custody assets which are neither AIF custodial assets nor safe custody investments.
+(3) Firms to which the custody rules apply by virtue of CASS 6.1.1R(1D) must also apply them:
+(a) to those custody assets which are not UCITS custodial assets but are safe custody investments; and
+(b) in a manner appropriate to the nature and value of those custody assets, to those custody assets which are neither UCITS custodial assets nor safe custody investments.
+CASS 6.1.1C
+01/01/2009
+G
+In accordance with article 42 of the Regulated Activities Order, a firm ("I") will not be arranging safeguarding and administration of assets if it introduces a client to another firm whose permitted activities include the safeguarding and administration of investments, or to an exempt person acting as such, with a view to that other firm or exempt person:
+(1) providing a safe custody service in the United Kingdom; or
+(2) arranging for the provision of a safe custody service in the United Kingdom by another person;
+and the other firm, exempt person or other person who is to provide the safe custody service is not in the same group as I, and does not remunerate I.
+CASS 6.1.2
+01/01/2009
+G
+Firms are reminded that dividends (actual or payments in lieu), stock lending fees and other payments received for the benefit of a client, and which are due to the clients, should be held in accordance with the client money chapter where appropriate.
+Business in the name of the firm
+CASS 6.1.4
+03/01/2018
+R
+The custody rules do not apply where a firm carries on business in its name but on behalf of the client where that is required by the very nature of the transaction and the client is in agreement.
+[Note: recital 51 to MiFID]
+CASS 6.1.5
+01/01/2009
+G
+For example, this chapter does not apply where a firm borrows safe custody assets from a client as principal under a stock lending agreement.
+Title transfer collateral arrangements
+CASS 6.1.6
+03/01/2018
+R
+(1) [deleted]
+(2) [deleted]
+(3)
+(a) A firm must not enter into a TTCA in respect of an asset belonging to a retail client.
+(b) Where a firm entered into a TTCA in respect of an asset belonging to a retail client (or one which would belong to a retail client but for the arrangement) before 3 January 2018, the firm must terminate that TTCA.[Note: article 16(10) of MiFID and article 5(5) of the MiFID Delegated Directive]
+(4) Except for CASS 6.1.6BR to CASS 6.1.9G and provided that the TTCA is not with a retail client, the custody rules do not apply to a firm in respect of an asset which is subject to a TTCA and which would otherwise be a safe custody asset.[Note: recital 52 to MiFID]
+CASS 6.1.6B
+03/01/2018
+R
+(1) A firm must ensure that any TTCA is the subject of a written agreement made on a durable medium between the firm and the client.
+(2) Regardless of the form of the agreement in (1) (which may have additional commercial purposes), it must cover the client's agreement to:
+(a) the terms for the arrangement relating to the transfer of the client's full ownership of the safe custody asset to the firm;
+(b) any terms under which the ownership of the safe custody asset is to transfer from the firm back to the client; and
+(c) (to the extent not covered by the terms under (b)), any terms for the termination of:
+(i) the arrangement under (a); or
+(ii) the overall agreement in (1).
+(3) A firm must retain a copy of the agreement under (1) from the date the agreement is entered into and until five years after the agreement is terminated.
+CASS 6.1.6C
+01/12/2014
+G
+The terms referred to in CASS 6.1.6BR (2)(b) may include, for example, terms under which the arrangement relating to the transfer of full ownership of the safe custody asset to the firm is not in effect from time to time, or is contingent on some other condition.
+CASS 6.1.6D
+03/01/2018
+R
+(1) A firm must properly consider and document the use of TTCAs in the context of:
+(a) the relationship between the client’s obligation to the firm; and
+(b) the safe custody assets subjected to TTCAs by the firm.
+(2) A firm must be able to demonstrate that it has complied with the requirement under (1).
+(3) When considering, and documenting, the appropriateness of the use of TTCAs, a firm must take into account the following factors:
+(a) whether there is only a very weak connection between the client’s obligation to the firm and the use of TTCAs, including whether the likelihood of a client’s liability to the firm is low or negligible;
+(b) the extent by which the amount of safe custody assets subject to a TTCA is in excess of the client’s obligations (including where the TTCA applies to all safe custody assets from the point of receipt by the firm) and whether the client might have no obligations at all to the firm; and
+(c) whether all the client’s safe custody assets are made subject to TTCAs, without consideration of what obligation the client has to the firm.
+(4) Where a firm uses a TTCA, it must highlight to the client the risks involved and the effect of any TTCA on the client’s safe custody assets.
+[Note: article 6 of the MiFID Delegated Directive]
+CASS 6.1.6E
+03/01/2018
+G
+A firm may choose to combine its client communication under CASS 6.1.6DR(4) with any communication made in order to comply with article 15.1(a)(ii) of the SFTR or CASS 9.3.1R(2)(d).
+CASS 6.1.8
+01/11/2007
+G
+Firms are reminded of the client's best interests rule, which requires them to act honestly, fairly and professionally in accordance with the best interests of their clients when structuring their business particularly in respect of the effect of that structure on firms' obligations under this chapter.
+Termination of title transfer collateral arrangements
+CASS 6.1.8A
+03/01/2018
+R
+(1) If a client communicates to a firm that it wishes (whether pursuant to a contractual right or otherwise) to terminate a TTCA and the client's communication is not in writing, the firm must make a written record of the client's communication which also records the date the communication was received.
+(2) A firm must keep a client's written communication, or a written record of the client's communication in (1), for five years, starting from the date the communication was received by the firm.
+(3)
+(a) If a firm agrees to the termination of a TTCA, it must notify the client of its agreement in writing. The notification must state when the termination is to take effect and whether or not the client's safe custody asset will be held under the custody rules by the firm thereafter.
+(b) If a firm does not agree to terminate a TTCA, it must notify the client of its disagreement in writing.
+(4) A firm must keep a written record of any notification it makes to a client under (3) for a period of five years, starting from the date the notification was made.
+CASS 6.1.8B
+03/01/2018
+G
+CASS 6.1.8AR (3)(a) refers only to a firm's agreement to terminate an existing TTCA. Such agreement by a firm does not necessarily need to amount to the termination of its entire agreement with the client.
+CASS 6.1.8C
+03/01/2018
+G
+When a firm notifies a client under CASS 6.1.8AR (3)(a) of when the termination of a TTCA is to take effect, it should take into account:
+(1) any relevant terms relating to such a termination that have been agreed with the client; and
+(2) the period of time it reasonably requires to return the safe custody asset to the client or to update the registration under (Holding of client assets) CASS 6.2and update its records under CASS 6.6 (Records, accounts and reconciliations).
+CASS 6.1.8D
+03/01/2018
+R
+If a TTCA is terminated, then the exemption at CASS 6.1.6R(4) no longer applies.
+CASS 6.1.8E
+03/01/2018
+G
+(1) Following the termination of a TTCA, where a firm does not immediately return the safe custody assets to the client the firm should consider whether the custody rules apply in respect of the safe custody assets pursuant to CASS 6.1.1R.
+(2) Where the custody rules apply to a firm for safe custody assets in these circumstances then the firm is required to comply with those rules and should, for example, update the registration under CASS 6.2(Holding of client assets), update its records under CASS 6.6 (Records, accounts and reconciliations) and treat any shortfall in accordance with CASS 6.6.54 R (in each case as appropriate).
+CASS 6.1.9
+01/11/2007
+G
+Firms are reminded that, in certain cases, the collateral rules apply where a firm receives collateral from a client in order to secure the obligations of the client.
+Prime brokerage agreements
+CASS 6.1.9A
+01/03/2011
+G
+A prime brokerage firm is reminded of the additional obligations in CASS 9.3.1 R which apply to prime brokerage agreements.
+Affiliated companies - MiFID business
+CASS 6.1.10
+01/01/2009
+G
+The fact that a client is an affiliated company in respect of MiFID business does not affect the operation of the custody rules in relation to that client.
+Affiliated companies - non-MiFID business
+CASS 6.1.10B
+01/07/2014
+R
+In respect of a firm's business falling under CASS 6.1.1R (1B), the custody rules do not apply to the firm when it is safeguarding and administering investments on behalf of an affiliated company, unless:
+(1) the firm has been notified that the designated investment belongs to a client of the affiliated company; or
+(2) the affiliated company is a client dealt with at arm's length.
+Delivery versus payment transaction exemption
+CASS 6.1.12
+01/11/2015
+R
+(1) Subject to (2) and CASS 6.1.12B R and with the written agreement of the relevant client, a firm need not treat this chapter as applying in respect of a delivery versus payment transaction through a commercial settlement system if:
+(a) in respect of a client's purchase, the firm intends for the asset in question to be due to the client within one business day following the client's fulfilment of its payment obligation to the firm; or
+(b) in respect of a client's sale, the firm intends for the asset in question to be due to the firm within one business day following the firm's fulfilment of its payment obligation to the client.
+(2) If the payment or delivery by the firm to the client has not occurred by the close of business on the third business day following the date on which a firm makes use of the exemption under (1), the firm must stop using that exemption for the transaction.
+(3) If the period referred to in CASS 6.1.12R (2) has expired before such a delivery versus payment transaction through a commercial settlement system has settled, a firm may, until settlement and provided that doing so is consistent with the firm's permissions and it complies with (4), segregate the firm's own money as client money (in accordance with the client money rules) of an amount equivalent to the value at which that safe custody asset is reasonably expected to settle instead of holding the client's safe custody assets (in accordance with the custody rules).
+(4) Where a firm intends to segregate money as client money instead of the client's safe custody asset under (3) it must, before doing so, ensure that this would result in money being held for the relevant client in respect of the shortfall under CASS 7.17.2R (statutory trust).
+(5) Where a firm segregates an amount of client money instead of the client's safe custody assets under (3) it must also:
+(a) ensure the money is segregated under CASS 7.13 (Segregation of client money) and recorded as being held for the relevant client(s) under CASS 7.15 (Records, accounts and reconciliations);
+(b) keep a record of the actions the firm has taken under this rule which includes a description of the safe custody asset in question, identifies the relevant affected client, and specifies the amount of money that the firm has appropriated as client money to cover the value of the safe custody asset; and
+(c) update the record made under (5)(b) when the transaction in question has settled and the firm has re-appropriated the money.
+CASS 6.1.12A
+01/12/2014
+G
+(1) The amount of client money a firm segregates for the purposes of CASS 6.1.12R (3) may be determined by the previous day's closing mark to market valuation of the relevant safe custody asset or, if in relation to a particular safe custody asset none is available, the most recent available valuation.
+(2) Where a firm is segregating money for the purposes of CASS 6.1.12R (3) it should, as regularly as necessary, and having regard to Principle 10:
+(a) review the value of the safe custody asset in question in line with (1); and
+(b) where the firm has found that the value of the safe custody asset has changed, adjust the amount of money it has appropriated to ensure that these monies are sufficient to cover the latest value of the safe custody asset.
+CASS 6.1.12B
+01/12/2014
+R
+A firm cannot, in respect of a particular delivery versus payment transaction, make use of the exemption under CASS 6.1.12 R in either or both of the following circumstances:
+(1) it is not a direct member or participant of the relevant commercial settlement system, nor is it sponsored by such a member or participant, in accordance with the terms and conditions of that commercial settlement system;
+(2) the transaction in question is being settled by another person on behalf of the firm through an account held at the relevant commercial settlement system by that other person.
+CASS 6.1.12C
+01/12/2014
+G
+Where a firm does not meet the requirements in CASS 6.1.12 R or CASS 6.1.12B R for use of the exemption in CASS 6.1.12 R, the firm is subject to the custody rules in respect of any safe custody asset it holds in connection with the delivery versus payment transaction in question.
+CASS 6.1.12D
+01/12/2014
+G
+(1) In line with CASS 6.1.12 R, where a firm receives a safe custody asset from a client in respect of a delivery versus payment transaction the firm is carrying out through a commercial settlement system in respect of a client's sale, and the firm has not fulfilled its payment obligation to the client by close of business on the third business day following the date of the client's fulfilment of its delivery obligation to the firm, the firm should consider whether the custody rules apply in respect of the safe custody asset pursuant to CASS 6.1.1R (1A) to CASS 6.1.1R (1D).
+(2) Upon settlement of a delivery versus payment transaction a firm is carrying out through a commercial settlement system (including when it is settled within the three business day period referred to in CASS 6.1.12 R), in respect of:
+(a) a client's purchase, the custody rules apply to the relevant safe custody asset the firm receives upon settlement; and
+(b) a client's sale, the client money rules will apply to the relevant money received on settlement.
+CASS 6.1.12E
+01/12/2014
+R
+(1) If a firm makes use of the exemption under CASS 6.1.12 R, it must obtain the client's written agreement to the firm's use of this exemption.
+(2) In respect of each client, the written agreement in (1) must be retained during the time that the firm makes use, or intends to make use, of the exemption under CASS 6.1.12 R in respect of that client's safe custody assets.
+Temporary handling of safe custody assets
+CASS 6.1.15
+01/01/2009
+G
+The custody rules do not apply if a firm temporarily handles a safe custody asset belonging to a client. A firm should temporarily handle a safe custody asset for no longer than is reasonably necessary. In most transactions this would be no longer than one business day, but it may be longer or shorter depending upon the transaction in question. For example, when a firm executes an order to sell shares which have not been registered on a de-materialised exchange, handling documents for longer periods may be reasonably necessary. However, in the case of safe custody assets in bearer form, the firm is expected to handle them for less than one business day. When a firm temporarily handles safe custody assets, it is still obliged to comply with Principle 10 (Clients' assets).
+CASS 6.1.16
+01/01/2009
+G
+When a firm temporarily handles a safe custody asset, in order to comply with its obligation to act in accordance with Principle 10 (Clients' assets), the following are guides to good practice:
+(1) a firm should keep the safe custody asset secure, record it as belonging to that client, and forward it to the client or in accordance with the client's instructions as soon as practicable after receiving it; and
+(2) a firm should make and retain a record of the fact that the firm has handled that safe custody asset and of the details of the client concerned and of any action the firm has taken.
+Exemptions which do not apply to MiFID business
+CASS 6.1.16A
+01/01/2009
+R
+The exemptions in CASS 6.1.16B R to CASS 6.1.16D G do not apply to a MiFID investment firm which holds financial instruments belonging to a client in the course of MiFID business.
+Managers of AIFs and UCITS
+CASS 6.1.16BA
+01/01/2021
+G
+(1) The custody rules do not apply to a firm that is managing an AIF or managing a UK UCITS in relation to excluded custody activities, except where the firm is a small AIFM.
+(2) The custody rules can apply to a firm that is managing an AIF or managing a UK UCITS in relation to activities that are not excluded custody activities. For example, where the firm:
+(a) holds financial instruments belonging to a client in the course of its MiFID business (see CASS 6.1.1R (1A)); or
+(b) is safeguarding and administering investments, in the course of business that is not MiFID business (see CASS 6.1.1R (1B)).
+Personal investment firms
+CASS 6.1.16C
+01/01/2009
+R
+The custody rules do not apply to a personal investment firm when it temporarily holds a designated investment, other than in bearer form, belonging to a client, if the firm:
+(1) keeps it secure, records it as belonging to that client, and forwards it to the client or in accordance with the client's instructions, as soon as practicable after receiving it;
+(2) retains the designated investment for no longer than the firm has taken reasonable steps to determine is necessary to check for errors and to receive the final document in connection with any series of transactions to which the documents relate; and
+(3) makes a record, which must then be retained for a period of 5 years after the record is made, of all the designated investments handled in accordance with (1) and (2) together with the details of the clients concerned and of any action the firm has taken.
+CASS 6.1.16D
+01/01/2009
+G
+Administrative convenience alone should not lead a personal investment firm to rely on CASS 6.1.16C R. Personal investment firms should consider what is in the client's interest and not rely on CASS 6.1.16C R as a matter of course.
+Trustees and depositaries (except depositaries of AIFs and UCITS)
+CASS 6.1.16E
+01/01/2009
+R
+The specialist regime in CASS 6.1.16F R to CASS 6.1.16I G does not apply to a MiFID investment firm which holds financial instruments belonging to a client in the course of MiFID business.
+CASS 6.1.16F
+01/01/2021
+R
+When a trustee firm or depositary acts as a custodian for a trust or collective investment scheme, (except for a firm acting as trustee or depositary of an AIF and a firm acting as trustee or depositary of a UK UCITS), and:
+(1) the trust or scheme is established by written instrument; and
+(2) the trustee firm or depositary has taken reasonable steps to determine that the relevant law and provisions of the trust instrument or scheme constitution will provide protections at least equivalent to the custody rules for the trust property or scheme property;
+the trustee firm or depositary need comply only with the custody rules listed in the table below.
+Reference
+Rule
+CASS 6.1.1 R to CASS 6.1.9 G and CASS 6.1.15 G to CASS 6.1.16C R
+Application
+CASS 6.1.16E R to CASS 6.1.16I G
+Trustees and depositaries
+CASS 6.1.22 G to CASS 6.1.24 G
+General purpose
+CASS 6.2.1 R and CASS 6.2.2 R
+Protection of clients' safe custody assets
+CASS 6.2.3 R and CASS 6.2.3B G
+Registration and recording of legal title
+CASS 6.2.7 R
+Holding
+CASS 6.3.1 R to CASS 6.3.4B G
+Depositing safe custody assets with third parties
+CASS 6.4.1 R and CASS 6.4.2 G
+Use of safe custody assets
+CASS 6.6
+Records, accounts and reconciliations
+CASS 6.1.16G
+01/01/2009
+G
+The reasonable steps referred in CASS 6.1.16FR (2) could include obtaining an appropriate legal opinion to that effect.
+CASS 6.1.16I
+01/01/2009
+G
+A trustee firm or depositary that just arranges safeguarding and administration of assets may also take advantage of the exemption in CASS 6.1.16J R (Arrangers).
+Depositaries of AIFs
+CASS 6.1.16IA
+01/06/2015
+R
+(1) Subject to (2), when a firm is acting as trustee or depositary of an AIF the firm need comply only with the custody rules in the table below:
+Reference Rule
+CASS 6.1.1 R, CASS 6.1.9 G, CASS 6.1.9A G and CASS 6.1.16IB G Application
+CASS 6.1.22 G to CASS 6.1.24 G General purpose
+CASS 6.2.3 R and CASS 6.2.3B G to CASS 6.2.6 G Registration and recording of legal title
+CASS 6.2.7 R Holding
+CASS 6.6.2 R, CASS 6.6.4 R, CASS 6.6.6 R, CASS 6.6.7 R, CASS 6.6.57R (2) and CASS 6.6.58 G Records, accounts and reconciliations
+(2) When a firm is acting as trustee or depositary of an AIF that is an authorised AIF the firm must, in addition to the custody rules in (1), also comply with the custody rules in the table below:
+Reference Rule
+CASS 6.1.1BR (2) Application
+CASS 6.6.8 R, CASS 6.6.11 R to CASS 6.6.32 G, CASS 6.6.41 G, CASS 6.6.43 G and CASS 6.6.47 G. Records, accounts and reconciliations
+CASS 6.1.16IB
+22/07/2013
+G
+Firms acting as trustee or depositary of an AIF are reminded of the obligations in FUND 3.11 (Depositaries) and Chapter IV (Depositary) of the AIFMD level 2 regulation which apply in addition to those in CASS 6.
+CASS 6.1.16IC
+01/07/2014
+G
+A firm (Firm A) to which another firm acting as trustee or depositary of an AIF (Firm B) has delegated safekeeping functions in accordance with FUND 3.11.28 R (Delegation: safekeeping) will not itself be acting as trustee or depositary of an AIF for that AIF. CASS 6.1.16IA R will not apply to Firm A in respect of that AIF. However, Firm A may be safeguarding and administering investments in respect of that AIF.
+Depositaries of UCITS
+CASS 6.1.16ID
+01/01/2021
+R
+When a firm is acting as trustee or depositary of a UK UCITS, the firm need comply only with the custody rules in the table below:
+Reference
+Rule
+CASS 6.1.1R, CASS 6.1.1BR(3), CASS 6.1.9G, CASS 6.1.16IEG
+Application
+CASS 6.1.22G to CASS 6.1.24G
+General purpose
+CASS 6.2.3R, CASS 6.2.3AR, CASS 6.2.3BG, CASS 6.2.7R
+Holding of client assets
+CASS 6.6.2R, CASS 6.6.4R, CASS 6.6.7R, CASS 6.6.41AG, CASS 6.6.57R(2A), CASS 6.6.58G
+Records, accounts and reconciliations
+CASS 6.1.16IE
+01/01/2021
+G
+Firms acting as trustee or depositary of a UK UCITS are reminded of the obligations in COLL 6.6B (UCITS depositaries) which apply as well as those in CASS 6.
+CASS 6.1.16IF
+01/01/2021
+G
+(1) A firm (Firm A) to which another firm acting as trustee or depositary of a UK UCITS (Firm B) has delegated safekeeping functions under COLL 6.6B.25R (Delegation: safekeeping) will not itself be acting as trustee or depositary of a UK UCITS for that UCITS scheme.
+(2) CASS 6.1.16IDR will not apply to Firm A for that UCITS scheme.
+(3) However, Firm A may be safeguarding and administering investments in respect of that UCITS scheme.
+Arrangers
+CASS 6.1.16J
+01/06/2015
+R
+Only the custody rules in the table below apply to a firm when arranging safeguarding and administration of assets.
+Reference
+Rule
+CASS 6.1.1 R to CASS 6.1.9 G and CASS 6.1.15 G to CASS 6.1.16B R
+Application
+CASS 6.1.16J R
+Arrangers
+CASS 6.1.16K R
+Records
+CASS 6.1.22 G to CASS 6.1.24 G
+General purpose
+CASS 6.3.4A R and CASS 6.3.4B G
+Third-party custody agreements
+CASS 6.1.16K
+01/07/2014
+R
+When a firm arranges safeguarding and administration of assets, it must ensure that proper records of the arrangements are made and retained for a period of 5 years after they are made.
+General purpose
+CASS 6.1.22
+01/01/2009
+G
+Principle 10 (Clients' assets) requires a firm to arrange adequate protection for clients' assets when it is responsible for them. As part of these protections, the custody rules require a firm to take appropriate steps to protect safe custody assets for which it is responsible.
+CASS 6.1.23
+01/01/2009
+G
+The rules in this chapter are designed primarily to restrict the commingling of client and the firm's assets and minimise the risk of the client's safe custody assets being used by the firm without the client's agreement or contrary to the client's wishes, or being treated as the firm's assets in the event of its insolvency.
+CASS 6.1.24
+01/01/2021
+G
+The custody rules also, where relevant,implemented the provisions of MiFID which regulated the obligations of a firm when it held financial instruments belonging to a client in the course of its MiFID business.
+CASS 6.2 Holding of client assets
+Requirement to protect clients' safe custody assets
+CASS 6.2.1
+03/01/2018
+R
+A firm must, when holding safe custody assets belonging to clients, make adequate arrangements so as to safeguard clients' ownership rights, especially in the event of the firm's insolvency, and to prevent the use of safe custody assets belonging to a client on the firm's own account except with the client's express consent.
+[Note: article 16(8) of MiFID]
+Requirement to have adequate organisational arrangements
+CASS 6.2.2
+03/01/2018
+R
+A firm must introduce adequate organisational arrangements to minimise the risk of the loss or diminution of clients' safe custody assets, or the rights in connection with those safe custody assets, as a result of the misuse of the safe custody assets, fraud, poor administration, inadequate record-keeping or negligence.
+[Note: article 2(1)(f) of the MiFID Delegated Directive]
+Registration and recording of legal title
+CASS 6.2.3
+23/05/2025
+R
+Subject to CASS 6.2.3-AR , a firm must effect appropriate registration or recording of legal title to a safe custody asset belonging to a client in the name of:
+(1) the client , unless the client is an authorised person acting on behalf of its client , in which case it may be registered in the name of the client of that authorised person ;
+(2) a nominee company which is controlled by:
+(a) the firm ;
+(b) an affiliated company ;
+(c) a recognised investment exchange ; or
+(d) a third party with whom financial instruments are deposited under CASS 6.3 (Depositing assets and arranging for assets to be deposited with third parties);
+(3) any other third party, if the firm is not a trustee firm but is prevented from registering or recording legal title in the way set out in (1) or (2) and provided that:
+(a) the safe custody asset is subject to the law or market practice of a jurisdiction outside the United Kingdom and the firm has taken reasonable steps to determine that it is in the client's best interests to register or record it in that way, or that it is not feasible to do otherwise, because of the nature of the applicable law or market practice; and
+(b) the firm has notified the client in writing;
+(4) the firm if either:
+(a) it is not a trustee firm but is prevented from registering or recording legal title in the way set out in (1), (2) or (3) and provided that:
+(i) the safe custody asset is subject to the law or market practice of a jurisdiction outside the United Kingdom and the firm has taken reasonable steps to determine that it is in the client's best interests to register or record it in that way, or that it is not feasible to do otherwise, because of the nature of the applicable law or market practice; and
+(ii) the firm has notified the client if a professional client , or obtained prior written consent if a retail client .
+(b) it is a trustee firm and is prevented from registering or recording legal title in the way set out in (1) or (2).
+CASS 6.2.3-A
+23/05/2025
+R
+A firm need not comply with CASS 6.2.3 R for any safe custody asset:
+(1) that it has deposited with a third party in accordance with CASS 6.3 (Depositing assets and arranging for assets to be deposited with third parties); and
+(2) for which, because of the arrangements with that third party for depositing the safe custody asset, it is not practicable for the firm to effect appropriate registration or recording of legal title itself.
+CASS 6.2.3A
+27/07/2012
+R
+If:
+(1) the safe custody asset is an emission auction product that is a financial instrument; and
+(2) it is not practicable or possible for a firm to effect registration or recording of legal title in this asset in the manner set out in CASS 6.2.3 R,
+the firm must register or record legal title in its name provided it has notified the client in writing.
+CASS 6.2.3B
+01/06/2015
+G
+A firm, when complying with CASS 6.2.3R (3) or CASS 6.2.3R (4)(a), will be expected to demonstrate that adequate investigations have been made of the jurisdiction concerned by reference to local sources, which may include an appropriate legal opinion.
+CASS 6.2.4
+01/06/2015
+R
+A firm must accept the same level of responsibility to its client for any nominee company controlled by the firm, or any nominee company controlled by an affiliated company of the firm, with respect of any requirements of the custody rules.
+CASS 6.2.5
+01/06/2015
+R
+A firm may only register or record legal title to its own applicable asset in the same name as that in which legal title to a client's safe custody asset is registered or recorded if the firm's applicable asset is separately identified from the client's safe custody asset in the firm's records, and either or both of the conditions in (1) and (2) are met.
+(1) The firm's holding of its own applicable asset arises incidentally to:
+(a) designated investment business it carries on for the account of any client; or
+(b) steps taken by the firm to comply with an applicable custody rule;
+and, in the case of either (a) or (b), the situation where registration or recording of legal title of the firm's applicable asset is in the same name as the client's safe custody asset under this rule remains in place only to the extent that it is reasonably necessary.
+(2) The registration or recording of legal title of the firm's own applicable asset in the same name as the client's safe custody asset is only as a result of the law or market practice of a jurisdiction outside of the United Kingdom.
+CASS 6.2.6
+01/06/2015
+G
+(1) Consistent with a firm's requirements to protect clients' safe custody assets and have adequate organisation arrangements in place (CASS 6.2.1 R and CASS 6.2.2 R), before a firm registers or records legal title to its own applicable asset in the same name as that in which legal title to a client's safe custody asset is registered or recorded under CASS 6.2.5 R, it should consider whether there are any means to avoid doing so.
+(2) Examples of where the conditions under CASS 6.2.5R (1) might be met include in the course of a firm:
+(a) correcting a dealing error that relates to a transaction for the account of a client; or
+(b) maintaining a small balance of the firm's own applicable assets for purely operational or compliance purposes (eg, as a float to cover potential custody shortfalls) in an amount that is proportionate to the total amount of safe custody assets held for clients; or
+(c) allocating safe custody assets to clients following settlement of a bulk order; or
+(d) facilitating a client transaction that involves fractional entitlements; or
+(e) making good a shortfall.
+CASS 6.2.7
+01/01/2009
+R
+A firm must ensure that any documents of title to applicable assets in bearer form, belonging to the firm and which it holds in its physical possession, are kept separately from any document of title to a client's safe custody assets in bearer form.
+Allocated but unclaimed safe custody assets
+CASS 6.2.7A
+26/07/2017
+R
+CASS 6.2.8G to CASS 6.2.16G do not apply to a firm following its failure.
+CASS 6.2.7B
+26/07/2017
+G
+CASS 6.7.2R to CASS 6.7.7R (Disposal of safe custody assets) applies to a firm following its failure in respect of allocated but unclaimed safe custody assets.
+CASS 6.2.8
+01/12/2014
+G
+The purpose of CASS 6.2.10 R is to set out the requirements a firm must comply with if it chooses to divest itself of a client's unclaimed safe custody assets.
+CASS 6.2.9
+01/12/2014
+G
+Before acting in accordance with CASS 6.2.10 R to CASS 6.2.16 G, a firm should consider whether its actions are permitted by law and consistent with the arrangements under which the safe custody assets are held. These provisions relate to a firm's obligations as an authorised person.
+CASS 6.2.10
+01/12/2014
+R
+A firm may either (i) liquidate an unclaimed safe custody asset it holds for a client, at market value, and pay away the proceeds or (ii) pay away an unclaimed safe custody asset it holds for a client, in either case, to a registered charity of its choice provided:
+(1) this is permitted by law and consistent with the arrangements under which that safe custody asset is held;
+(2) it has held that safe custody asset for at least 12 years;
+(3) in the 12 years preceding the divestment of that safe custody asset, it has not received instructions relating to any safe custody assets from or on behalf of the client concerned;
+(4) it can demonstrate that it has taken reasonable steps to trace the client concerned and return that safe custody asset; and
+(5) the firm complies with CASS 6.2.14 R: the undertaking requirement.
+CASS 6.2.11
+01/12/2014
+E
+(1) Taking reasonable steps in CASS 6.2.10R (4) includes following this course of conduct:
+(a) determining, as far as reasonably possible, the correct contact details for the relevant client;
+(b) writing to the client at the last known address either by post or by electronic mail to inform it:
+(i) of the name of the firm with which the client first deposited the safe custody asset in question;
+(ii) of the firm's intention to pay the safe custody asset to charity under CASS 6.2.10 R if it does not receive instructions from the client within 28 days;
+(c) where the client has not responded after the 28 days referred to in (b) attempting to communicate the information set out in (b) to the client on at least one further occasion by any means other than that used in (b) including by post, electronic mail, telephone or media advertisement;
+(d) subject to (e) and (f), where the client has not responded within 28 days following the most recent communication, writing again to the client at the last known address either by post or by electronic mail to inform them that:
+(i) as the firm received no instructions from the client, it will in 28 days pay the safe custody asset to charity under CASS 6.2.10 R; and
+(ii) an undertaking will be provided by the firm or a member of its group to pay to the client concerned a sum equal to the value of the safe custody asset at the time it was liquidated or paid away in the event of the client seeking to claim the safe custody asset in future;
+(e) if the firm has carried out the steps in (b) or (c) and in response has received positive confirmation in writing that the client is no longer at a particular address, the firm should not use that address for the purposes of (d);
+(f) if, after carrying out the steps in (a), (b) and (c), the firm has obtained positive confirmation that none of the contact details it holds for the relevant client are accurate or, if utilised, the communication is unlikely to reach the client, the firm does not have to comply with (d); and
+(g) waiting a further 28 days following the most recent communication under this rule before divesting itself of the safe custody asset under CASS 6.2.10 R.
+(2) Compliance with (1) may be relied on as tending to establish compliance with CASS 6.2.10R (4).
+(3) Contravention of (1) may be relied on as tending to establish contravention of CASS 6.2.10R (4).
+CASS 6.2.12
+01/12/2014
+G
+For the purpose of CASS 6.2.11E (1)(a), a firm may use any available means to determine the correct contact details for the relevant client, including telephoning the client, searching internal records, media advertising, searching public records, mortality screening, using credit reference agencies or tracing agents.
+CASS 6.2.13
+01/12/2014
+R
+Where a firm liquidates a safe custody asset under CASS 6.2.10 R, it must pay away the proceeds to charity as soon as practicable.
+CASS 6.2.14
+01/12/2014
+R
+Where a firm divests itself of a client's safe custody asset under CASS 6.2.10 R, it must comply with either (1)(a) or (1)(b) and, in either case, (2).
+(1)
+(a) The firm must unconditionally undertake to pay to the client concerned a sum equal to the value of the safe custody asset at the time it was liquidated or paid away in the event of the client seeking to claim the safe custody asset in future.
+(b) The firm must ensure that an unconditional undertaking in the terms set out in (1)(a) is made by a member of its group and there is suitable information available for relevant clients to identify the member of the group granting the undertaking.
+(2) Any undertaking under this rule must be:
+(a) authorised by the firm's governing body where (1)(a) applies or the governing body of the group member where (1)(b) applies;
+(b) legally enforceable by any person that had a legally enforceable claim to the unclaimed safe custody asset in question at the time it was divested by the firm, or by an assign or successor in title to such claim; and
+(c) retained by the firm, and, where (1)(b) applies, by the group member, indefinitely.
+CASS 6.2.15
+01/12/2014
+R
+(1) If a firm pays away a client's unclaimed safe custody assets to charity or liquidates a client's unclaimed safe custody assets and pays the proceeds to charity under CASS 6.2.10 R it must make and retain, or where the firm already has such records, retain:
+(a) records of all safe custody assets divested under CASS 6.2.10 R (including details of the value of each asset at that time and the identity of the client to whom the asset was allocated);
+(b) all relevant documentation (including charity receipts); and
+(c) details of the communications the firm had or attempted to make with the client concerned pursuant to CASS 6.2.10R (4).
+(2) Records in (1) must be retained indefinitely.
+(3) If a member of the firm's group has provided an undertaking under CASS 6.2.14R (1)(b) then the records in (1) must be readily accessible to that group member.
+Costs associated with divesting allocated but unclaimed client assets
+CASS 6.2.16
+01/12/2014
+G
+Any costs associated with the firm divesting itself of safe custody assets pursuant to CASS 6.2.10 R to CASS 6.2.15 R should be paid for from the firm's own funds, including:
+(1) any costs associated with the firm carrying out the steps in CASS 6.2.10R (4) or CASS 6.2.11 E; and
+(2) the cost of any insurance purchased by a firm or the relevant member of its group to cover any legally enforceable claim in respect of the assets divested under CASS 6.2.10 R.
+CASS 6.3 Depositing assets and arranging for assets to be deposited with third parties
+Depositing safe custody assets with third parties
+CASS 6.3.1
+03/01/2018
+R
+(1) A firm may deposit safe custody assets held by it on behalf of its clients into an account or accounts opened with a third party, but only if it exercises all due skill, care and diligence in the selection, appointment and periodic review of the third party and of the arrangements for the holding and safekeeping of those safe custody assets.
+(1A) [deleted]
+(2) [deleted]
+(3) When a firm makes the selection, appointment and conducts the periodic review referred to under this rule, it must take into account:
+(a) the expertise and market reputation of the third party; and
+(b) any legal requirements related to the holding of those safe custody assets that could adversely affect clients' rights.
+(4) [deleted]
+[Note: article 3(1) of the MiFID Delegated Directive]
+CASS 6.3.2
+03/01/2018
+G
+In discharging its obligations under CASS 6.3.1 R, a firm should also consider, as appropriate, together with any other relevant matters:
+(1) the third party's performance of its services to the firm;
+(2) the arrangements that the third party has in place for holding and safeguarding the safe custody asset;
+(2A) market practices related to the holding of the safe custody asset that could adversely affect clients’ rights.
+(3) current industry standard reports, for example "Assurance reports on internal controls of services organisations made available to third parties" made in line with Technical Release AAF 01/06 of The Institute of Chartered Accountants in England and Wales or equivalent;
+(4) the capital or financial resources of the third party;
+(5) the credit-worthiness of the third party;
+(6) any other activities undertaken by the third party and, if relevant, any affiliated company; and
+(7) whether the third party has the appropriate regulatory permissions.
+CASS 6.3.2A
+01/06/2015
+R
+(1) A firm must make a record of the grounds upon which it satisfies itself as to the appropriateness of its selection and appointment of a third party under CASS 6.3.1 R. The firm must make the record on the date it makes the selection or appointment and must keep it from that date until five years after the firm ceases to use the third party to hold safe custody assets belonging to clients.
+(2) A firm must make a record of each periodic review of its selection and appointment of a third party that it conducts under CASS 6.3.1 R, its considerations and conclusions. The firm must make the record on the date it completes the review and must keep it from that date until five years after the firm ceases to use the third party to hold safe custody assets belonging to clients.
+CASS 6.3.4
+03/01/2018
+R
+(1) Subject to (2), a firm must only deposit safe custody assets with a third party in a jurisdiction which specifically regulates and supervises the safekeeping of safe custody assets for the account of another person with a third party who is subject to such regulation.
+(2) A firm must not deposit safe custody assets held on behalf of a client with a third party in a third country which does not regulate the holding and safekeeping of safe custody assets for the account of another person unless:
+(a) the nature of the safe custody assets or of the investment services connected with those safe custody assets requires them to be deposited with a third party in that third country; or
+(b) the safe custody assets are held on behalf of a professional client and the client requests the firm in writing to deposit them with a third party in that third country.
+(3) [deleted]
+(a) [deleted]
+(b) [deleted]
+(i) [deleted]
+(ii) [deleted]
+(iii) [deleted]
+(4) The requirements under paragraphs (1) and (2) of this rule also apply when the third party has delegated any of its functions concerning the holding and safekeeping of safe custody assets to another third party.
+[Note: article 3(2)-(4) of the MiFID Delegated Directive]
+Third-party custody agreements
+CASS 6.3.4A
+01/12/2014
+R
+A firm must have entered into a written agreement with any person with whom it deposits clients'safe custody assets under CASS 6.3.1 R, or with whom it arranges safeguarding and administration of assets which are clients'safe custody assets. This agreement must, at minimum:
+(1) set out the binding terms of the arrangement between the firm and the third party;
+(2) be in force for the duration of that arrangement; and
+(3) clearly set out the custody service(s) that the third party is contracted to provide.
+Depositing safe custody assets with third parties
+CASS 6.3.4A-2
+03/01/2018
+G
+CASS 6.3.4R(4) applies to a firm which deposits a safe custody asset into an account opened with a third party under CASS 6.3.1R(1). It is therefore possible for more than one firm in a chain of custody to be subject to CASS 6.3.4R(4) in respect of the same safe custody asset.
+CASS 6.3.4A-1
+03/01/2018
+R
+A firm must take the necessary steps to ensure that any client's safe custody assets deposited with a third party are identifiable separately from the applicable assets belonging to the firm and from the applicable assets belonging to that third party, by means of differently titled accounts on the books of the third party or other equivalent measures that achieve the same level of protection.
+[Note: article 2(1)(d) of the MiFID Delegated Directive]
+Third-party custody agreements
+CASS 6.3.4B
+01/12/2014
+G
+A firm should consider carefully the terms of any agreement entered into with a third party under CASS 6.3.4A R. The following terms are examples of the issues that should be addressed in these agreements (where relevant):
+(1) that the title of the account in the third party's books and records indicates that any safe custody asset credited to it does not belong to the firm;
+(2) that the third party will hold or record a safe custody asset belonging to the firm'sclient separately from any applicable asset belonging to the firm or to the third party;
+(3) the arrangements for registration or recording of the safe custody asset, if this will not be registered in the firm'sclient's name;
+(4) the restrictions over the circumstances in which the third party may withdraw assets from the account;
+(5) the procedures and authorities for the passing of instructions to, or by, the firm;
+(6) the procedures for the claiming and receiving of dividends, interest payments and other entitlements accruing to the firm'sclient; and
+(7) the provisions detailing the extent of the third party's liability in the event of the loss of a safe custody asset caused by the fraud, wilful default or negligence of the third party or an agent appointed by him.
+CASS 6.3.6A
+03/01/2018
+R
+(1) A firm must not grant any security interest, lien or right of set-off to another person over clients’ safe custody assets that enable that other person to dispose of the safe custody assets in order to recover debts unless condition (a) or (b) is satisfied:
+(a) those debts relate to:
+(i) one or more of the firm’s clients; or
+(ii) the provision of services by that other person to one or more of the firm’s clients; or
+(b) to the extent those debts relate to anything else then:
+(i) the security interest, lien or right of set-off is required by applicable law in a third country jurisdiction in which the safe custody assets are held;
+(ii) the firm discloses information to the client so that the client is informed of the risks associated with these arrangements; and
+(iii) the firm has taken reasonable steps to determine that holding safe custody assets subject to that security interest, lien or right of set-off is in the best interests of the firm’s clients.
+(2) Where security interests, liens or rights of set-off are granted by a firm over safe custody assets, or where the firm has been informed that they are granted, these must be recorded in client contracts and the firm’s own books and records to make the ownership status of safe custody assets clear, such as in the event of an insolvency.
+[Note: article 2(4) of the MiFID Delegated Directive]
+CASS 6.3.6B
+03/01/2018
+G
+Under CASS 6.3.6AR(1)(a), a security interest, lien or right of set-off to facilitate the clearing or settlement of transactions referring to clients of the firm may be regarded as being granted in order to recover debts that relate to the provision of services to one or more clients.
+CASS 6.3.6C
+03/01/2018
+G
+(1) Under CASS 6.3.6AR(1)(b)(i) a security interest, lien or right of set-off may be regarded as being required by applicable law in a third country for example where:
+(a) because of applicable law it is mandatory for such a security interest, lien or right of set-off to be given in order for the safe custody assets to be held in that third country; or
+(b)
+(i) in the context of the service being provided for the firm’s client the applicable law of that third country requires the use of a central securities depositary, securities settlement system or central counterparty;
+(ii) the rules of that central securities depositary, securities settlement system or central counterparty are subject to the oversight of a regulator that performs that function under the applicable law; and
+(iii) those rules require such a security interest, lien or right of set-off to be given.
+(2) But a firm should not grant a security interest, lien or right of set-off under CASS 6.3.6AR(1)(b)(i) that is wider than that under CASS 6.3.6AR(1)(a) where another person in a third country simply requests or demands this as a condition of business.
+CASS 6.3.6D
+03/01/2018
+G
+To comply with CASS 6.3.6AR(2) and in relation to any security interests, liens or rights of set-off over safe custody assets, a firm should ensure that:
+(1) the written terms of its client contracts include the client’s agreement to another person having such a security interest, lien or right of set-off over the client’s assets; and
+(2) its books and records are able to show the safe custody assets in respect of which the firm is aware that such security interests, liens, or rights of set-off exist.
+CASS 6.3.9
+23/03/2018
+R
+CASS 6.3.6AR does not permit a firm to agree to a third party having any recourse or right against client money in a client bank account or standing to the credit of a client transaction account of the kind referred to in:
+(1) paragraph (d) of CASS 7 Annex 2R; or
+(2) paragraph (e) of CASS 7 Annex 3R; or
+(3) paragraph (e) of CASS 7 Annex 4R.
+CASS 6.4 Use of safe custody assets
+CASS 6.4.1
+03/01/2018
+R
+(1) A firm must not enter into arrangements for securities financing transactions in respect of safe custody assets held by it on behalf of a client or otherwise use such safe custody assets for its own account or the account of any other person or client of the firm, unless:
+(a) the client has given express prior consent to the use of the safe custody assets on specified terms; and
+(b) the use of that client's safe custody assets is restricted to the specified terms to which the client consents.
+(2) A firm must not enter into arrangements for securities financing transactions in respect of safe custody assets held by it on behalf of a client in an omnibus account maintained by a third party, or otherwise use safe custody assets held in such an account for its own account or for the account of any other person unless, in addition to the conditions set out in (1):
+(a) each client whose safe custody assets are held together in an omnibus account has given express prior consent in accordance with (1)(a); or
+(b) the firm has in place systems and controls which ensure that only safe custody assets belonging to clients who have given express prior consent in accordance with (1)(a) are so used.
+(3) For the purposes of obtaining the express prior consent of a client under this rule, the consent must be clearly evidenced in writing and the signature of the client or an equivalent alternative means of affirmative execution is required.
+(4) [deleted]
+[Note: article 5(1) and (2) of the MiFID Delegated Directive]
+CASS 6.4.1A
+03/01/2018
+G
+The FCA expects firms which enter into arrangements under CASS 6.4.1 R with retail clients to only enter into securities financing transactions and not otherwise use retail clients' safe custody assets.
+CASS 6.4.1B
+03/01/2018
+G
+(1) Prior express consent by clients should be given and recorded by firms in order to allow the firm to demonstrate clearly what the client agreed to and to help clarify the status of safe custody assets.
+(2) Clients’ consent may be given once at the start of the commercial relationship, as long as it is sufficiently clear that the client has consented to the use of their safe custody assets.
+(3) Where a firm is acting on a client instruction to lend safe custody assets and where this constitutes consent to entering into the transaction, the firm should hold evidence to demonstrate this.
+[Note: recital 10 to the MiFID Delegated Directive]
+CASS 6.4.1C
+03/01/2018
+R
+A firm must take appropriate measures to prevent the unauthorised use of safe custody assets for its own account or the account of any other person, such as:
+(1) the conclusion of agreements with clients on measures to be taken by the firm in case the client does not have enough provision on its account on the settlement date, such as borrowing of the corresponding securities on behalf of the client or unwinding the position;
+(2) the close monitoring by the firm of its projected ability to deliver on the settlement date;
+(3) the putting in place of remedial measures if the firm cannot deliver on the settlement date; and
+(4) the close monitoring and prompt requesting of undelivered securities outstanding on the settlement day and beyond.
+[Note: article 5(3) of the MiFID Delegated Directive]
+CASS 6.4.1D
+03/01/2018
+G
+Examples of remedial measures in CASS 6.4.1CR(3) can be found in CASS 6.6.54R.
+CASS 6.4.2
+01/07/2014
+G
+Firms are reminded of the client's best interests rule, which requires the firm to act honestly, fairly and professionally in accordance with the best interests of their clients. For any transactions involving retail clients carried out under this section the FCA expects that:
+(1) the firm ensures that relevant collateral is provided by the borrower in favour of the client;
+(2) the current realisable value of the safe custody asset and of the relevant collateral is monitored daily; and
+(3) the firm provides relevant collateral to make up the difference where the current realisable value of the collateral falls below that of the safe custody asset, unless otherwise agreed in writing by the client.
+CASS 6.4.2A
+03/01/2018
+R
+A firm must adopt specific arrangements for all clients to ensure that the borrower of client safe custody assets provides the appropriate collateral and that the firm monitors the continued appropriateness of such collateral and takes the necessary steps to maintain the balance with the value of the client safe custody assets.
+[Note: article 5(4) of the MiFID Delegated Directive]
+CASS 6.4.2B
+03/01/2018
+G
+The requirement to monitor collateral under CASS 6.4.2AR applies to a firm where it is party to a securities financing transaction, including when acting as an agent for the conclusion of a securities financing transaction or in the case of a tripartite transaction between a borrower, a client and the firm.
+[Note: recital 9 to the MiFID Delegated Directive]
+CASS 6.4.3
+03/01/2018
+R
+Where a firm uses safe custody assets as permitted in this section, the records of the firm must include details of the client on whose instructions the use of the safe custody assets has been effected, as well as the number of safe custody assets used belonging to each client who has given consent, so as to enable the correct allocation of any loss.
+[Note: article 5(2), second sub-paragraph of the MiFID Delegated Directive]
+CASS 6.6 Records, accounts and reconciliations
+Records and accounts
+CASS 6.6.1
+01/06/2015
+G
+This section sets out the requirements a firm must meet when keeping records and accounts of the safe custody assets it holds for clients.
+CASS 6.6.2
+03/01/2018
+R
+A firm must keep such records and accounts as necessary to enable it at any time and without delay to distinguish safe custody assets held for one client from safe custody assets held for any other client, and from the firm's own applicable assets.
+[Note: article 2(1)(a) of the MiFID Delegated Directive]
+CASS 6.6.3
+03/01/2018
+R
+A firm must maintain its records and accounts in a way that ensures their accuracy, and in particular their correspondence to the safe custody assets held for clients and that they may be used as an audit trail.
+[Note: article 2(1)(b) of the MiFID Delegated Directive]
+CASS 6.6.4
+01/06/2015
+R
+A firm must maintain a client-specific safe custody asset record.
+CASS 6.6.5
+03/01/2018
+G
+(1) The requirements in CASS 6.6.2 R to CASS 6.6.4 R are for a firm to keep internal records and accounts of clients' safe custody assets. Therefore any records falling under those requirements should be maintained by the firm, and should be separate to any records the firm may have obtained from any third parties, such as those with whom it may have deposited, or through whom it may have registered legal title to, clients' safe custody assets.
+(2) The FCA expects that compliance by a firm with CASS 6.6 as a whole (to the extent applicable to that firm) will be sufficient to comply with the requirement under CASS 6.6.3R to maintain its records and accounts in a way that ensures they may be used as an audit trail.
+Right to use agreements
+CASS 6.6.6
+01/06/2015
+R
+A firm must keep a copy of every executed client agreement that includes that firm's right to use safe custody assets for its own account (see CASS 6.4.1 R), including in the case of a prime brokerage agreement the disclosure annex referred to in CASS 9.3.1 R.
+General record-keeping
+CASS 6.6.7
+01/06/2015
+R
+Unless otherwise stated, a firm must ensure that any record made under the custody rules is retained for a period of five years starting from the later of:
+(1) the date it was created; and
+(2) (if it has been modified since the date it was created), the date it was most recently modified.
+CASS 6.6.8
+01/06/2015
+R
+For each internal custody record check, each physical asset reconciliation and each external custody reconciliation carried out by a firm, it must make a record including:
+(1) the date it carried out the relevant process;
+(2) the actions the firm took in carrying out the relevant process; and
+(3) a list of any discrepancies the firm identified and the actions the firm took to resolve those discrepancies.
+Policies and procedures
+CASS 6.6.9
+01/06/2015
+G
+Firms are reminded that they must, under SYSC 6.1.1 R, establish, implement and maintain adequate policies and procedures sufficient to ensure compliance of the firm with the rules in this chapter. This should include, for example, establishing and maintaining policies and procedures concerning:
+(1) the frequency and method of the checks and reconciliations the firm is required to carry out under this section;
+(2) the frequency with which the firm is required to review its arrangements in compliance with this chapter; and
+(3) the resolution of discrepancies and the treatment of shortfalls under this section.
+Internal custody record checks
+CASS 6.6.10
+01/06/2015
+G
+(1) An internal custody record check is one of the steps a firm takes to satisfy its obligations under:
+(a) Principle 10 (Clients' assets);
+(b) CASS 6.2.2 R (Requirement to have adequate organisational arrangements);
+(c) CASS 6.6.2 R to CASS 6.6.4 R (Records and accounts); and
+(d) where relevant, SYSC 4.1.1 R (General requirements) and SYSC 6.1.1 R (Compliance).
+(2) An internal custody record check is a check as to whether the firm's records and accounts of the safe custody assets held by the firm (including, for example, those deposited with third parties under CASS 6.3 (Depositing safe custody assets with third parties)) correspond with the firm's obligations to its clients to hold those safe custody assets.
+CASS 6.6.10A
+26/07/2017
+R
+CASS 6.6.11R does not apply to a firm following its failure.
+CASS 6.6.10B
+26/07/2017
+G
+CASS 6.6.46AR (Frequency of checks and reconciliations after failure) applies to a firm following its failure.
+CASS 6.6.11
+26/07/2017
+R
+(1) A firm must perform an internal custody record check:
+(a) subject to paragraph (2), as regularly as is necessary but without allowing more than one month to pass between each internal custody record check; and
+(b) as soon as reasonably practicable after the date to which the internal custody record check relates.
+(2) A firm that holds no safe custody assets other than physical safe custody assets must perform an internal custody record check as regularly as necessary but, in any case, no less often than its physical asset reconciliations under CASS 6.6.22 R.
+CASS 6.6.12
+01/06/2015
+G
+CASS 6.6.44 R sets out the matters which a firm must have regard to when determining the frequency at which to undertake an internal custody record check.
+CASS 6.6.13
+01/06/2015
+R
+A firm must perform an internal custody record check using either the internal custody reconciliation method or the internal system evaluation method. It must not use a combination of these methods.
+CASS 6.6.14
+01/06/2015
+R
+A firm must only use its internal records (for example its depot and client-specific ledgers for safe custody assets or other internal accounting records) in order to perform an internal custody record check.
+CASS 6.6.15
+01/06/2015
+G
+CASS 6.6.14 R means that a firm must not base its internal custody record checks on any records that the firm may have obtained from any third parties, such as those with whom it may have deposited, or through whom it may have registered legal title to, clients' safe custody assets.
+The internal custody reconciliation method for internal custody record checks
+CASS 6.6.16
+01/06/2015
+R
+A firm may only use the internal custody reconciliation method if:
+(1) it separately maintains an aggregate safe custody asset record and a client-specific safe custody asset record; and
+(2) its aggregate safe custody asset record and its client-specific safe custody asset record are capable of being compared.
+CASS 6.6.17
+01/06/2015
+R
+The internal custody reconciliation method requires a firm to perform a comparison between its aggregate safe custody asset record and its client-specific safe custody asset record, as at the date of the internal custody record check.
+The internal system evaluation method for internal custody record checks
+CASS 6.6.18
+01/06/2015
+G
+(1) The internal system evaluation method is available to any firm, including one that is not able to use the internal custody reconciliation method because it does not meet the requirements at CASS 6.6.16R (1) and CASS 6.6.16R (2).
+(2) The purpose of the internal system evaluation method is to detect weaknesses in a firm's systems and controls and any recordkeeping discrepancies. However, this method is not designed to substitute a firm's other measures for ensuring compliance with the custody rules, such as monitoring the accuracy of its records (see also CASS 6.2.2 R and CASS 6.6.3 R).
+CASS 6.6.19
+01/06/2015
+R
+The internal system evaluation method requires a firm to:
+(1) establish a process that evaluates:
+(a) the completeness and accuracy of the firm's internal records and accounts of safe custody assets held by the firm for clients, in particular whether sufficient information is being completely and accurately recorded by the firm to enable it to:
+(i) comply with CASS 6.6.4 R; and
+(ii) readily determine the total of all the safe custody assets that the firm holds for its clients; and
+(b) whether the firm's systems and controls correctly identify and resolve all discrepancies in its internal records and accounts of safe custody assets held by the firm for clients;
+(2) run the evaluation process established under (1) on the date of each internal custody record check; and
+(3) promptly investigate and, without undue delay, resolve any causes of discrepancies that the evaluation process reveals.
+CASS 6.6.20
+01/06/2015
+G
+The evaluation process under CASS 6.6.19R (1) should verify that the firm's systems and controls correctly identify and resolve at least the following types or causes of discrepancies:
+(1) items in the firm's records and accounts that might be erroneously overstating or understating the safe custody assets held by a firm (for example, 'test' entries and 'balancing' entries);
+(2) negative balances;
+(3) processing errors;
+(4) journal entry errors (eg, omissions and unauthorised system entries); and
+(5) IT errors (eg, software issues that could lead to inaccurate records).
+Physical asset reconciliations
+CASS 6.6.21
+01/06/2015
+G
+(1) A physical asset reconciliation is a separate process to the internal custody record check. Firms that hold physical safe custody assets for clients are required to perform both processes.
+(2) The purpose of a physical asset reconciliation is to check that a firm's internal records and accounts of the physical safe custody assets kept by the firm for clients are accurate and complete, and to ensure any discrepancies are investigated and resolved.
+CASS 6.6.21A
+26/07/2017
+R
+CASS 6.6.22R does not apply to a firm following its failure.
+CASS 6.6.21B
+26/07/2017
+G
+CASS 6.6.46AR (Frequency of checks and reconciliations after failure) applies to a firm following its failure.
+CASS 6.6.22
+01/06/2015
+R
+A firm that holds physical safe custody assets must perform a physical asset reconciliation for all the physical safe custody assets it holds for clients:
+(1) as regularly as is necessary but without allowing more than six months to pass between each physical asset reconciliation; and
+(2) as soon as reasonably practicable after the date to which the physical asset reconciliation relates.
+CASS 6.6.23
+01/06/2015
+G
+CASS 6.6.44 R sets out the matters which a firm must have regard to when determining the frequency at which to undertake a physical asset reconciliation.
+CASS 6.6.24
+01/06/2015
+R
+When performing a physical asset reconciliation a firm must:
+(1) count all the physical safe custody assets held by the firm for clients as at the date to which the physical asset reconciliation relates; and
+(2) compare the count in (1) against what the firm's internal records and accounts state as being in the firm's possession as at the same date.
+CASS 6.6.25
+01/06/2015
+R
+A firm must perform each physical asset reconciliation under CASS 6.6.24 R using the total count method or the rolling stock method.
+CASS 6.6.26
+01/06/2015
+G
+Regardless of the method used, a firm should ensure that all safe custody assets held by the firm as physical safe custody assets for clients are subject to a physical asset reconciliation at the frequency required under CASS 6.6.22 R.
+CASS 6.6.27
+01/06/2015
+R
+If a firm completes a physical asset reconciliation in a single stage, such that the firm:
+(1) performs a single count under CASS 6.6.24R (1) which encompasses all the physical safe custody assets held by the firm for clients as at the date to which the physical asset reconciliation relates; and
+(2) compares that count against the firm's internal records and accounts in accordance with CASS 6.6.24R (2);
+then the firm will have used the total count method for that physical asset reconciliation.
+CASS 6.6.28
+01/06/2015
+R
+If a firm completes a physical asset reconciliation in two or more stages, such that the firm:
+(1) performs two or more counts under CASS 6.6.24R (1) (each on a separate occasion and relating to a different stock line or group of stock lines forming part of the firm's overall holdings of physical safe custody assets) which, once all of the counts are complete, encompass all the physical safe custody assets held by the firm for clients; and
+(2) compares each of those counts against the firm's internal records and accounts in accordance with CASS 6.6.24R (2);
+then the firm will have used the rolling stock method for that physical asset reconciliation.
+CASS 6.6.29
+01/06/2015
+G
+(1) The rolling stock method allows a firm to perform its physical asset reconciliation in several stages, with each stage referring to a line of stock or group of stock lines in a designated investment selected by a firm (for example, all the shares with an issuer whose name begins with the letter 'A' or all the stock lines held in connection with a particular business line).
+(2) Where a firm uses the rolling stock method to perform a physical asset reconciliation, all the stages in that physical asset reconciliation must be completed in time to ensure the firm complies with CASS 6.6.22 R.
+CASS 6.6.30
+01/06/2015
+R
+(1) If a firm wishes to use the rolling stock method to perform a physical asset reconciliation it must first establish and document in writing its reasons for concluding that the way in which it will carry out its physical asset reconciliations is adequately designed to mitigate the risk of the firm's records being manipulated or falsified.
+(2) A firm must retain any documents created under (1) for a period of at least five years after the date it ceases to use the rolling stock method to perform its physical asset reconciliation.
+CASS 6.6.31
+01/06/2015
+G
+The documents under CASS 6.6.30R (1) should, for example, cover the systems and controls the firm will have in place to mitigate the risk of 'teeming and lading' in respect of all the physical safe custody assets held by the firm for clients and across all the firm's business lines.
+CASS 6.6.32
+01/06/2015
+G
+To meet the requirement to have adequate organisational arrangements under CASS 6.2.2 R, a firm should consider performing 'spot checks' as to whether title to an appropriate sample of physical safe custody assets that it holds is registered correctly under CASS 6.2.3 R (Registration and recording of legal title).
+External custody reconciliations
+CASS 6.6.33
+01/06/2015
+G
+The purpose of an external custody reconciliation is to ensure the completeness and accuracy of a firm's internal records and accounts of safe custody assets held by the firm for clients against those of relevant third parties.
+CASS 6.6.34
+03/01/2018
+R
+A firm must conduct, on a regular basis, reconciliations between its internal records and accounts of safe custody assets held by the firm for clients and those of any third parties by whom those safe custody assets are held.
+[Note: article 2(1)(c) of the MiFID Delegated Directive]
+CASS 6.6.35
+01/06/2015
+R
+In CASS 6.6.34 R, the third parties whose records and accounts a firm is required to reconcile its own internal records and accounts with must include:
+(1) the third parties with which the firm has deposited clients' safe custody assets;
+(2) where the firm has not deposited a client's safe custody asset with a third party:
+(a) the third parties responsible for the registration of legal title to that safe custody asset; or
+(b) a person acting as an operator for the purposes of any of the relevant overseas USRs if:
+(i) the safe custody asset is an uncertificated unit of a security governed by any of the relevant overseas USRs; and
+(ii) the firm has reasonable grounds to be satisfied that the records of that person take into account all instructions issued by that person which require an issuer to register on a register of securities a transfer of title to any uncertificated units.
+CASS 6.6.36
+01/06/2015
+G
+Examples of the sorts of third parties referred to at CASS 6.6.35R (2)(a) include central securities depositaries, operators of collective investment schemes, and administrators of offshore funds.
+CASS 6.6.36A
+26/07/2017
+R
+CASS 6.6.37R does not apply to a firm following its failure.
+CASS 6.6.36B
+26/07/2017
+G
+CASS 6.6.46AR (Frequency of checks and reconciliations after failure) applies to a firm following its failure.
+CASS 6.6.37
+01/06/2015
+R
+A firm must conduct external custody reconciliations:
+(1) as regularly as necessary but allowing no more than one month to pass between each external custody reconciliation; and
+(2) as soon as reasonably practicable after the date to which the external custody reconciliation relates.
+CASS 6.6.38
+01/06/2015
+G
+CASS 6.6.44 R sets out the matters which a firm must consider when determining the frequency at which to undertake an external custody reconciliation.
+CASS 6.6.39
+01/06/2015
+G
+Where a firm holds clients' safe custody assets electronically with a central securities depositary which is able to provide adequate information to the firm on its holdings on a daily basis, it is best practice under CASS 6.6.37R (1) for the firm to conduct an external custody reconciliation each business day in respect of those assets.
+CASS 6.6.40
+01/06/2015
+G
+Where a firm deposits safe custody assets belonging to a client with a third party or where a third party is responsible for the registration of legal title to that asset, in complying with the requirements of CASS 6.6.34 R, the firm should seek to ensure that the third party provides the firm with adequate information (for example in the form of a statement) as at a date specified by the firm which details the description and amounts of all the safe custody assets credited to the relevant account(s) and that this information is provided in sufficient time to allow the firm to carry out its external custody reconciliations under CASS 6.6.37 R.
+CASS 6.6.41
+01/06/2015
+G
+If a firm acting as trustee or depositary of an AIF that is an authorised AIF deposits safe custody assets belonging to a client with a third party, under article 89(1)(c) (Safekeeping duties with regard to assets held in custody) of the AIFMD level 2 regulation, the firm should seek to ensure that the third party provides the firm with adequate information (for example in the form of a statement) as at a date or dates specified by the firm which details the description and amounts of all the safe custody assets credited to the account(s) and that this information is provided in adequate time to allow the firm to carry out the periodic reconciliations required under article 89(1)(c) (Safekeeping duties with regard to assets held in custody) of the AIFMD level 2 regulation.
+CASS 6.6.41A
+01/01/2021
+G
+If a firm acting as trustee or depositary of a UK UCITS deposits safe custody assets belonging to a client with a third party, under article 13(1)(c) (Safekeeping duties with regard to assets held in custody) of the UCITS level 2 regulation, the firm should seek to ensure that:
+(1) the third party provides the firm with adequate information (for example in the form of a statement):
+(a) as at a date or dates specified by the firm; and
+(b) which details the description and amounts of all the safe custody assets credited to the account(s); and
+(2) such information is provided in adequate time to allow the firm to carry out the periodic reconciliations required under article 13(1)(c) of the UCITS level 2 regulation.
+CASS 6.6.42
+01/06/2015
+G
+External custody reconciliations must be performed for each safe custody asset held by the firm for its clients, except for physical safe custody assets. A reconciliation of transactions involving safe custody assets, rather than of the safe custody assets themselves, will not satisfy the requirement under CASS 6.6.34 R.
+CASS 6.6.43
+01/06/2015
+G
+A firm acting as trustee or depositary of an AIF that is an authorised AIF should perform the reconciliation under article 89(1)(c) (Safekeeping duties with regard to assets held in custody) of the AIFMD level 2 regulation:
+(1) as regularly as is necessary having regard to the frequency, number and value of transactions which the firm undertakes in respect of safe custody assets, but with no more than one month between each reconciliation; and
+(2) as soon as reasonably practicable after the date to which the reconciliation relates;
+to ensure the accuracy of its internal records and accounts against those of third parties by whom client's safe custody assets are held.
+Frequency of checks and reconciliations under this section
+CASS 6.6.43A
+26/07/2017
+R
+CASS 6.6.44R to CASS 6.6.46R do not apply to a firm following its failure.
+CASS 6.6.43B
+26/07/2017
+G
+CASS 6.6.46AR (Frequency of checks and reconciliations after failure) applies to a firm following its failure in respect of the frequency at which the firm undertakes its internal custody record checks under CASS 6.6.11R, physical asset reconciliations under CASS 6.6.22R, and external custody reconciliations under CASS 6.6.37R.
+CASS 6.6.44
+01/06/2015
+R
+When determining the frequency at which it will undertake its internal custody record checks under CASS 6.6.11 R, physical asset reconciliations under CASS 6.6.22 R, and external custody reconciliations under CASS 6.6.37 R, a firm must have regard to:
+(1) the frequency, number and value of transactions which the firm undertakes in respect of clients' safe custody assets; and
+(2) the risks to which clients' safe custody assets are exposed, such as the nature, volume and complexity of the firm's business and where and with whom safe custody assets are held.
+CASS 6.6.45
+01/06/2015
+R
+(1) A firm must make and retain records sufficient to show and explain any decision it has taken under CASS 6.6.44 R when determining the frequency of its internal custody record checks, physical asset reconciliations and external custody reconciliations. Subject to (2), such records must be retained indefinitely.
+(2) If any decision under CASS 6.6.44 R is superseded by a subsequent decision under that rule then the record of that earlier decision retained in accordance with (1) need only be retained for a further period of five years from the subsequent decision.
+CASS 6.6.46
+01/06/2015
+R
+(1) Subject to (3), a firm must review the frequency at which it conducts internal custody record checks, physical asset reconciliations and external custody reconciliations at least annually to ensure that it continues to comply with CASS 6.6.11 R, CASS 6.6.22 R and CASS 6.6.37 R, respectively, and has given due consideration to the matters in CASS 6.6.44 R.
+(2) For each review a firm undertakes under (1), it must record the date and the actions it took in reviewing the frequency of its internal custody record checks, physical asset reconciliations and external custody reconciliations.
+(3) A firm need not carry out a review under (1) in respect of its internal custody record checks, physical asset reconciliations and external custody reconciliations, if it already conducts the particular process in respect of all relevant safe custody assets each business day.
+Frequency of checks and reconciliations after failure
+CASS 6.6.46A
+26/07/2017
+R
+(1) This rule applies to a firm following its failure.
+(2) A firm must perform an internal custody record check and a physical asset reconciliation that relates to the time of its failure as soon as reasonably practicable after its failure.
+(3)
+(a) A firm must perform an external custody reconciliation that relates to the time of its failure as soon as reasonably practicable after its failure.
+(b) If any records and accounts of the relevant third parties under CASS 6.6.35R relating to the time of the firm’s failure are unavailable, the firm must use the next available records and accounts to perform the external custody reconciliation under sub-paragraph (a).
+(4) A firm must perform further internal custody record checks and physical asset reconciliations:
+(a) as regularly as is necessary to ensure that the firm remains in compliance with CASS 6.6.2R, CASS 6.6.3R and CASS 6.6.4R (Records and accounts); and
+(b) as soon as reasonably practicable after the date to which the internal custody record check or physical asset reconciliation relates.
+(5) A firm must perform further external custody reconciliations on a regular basis:
+(a) as regularly as is necessary; and
+(b) as soon as reasonably practicable after the date to which the external custody reconciliation relates.
+(6) A firm must determine the frequency at which it will undertake its internal custody record checks and physical asset reconciliations under paragraph (4), and its external custody reconciliations under paragraph (5) with regard to:
+(a) the frequency, number and value of transactions which the firm undertakes in respect of clients’ safe custody assets;
+(b) the risks to which clients’ safe custody assets are exposed, such as the nature, volume and complexity of the firm’s business, and where and with whom safe custody assets are held; and
+(c) the need to comply with CASS 6.7.
+CASS 6.6.46B
+26/07/2017
+G
+(1) The reference point for the internal custody record check and physical asset reconciliation under CASS 6.6.46A(2) and the external custody reconciliation under 6.6.46A(3)(a) should be the precise point in time at which the firm’s failure occurred.
+(2) The reference point for any further internal custody record checks and physical asset reconciliations under CASS 6.6.46A(4) and any further external custody reconciliations under 6.6.46A(5) can be determined by the firm.
+Independence of person performing checks and reconciliations
+CASS 6.6.47
+01/06/2015
+G
+Whenever possible, a firm should ensure that checks and reconciliations are carried out by a person (for example an employee of the firm) who is independent of the production or maintenance of the records to be checked and/or reconciled.
+Resolution of discrepancies
+CASS 6.6.48
+01/06/2015
+G
+In this section, a discrepancy should not be considered to be resolved until it is fully investigated and corrected, and any associated shortfall is made good by way of the firm ensuring that:
+(1) it is holding (under the custody rules) each of the safe custody assets that the firm ought to be holding for each of its clients; and
+(2) its own records, and the records of any relevant other person (such as a third party with whom the firm deposited the safe custody assets) accurately correspond to the position under (1).
+CASS 6.6.49
+01/06/2015
+R
+When a firm identifies a discrepancy as a result of carrying out an internal custody record check, physical asset reconciliation or external custody reconciliation, the firm must:
+(1) promptly investigate the reason for the discrepancy and resolve it without undue delay; and
+(2) take appropriate steps under CASS 6.6.54 R for the treatment of any shortfalls until that discrepancy is resolved.
+CASS 6.6.50
+01/06/2015
+R
+When a firm identifies a discrepancy outside of its processes for an internal custody record check, physical asset reconciliation or external custody reconciliation, the firm must:
+(1) take all reasonable steps both to investigate the reason for the discrepancy and to resolve it; and
+(2) take appropriate steps under CASS 6.6.54 R for the treatment of shortfalls until that discrepancy is resolved.
+CASS 6.6.51
+01/06/2015
+G
+Where the discrepancy identified under CASS 6.6.49 R or CASS 6.6.50 R has arisen as a result of a breach of thecustody rules, the firm should ensure it takes sufficient steps to avoid a reoccurrence of that breach (see Principle 10 (Clients' assets), CASS 6.6.3 R and, as applicable, SYSC 4.1.1R (1) and SYSC 6.1.1 R).
+CASS 6.6.52
+01/06/2015
+G
+Items recorded or held within a suspense or error account fall within the scope of discrepancies in this section.
+CASS 6.6.53
+01/06/2015
+G
+Items recorded in a firm's records and accounts that are no longer recorded by relevant third parties (such as 'liquidated stocks') also fall within the scope of discrepancies in this section.
+Treatment of shortfalls
+CASS 6.6.54
+26/07/2017
+R
+(1) This rule applies where a firm identifies a discrepancy as a result of, or that reveals, a shortfall, which the firm has not yet resolved.
+(2) Subject to paragraphs (3) and (4), until the discrepancy is resolved a firm must do one of the following:
+(a) appropriate a sufficient number of its own applicable assets to cover the value of the shortfall and hold them for the relevant clients under the custody rules in such a way that the applicable assets, or the proceeds of their liquidation, will be available for distribution for the benefit of the relevant clients in the event of the firm's failure and, in doing so:
+(i) ensure that the applicable assets are clearly identifiable as separate from the firm's own property and are recorded by the firm in its client-specific safe custody asset record as being held for the relevant client;
+(ii) keep a record of the actions the firm has taken under this rule which includes a description of the shortfall, identifies the relevant affected clients, and lists the applicable assets that the firm has appropriated to cover the shortfall; and
+(iii) update the record made under (ii) whenever the discrepancy is resolved and the firm has re-appropriated the applicable assets; or
+(b) (provided that doing so is consistent with the firm's permissions and would result in money being held for the relevant client) in respect of the shortfall under CASS 7.17.2 R (statutory trust) appropriate a sufficient amount of its own money to cover the value of the shortfall, hold it for the relevant client as client money under the client money rules and, in doing so:
+(i) ensure the money is segregated under CASS 7.13 (Segregation of client money) and recorded as being held for the relevant client under CASS 7.15 (Records, accounts and reconciliations);
+(ii) keep a record of the actions the firm has taken under this rule which includes a description of the shortfall, identifies the relevant affected clients, and specifies the amount of money that the firm has appropriated to cover the shortfall; and
+(iii) update the record made under (ii) whenever the discrepancy is resolved and the firm has re-appropriated the money; or
+(c) appropriate a number of applicable assets in accordance with (a) and an amount of money in accordance with (b) which, in aggregate, are sufficient to cover the value of the shortfall.
+(3) If the firm, where justified, concludes that another person is responsible for the discrepancy, regardless of any dispute with that other person, or that the discrepancy is due to a timing difference between the accounting systems of that other person and that of the firm, the firm must take all reasonable steps to resolve the situation without undue delay with the other person. Until the discrepancy is resolved the firm must consider whether it would be appropriate to notify the affected client of the situation, and may take steps under (2) for the treatment of shortfalls until that discrepancy is resolved.
+(4) A firm that has failed is not required to take steps under paragraph (2) in relation to the firm’s own applicable assets or money in so far as the legal procedure for the firm’s failure prevents the firm from taking any such steps.
+CASS 6.6.55
+01/06/2015
+G
+In considering whether it should notify affected clients under CASS 6.6.54R (3), a firm should have regard to its obligations under the client's best interests rule to act honestly, fairly and professionally in accordance with the best interests of its clients, and to Principle 7 (communications with clients).
+CASS 6.6.56
+01/06/2015
+G
+(1) The value of a shortfall for the purposes of CASS 6.6.54 R may be determined by the previous day's closing mark to market valuation, or if in relation to a particular safe custody asset none is available, the most recently available valuation.
+(2) Where a firm is taking the measures under CASS 6.6.54R (2) in respect of a particular shortfall it should, as regularly as necessary, and having regard to Principle 10:
+(a) review the value of the shortfall in line with (1); and
+(b) where the firm has found that the value of the shortfall has changed, adjust either or both the number of own applicable assets or the amount of money it has appropriated to ensure that in aggregate the assets and monies set aside are sufficient to cover the changed value of the shortfall.
+CASS 6.6.56A
+26/07/2017
+G
+CASS 6.6.54R(4) recognises that a failed firm is required to investigate and resolve discrepancies, but the extent to which it is able to address shortfalls pending the resolution of discrepancies may be limited by insolvency law, for example.
+Notification requirements
+CASS 6.6.57
+01/01/2021
+R
+A firm must inform the FCA in writing without delay if:
+(1) its internal records and accounts of the safe custody assets held by the firm for clients are materially out of date, or materially inaccurate or invalid, so that the firm is no longer able to comply with the requirements in CASS 6.6.2 R to CASS 6.6.4 R; or
+(2) it is a firm acting as trustee or depositary of an AIF and has not complied with, or is materially unable to comply with, the requirements in CASS 6.6.2 R or in article 89(1)(b) or 89(1)(c) (Safekeeping duties with regard to assets held in custody) of the AIFMD level 2 regulation; or
+(2A) it is a firm acting as trustee or depositary of a UK UCITS and has not complied with, or is materially unable to comply with, the requirements in:
+(a) CASS 6.6.2R; or
+(b) article 13(1)(b) or 13(1)(c) (Safekeeping duties with regard to assets held in custody) of the UCITS level 2 regulation; or
+(3) it will be unable, or materially fails, to take the steps required under CASS 6.6.54 R for the treatment of shortfalls; or
+(4) it will be unable, or materially fails, to conduct an internal custody record check in compliance with CASS 6.6.11 R to CASS 6.6.19 R; or
+(5) it will be unable, or materially fails, to conduct a physical asset reconciliation in compliance with CASS 6.6.22 R to CASS 6.6.30 R; or
+(6) it will be unable, or materially fails, to conduct an external custody reconciliation in compliance with CASS 6.6.34 R to CASS 6.6.37 R.
+Annual audit of compliance with the custody rules
+CASS 6.6.58
+01/06/2015
+G
+Firms are reminded that the auditor of the firm has to confirm in the report submitted to the FCA under SUP 3.10 (Duties of auditors: notification and report on client assets) that the firm has maintained systems adequate to enable it to comply with the custody rules.
+CASS 6.7 Treatment of custody assets after a failure
+Application
+CASS 6.7.1
+26/07/2017
+R
+This section applies to a firm following its failure.
+Disposal of safe custody assets
+CASS 6.7.2
+26/07/2017
+R
+(1) Before a firm takes any steps to dispose of a safe custody asset it must:
+(a) (subject to paragraph (2)) attempt to return it to the relevant client or transfer it to another person for safekeeping on behalf of the client in accordance with CASS 6.7.8R; and
+(b) (subject to paragraph (3)) take reasonable steps to notify the client of the firm’s proposed course of action for disposing of the safe custody asset.
+(2) A firm is not required to attempt to return or transfer a safe custody asset under paragraph (1)(a) where the client to whom the safe custody asset belongs has confirmed to the firm that it disclaims all its interests in the safe custody asset.
+(3) A firm is not required to notify a client under paragraph (1)(b) where:
+(a) the firm is able to return the safe custody asset to the relevant client or transfer it to another person on behalf of the client in accordance with CASS 6.7.8R; or
+(b) the client to whom the safe custody asset belongs has confirmed to the firm that it disclaims all its interests in the safe custody asset.
+CASS 6.7.3
+26/07/2017
+G
+(1) The disposal of a safe custody asset referred to under CASS 6.7.2R(1) includes cases where the firm is using the procedure under regulation 12B of the IBSA Regulations to set a ‘hard bar date’ by giving a ‘hard bar date notice’, or is using another similar procedure in accordance with the legal procedure for the firm’s failure.
+(2) In any case, a firm should consider whether its obligations under law or any agreement permit it to dispose of a safe custody asset in the way in which it proposes to do so.
+CASS 6.7.4
+26/07/2017
+E
+(1) Reasonable steps in CASS 6.7.2R(1)(b) include the following course of conduct:
+(a) determining, as far as reasonably possible, the correct contact details for the relevant client;
+(b) for a client for whom the firm has evidence that it was a professional client for the purposes of the custody rules at the time of the failure:
+(i) writing to the client at its last known address either by post or by electronic mail:
+(A) to inform it of the firm’s intention to dispose of the safe custody asset;
+(B) to inform it of the consequences of the firm’s proposed course of action in relation to the client’s ability to assert a claim in respect of that safe custody asset; and
+(C) to invite the client to submit a claim for that safe custody asset;
+(ii) where the client has not responded within 28 days of the communication under sub-paragraph (i), attempting to communicate the information in (i) to the client on at least one further occasion by any means other than that used in sub-paragraph (i) including by post, electronic mail, telephone or media advertisement; and
+(c) for any other client:
+(i) the same steps as under sub-paragraphs (b)(i) and (b)(ii); and
+(ii) where the client has not responded within 28 days of the second communication under sub-paragraph (b)(ii), attempting to communicate the information in sub-paragraph (b)(i) to the client on at least one further occasion by any means other than one in respect of which the firm has obtained positive confirmation that the client is not receiving such communications.
+(2) Compliance with paragraph (1) may be relied on as tending to establish compliance with CASS 6.7.2R(1)(b).
+(3) Contravention of paragraph (1) may be relied on as tending to establish contravention of CASS 6.7.2R(1)(b).
+CASS 6.7.5
+26/07/2017
+G
+For the purposes of CASS 6.7.4E(1)(a), a firm may use any available means to determine the correct contact details for the relevant client, including:
+(1) telephoning the client;
+(2) searching internal and/or public records;
+(3) media advertising;
+(4) mortality screening; and
+(5) using credit reference agencies or tracing agents.
+CASS 6.7.6
+26/07/2017
+R
+If the firm undertook a tracing exercise for the purposes of CASS 6.2.10R(4) (Allocated but unclaimed safe custody assets) before its failure but had not made the charity payment under that rule by the time of its failure then the findings of that exercise may be relied on for the purposes of CASS 6.7.4E(1)(a).
+CASS 6.7.7
+26/07/2017
+R
+(1) A firm must make a record of any safe custody asset disposed of in accordance with CASS 6.7.2R at the time of the disposal.
+(2) The record under paragraph (1) must state:
+(a) the safe custody asset that was disposed of;
+(b) the value of the consideration received for the safe custody asset disposed of;
+(c) the name and contact details of the client to whom the safe custody asset was allocated, according to the firm’s records at the time of making the record under this rule; and
+(d) either:
+(i) the efforts applied by the firm to determine the client’s correct contact details under CASS 6.7.4E(1)(a); or
+(ii) if being relied on under CASS 6.7.6R, the efforts applied by the firm to determine the client’s correct contact details for the purposes of CASS 6.2.10R(4) (Allocated but unclaimed safe custody assets).
+(3) A firm must keep the record under paragraph (1) indefinitely.
+Transfers of safe custody assets
+CASS 6.7.8
+26/07/2017
+R
+(1) This rule applies where, instead of returning a safe custody asset to a client, a firm (Firm A) is able to transfer the safe custody asset to another person (Firm B) for safekeeping on behalf of the client.
+(2) Firm A may only effect such a transfer if, in advance of the transfer, it has obtained a contractual undertaking from Firm B that:
+(a) where regulation 10C(3) of the IBSA Regulations does not apply, Firm B will return the safe custody asset to the client at the client’s request; and
+(b) Firm B will notify the client, within 14 days of the transfer of that client’s safe custody asset having commenced:
+(i) of the applicable regulatory regime under which the safe custody asset will be held by Firm B;
+(ii) either:
+(A) of any relevant compensation scheme limits that may apply in respect of Firm B’s handling of the safe custody asset; or
+(B) of the fact that Firm B does not participate in a relevant compensation scheme, if that is the case; and
+(iii) where regulation 10C(3) of the IBSA Regulations does not apply, that the client has the option of having its safe custody asset returned to it by Firm B.
+CASS 6.7.9
+26/07/2017
+G
+Where regulation 10C(3) of the IBSA Regulations does apply, Firm A should, in advance of the transfer under CASS 6.7.8R, obtain a contractual undertaking from Firm B that:
+(1) Firm B will comply with the client’s request for a ‘reverse transfer’ as defined in regulation 10C of the IBSA Regulations; and
+(2) Firm B will notify the client, within 14 days of the transfer of that client’s safe custody asset having commenced, that the client can demand a ‘reverse transfer’ as defined in regulation 10C of the IBSA Regulations.

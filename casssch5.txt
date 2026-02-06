@@ -1,0 +1,34 @@
+CASS
+CASS Sch 5
+CASS Sch 5 Rights of actions for damages
+You are viewing CASS Sch 5 Rights of actions for damages as of 06/02/2026. CASS Sch 5 Rights of actions for damages was last updated on 01/04/2013.
+Guidance
+Related resources
+CASS Sch 5 Rights of actions for damages
+CASS Sch 5.1
+01/04/2013
+G
+1.
+The table below sets out the rules in CASS contravention of which by an authorised person may be actionable under Section 138D of the Act (Actions for damages) by a person who suffers loss as a result of the contravention
+2.
+If a 'Yes' appears in the column headed 'For private person?', the rule may be actionable by a 'private person' under Section 138D (or, in certain circumstances, his fiduciary or representative; see article 6(2) and (3)(c) of the Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001 (SI 2001/2256)). A 'Yes' in the column headed 'Removed' indicates that the FCA has removed the right of action under Section 138D(3) of the Act. If so, a reference to the rule in which it is removed is also given.
+3.
+The column headed 'For other person?' indicates whether the rule may be actionable by a person other than a private person (or his fiduciary or representative) under article 6(2) and (3) of those Regulations. If so, an indication of the type of person by whom the rule may be actionable is given.
+CASS Sch 5.2
+01/04/2013
+G
+Chapter / Appendix
+Section / Annex
+Paragraph
+Right of action under Section 138D
+For private person?
+Removed?
+For other person?
+All rules in CASS with the status letter "E"
+No
+No
+No
+All other rule in CASS.
+Yes
+No
+No

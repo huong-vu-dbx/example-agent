@@ -1,0 +1,154 @@
+CASS 9 Information to clients
+You are viewing CASS 9 Information to clients as of 06/02/2026. CASS 9 Information to clients was last updated on 23/10/2025.
+Rules
+Guidance
+Related resources
+CASS 9.1 Application
+CASS 9.1.1
+01/10/2018
+R
+This chapter applies as follows:
+(1) CASS 9.2 and CASS 9.3 apply to a prime brokerage firm to which CASS 6 (Custody rules) applies;
+(2) subject to paragraphs (3) and (4), CASS 9.4 and CASS 9.5 apply to a firm to which either or both CASS 6 (Custody rules) and CASS 7 (Client money rules) applies;
+(3) CASS 9.4 and CASS 9.5 do not apply to a firm which only arranges safeguarding and administration of assets; and
+(4) for a firm to which CASS 7 (client money rules) applies as well as either or both of CASS 5 (Client money: insurance distribution activity) and CASS 11 (Debt management client money chapter) apply, this chapter does not apply to client money that a firm holds in accordance with CASS 5 or CASS 11.
+CASS 9.2 Prime broker's daily report to clients
+CASS 9.2.1
+01/03/2011
+R
+(1) A firm must make available to each of its clients to whom it provides prime brokerage services a statement in a durable medium:
+(a) showing the value at the close of each business day of the items in (3); and
+(b) detailing any other matters which that firm considers are necessary to ensure that a client has up-to-date and accurate information about the amount of client money and the value of safe custody assets held by that firm for it.
+(2) The statement must be made available to those clients not later than the close of the next business day to which it relates.
+(3) The statement must include:
+(a) the total value of safe custody assets and the total amount of client money held by that prime brokerage firm for a client;
+(b) the cash value of each of the following:
+(i) Cash loans made to that client and accrued interest;
+(ii) securities to be redelivered by that client under open short positions entered into on behalf of that client;
+(iii) current settlement amount to be paid by that client under any futures contracts;
+(iv) short sale cash proceeds held by the firm in respect of short positions entered into on behalf of that client;
+(v) cash margin held by the firm in respect of open futures contracts entered into on behalf of that client;
+(vi) mark-to-market close-out exposure of any OTC transaction entered into on behalf of that client secured by safe custody assets or client money;
+(vii) total secured obligations of that client against the prime brokerage firm; and
+(viii) all other safe custody assets held for that client.
+(c) total collateral held by the firm in respect of secured transactions entered into under a prime brokerage agreement, including where the firm has exercised a right of use in respect of that client's safe custody assets;
+(d) the location of all of a client's safe custody assets, including assets held with a sub-custodian; and
+(e) a list of all the institutions at which the firm holds or may hold client money, including money held in client bank accounts and client transaction accounts.
+CASS 9.2.2
+22/07/2013
+G
+Where a firm has entered into an agreement with a client under article 91 (Reporting obligations for prime brokers) of the AIFMD level 2 regulation, and to the extent that the firm makes available to the client the same statements as specified by that article that it is required to provide to the relevant depositary, the FCA will treat the obligations under CASS 9.2.1 R as satisfied by the firm.
+CASS 9.3 Prime brokerage agreement disclosure annex
+CASS 9.3.1
+01/03/2011
+R
+(1) A firm must ensure that every prime brokerage agreement that includes its right to use safe custody assets for its own account includes a disclosure annex.
+(2) A firm must ensure that the disclosure annex sets out a summary of the key provisions within the prime brokerage agreement permitting the use of safe custody assets, including:
+(a) the contractual limit, if any, on the safe custody assets which a prime brokerage firm is permitted to use;
+(b) all related contractual definitions upon which that limit is based;
+(c) a list of numbered references to the provisions within that prime brokerage agreement which permit the firm to use the safe custody assets; and
+(d) a statement of the key risks to that client's safe custody assets if they are used by the firm, including but not limited to the risks to the safe custody assets on the failure of the firm.
+(3) A firm must ensure that it sends to the client in question an updated disclosure annex if the terms of the prime brokerage agreement are amended after completion of that agreement such that the original disclosure annex no longer accurately records the key provisions of the amended agreement.
+CASS 9.3.2
+03/01/2018
+G
+(1) Principle 10 (Clients’ assets) requires a firm to arrange adequate protection for client's assets when it is responsible for them. As part of these protections, the custody rules require a firm to take appropriate steps to protect safe custody assets for which it is responsible.
+(2) Subject to paragraph (3), a prime brokerage firm should not enter into “right to use arrangements” for a client's safe custody assets unless:
+(a) in the case of a CASS small firm or a firm to which CASS 1A.3.1C R applies, the person in that firm to whom the responsibilities set out in CASS 1A.3.1 R or in CASS 1A.3.1C R (2) respectively have been allocated; or
+(b) in the case of any other firm, the person who carries out the CASS operational oversight function; and
+(c) those of that firm’s managers who are responsible for those safe custody assets;are each satisfied that the firm has adequate systems and controls to discharge its obligations under Principle 10 which include (where applicable):
+(i) the daily reporting obligation in CASS 9.2.1 R; and
+(ii) the record-keeping obligations in CASS 6.3.6AR.
+(3) Paragraph (2) does not apply where the prime brokerage firm is also acting as trustee or depositary of an AIF which is an unauthorised AIF and exercises a right of reuse for a safe custody asset of that unauthorised AIF under FUND 3.11.24 R (Reuse of assets).
+CASS 9.4 Information to clients concerning custody assets and client money
+CASS 9.4.1
+01/10/2018
+G
+(1) Firms to which COBS 6.1 applies are reminded that, under COBS 6.1.7R, a firm that holds client designated investments or client money must provide its clients with specific information about how the firm holds those client designated investments and client money and how certain arrangements might give rise to specific consequences or risks for those client designated investments and client money.
+(2) COBS 6.1 (Information about the firm and compensation information (non-MiFID and non-insurance distribution provisions)) applies to a firm in relation to its designated investment business, other than MiFID, equivalent third country or optional exemption business or insurance distribution activities, for a retail client.
+CASS 9.4.2
+03/01/2018
+R
+A firm to which COBS 6.1 applies that holds custody assets or client money must, in relation to its business for which COBS 6.1 applies:
+(1) provide the information in COBS 6.1.7 R for any custody assets the firm may hold for a client, including any custody assets which are not designated investments; and
+(2) provide the information in COBS 6.1.7 R and in (1) to each of its clients.
+CASS 9.4.2A
+23/10/2025
+R
+(1)Firms to which COBS 6.1ZA (Information about the firm and compensation information (MiFID and insurance distribution provisions)) applies are reminded of the requirements under COBS 6.1ZA.9R to provide certain information to a client when the firm is holding the client’s financial instruments or funds (see COBS 6.1ZA.9R) and the requirement under COBS 6.1ZA.10AR when a firm doing insurance distribution activities is holding client money and has elected to comply with the client money chapter.
+(2)COBS 6.1ZA  applies to a firm in relation to its MiFID, equivalent third country or optional exemption business or its insurance distribution activities for a client.
+CASS 9.4.2B
+23/10/2025
+R
+A firm to which COBS 6.1ZA applies that holds custody assets or client money must, in relation to its business for which COBS 6.1ZA applies:
+(1) provide the information referred to in COBS 6.1ZA.9R for any custody asset that the firm may hold for a client, including:
+(a) any custody asset which is a designated investment but not a financial instrument; and
+(b) any custody asset which is neither a designated investment nor a financial instrument; and
+(2) provide the information in (1) to each of its clients.
+CASS 9.4.3
+03/01/2018
+G
+A firm should provide the information required in CASS 9.4.2 R or CASS 9.4.2BR (as applicable) to any client for whom it holds custody assets or client money, including a retail client, a professional client and an eligible counterparty.
+CASS 9.4.4
+23/10/2025
+G
+(1)Firms are reminded of their obligation, under COBS 4.2.1 R, to be fair, clear and not misleading in their communications with clients.
+(2)Firms are also reminded of the requirements in respect of communications made to retail clients under COBS 4.5 and COBS 4.5A (as applicable).
+CASS 9.5 Reporting to clients on request
+CASS 9.5.1
+03/01/2018
+G
+(1) Firms to which COBS 16.4 applies are reminded that, under COBS 16.4, they are required to send to each of their clients at least once a year a statement in a durable medium of those designated investments and/or client money they hold for that client. A firm which manages investments may provide this statement in its periodic statement, as required under COBS 16.3.
+(2) COBS 16.4 (Statements of client designated investments or client money) applies, in accordance with COBS 16.1.2R, to a firm carrying on designated investment business other than MiFID, equivalent third country or optional exemption business.
+CASS 9.5.2
+23/10/2025
+G
+Firms are reminded that the requirements in COBS 16.4, COBS 16A.4 and COBS 16A.5.1R only set out the minimum frequency at which firms must report to their clients on their holdings of designated investments and/or client money. Firms may choose to report to their clients more frequently.
+CASS 9.5.3
+03/01/2018
+G
+Subject to CASS 9.5.5AR and CASS 9.5.6 R, CASS 9.5.4R, CASS 9.5.4BR and CASS 9.5.5 R require firms to comply with a client's request for information on the custody assets and/or client money the firm holds for a client under CASS 6 and/or CASS 7, and such request may be made by a client at any time.
+CASS 9.5.4
+03/01/2018
+R
+When a firm to which COBS 16.4 applies receives a request, made by a client, or on a client's behalf, for a statement of the custody assets and/or client money that the firm holds for that client, the firm must provide the client with the statement requested in a durable medium.
+CASS 9.5.4A
+23/10/2025
+R
+(1)Firms to which COBS 16A applies are reminded of the requirements under COBS 16A.5.1R in relation to quarterly statements when the firm is holding a client’s financial instruments or client money (see COBS 16A.4.1R and COBS 16A.5.1R).
+(2)COBS 16A (Reporting information to clients (MiFID provisions) applies to a firm in relation to its MiFID, equivalent third country or optional exemption business.
+CASS 9.5.4B
+03/01/2018
+R
+When a firm to which COBS 16A applies receives a request, made by a client, or on a client’s behalf, for a statement of the custody assets that the firm holds for that client, it must provide the client with a statement in a durable medium in relation to any custody assets that are not financial instruments.
+CASS 9.5.4C
+23/10/2025
+G
+A firm to which COBS 16A applies may combine the statement required under CASS 9.5.4BR with a statement issued in response to a request made under COBS 16A.5.1R(1)(a)(ii)
+CASS 9.5.5
+01/06/2015
+R
+When a firm receives a request, made by a client, or on a client's behalf, for a copy of any statement of custody assets and/or client money previously provided to that client, the firm must provide the client with the copy of the statement requested in a durable medium and within five business days following the receipt of the request.
+CASS 9.5.5A
+03/01/2018
+R
+A firm is not required to provide a client with a statement under CASS 9.5.4R or CASS 9.5.4BR, or a copy of a statement under CASS 9.5.5R (as applicable) where the following conditions are met:
+(1) the firm provides the client with access to an online system, which qualifies as a durable medium;
+(2) up-to-date statements of the client’s custody assets and/or client money can be easily accessed by the client via the system under (1); and
+(3) the firm has evidence that the client has accessed this statement at least once during the relevant quarter.
+CASS 9.5.6
+03/01/2018
+R
+Any charge agreed between the firm and the client for providing the statements in CASS 9.5.4R, CASS 9.5.4BR or CASS 9.5.5R (as applicable) must be at a commercial cost.
+CASS 9.5.7
+03/01/2018
+G
+Any statement provided to a client under CASS 9.5.4 R or CASS 9.5.5 R (as applicable) may, although it is not required to, be in the same form as the statement a firm is required to provide to a client under COBS 16.4 or, if appropriate, COBS 16.3.
+CASS 9.5.8
+01/06/2015
+G
+Consistent with the fair, clear and not misleading rule, a firm should ensure that, in any statements of custody assets and/or client money it provides to its clients, it is clear from the statement which assets and/or monies the firm reports as holding for the client are, or are not, protected under CASS 6 and/or CASS 7 (e.g. if the statement also includes information regarding assets and/or monies which are held by the firm for that client which are not subject to the custody rules and/or client money rules).
+CASS 9.5.9
+23/10/2025
+G
+Firms are reminded that under CASS 3.2.4 G firms that enter into arrangements with retail clients covered by CASS 3 (Collateral) should, when appropriate, identify in any statement of custody assets sent to the client under COBS 16.4 (Statements of client designated investments or client money), COBS 16A.5.1R or COBS 16A.4 (as applicable) or this section the details of the assets which form the basis of that collateral arrangement.
