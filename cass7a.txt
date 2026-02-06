@@ -1,0 +1,427 @@
+CASS 7A Client money distribution and transfer
+You are viewing CASS 7A Client money distribution and transfer as of 06/02/2026. CASS 7A Client money distribution and transfer was last updated on 23/05/2025.
+Rules
+Guidance
+Evidential Provisions
+Deleted
+Related resources
+CASS 7A.1 Application and purpose
+Application
+CASS 7A.1.1
+26/07/2017
+R
+Subject to CASS 7A.1.1A R, this chapter (the client money distribution and transfer rules) applies to a firm that holds client money which is subject to the client money rules when a pooling event occurs.
+CASS 7A.1.1A
+26/07/2017
+R
+The client money distribution and transfer rules do not apply to any client money held by a trustee firm under CASS 7.10.34R to CASS 7.10.40G.
+CASS 7A.1.1B
+26/07/2017
+G
+As a result of CASS 7A.1.1A R, the client money distribution and transfer rules relating to primary pooling events and secondary pooling events will not affect any client money held by a firm in its capacity as trustee firm. Instead, the treatment of that client money will be determined by the terms of the relevant instrument of trust or by applicable law. However, the client money distribution and transfer rules do apply to a firm for any client money that it holds other than in that capacity which is subject to the client money rules.
+Purpose
+CASS 7A.1.2
+26/07/2017
+G
+The client money distribution and transfer rules set out the required treatment of client money on the occurrence of a pooling event so that where:
+(1) for example, a firm fails (but also in other situations where a primary pooling event occurs), the rules in CASS 7A.2 (Primary pooling events) facilitate the return or transfer of client money; and
+(2) a person at which the firm holds client money fails, the rules in CASS 7A.3 (Secondary pooling events) allocate any loss of client money among certain of the firm’s clients.
+CASS 7A.2 Primary pooling events
+Failure of the authorised firm: primary pooling event
+CASS 7A.2.2
+26/07/2017
+R
+A primary pooling event occurs:
+(1) on the failure of the firm;
+(2) on the vesting of assets in a trustee in accordance with an 'assets requirement' imposed under section 55P(1)(b) or (c) (as the case may be) of the Act;
+(3) on the coming into force of a requirement or requirements which, either separately or in combination:
+(a) is or are for all client money held by the firm; and
+(b) require the firm to take steps to cease holding all client money; or
+(4) when the firm notifies the FCA, in accordance with CASS 7.15.33 R (Notification requirements), that it is unable correctly to identify and allocate in its records all valid claims arising as a result of a secondary pooling event.
+CASS 7A.2.3
+01/04/2013
+R
+CASS 7A.2.2R (4) does not apply so long as:
+(1) the firm is taking steps, in consultation with the FCA, to establish those records; and
+(2) there are reasonable grounds to conclude that the records will be capable of rectification within a reasonable period.
+CASS 7A.2.3A
+26/07/2017
+R
+If a primary pooling event occurs in circumstances where the firm had, before the primary pooling event, reduced its margined transaction requirement by utilising approved collateral under CASS 7.16.33 R, it must immediately liquidate this approved collateral and place the proceeds in a client bank account that relates to the relevant notional pool under CASS 7A.2.4R(1) (Pooling and distribution or transfer)
+CASS 7A.2.3B
+26/07/2017
+R
+CASS 7A.2.7-AR (Client money received after the failure of the firm) does not apply to the proceeds under CASS 7A.2.3A R.
+CASS 7A.2.3C
+26/07/2017
+G
+The proceeds of the assets realised under CASS 7A.2.3A R:
+(1) will form part of the relevant notional pool of client money (see CASS 7A.2.4R(1A)(a)(i) (Pooling and distribution or transfer); and
+(2) must be distributed or transferred on behalf of clients in accordance with this chapter.
+Client money reconciliations after a primary pooling event
+CASS 7A.2.3D
+26/07/2017
+G
+(1) If a special administrator has been appointed to the firm under the IBSA Regulations then they will be required to carry out a reconciliation under regulation 10H of the IBSA Regulations.
+(2) Notwithstanding regulation 10H of the IBSA Regulations, CASS 7.15 has application to a firm after a primary pooling event, meaning, for example, that ongoing compliant record-keeping is required (see CASS 7.15.15R(4) (Internal client money reconciliations) and CASS 7.15.26AR (Frequency of external reconciliations after a primary pooling event)).
+Pooling and distribution or transfer
+CASS 7A.2.4
+02/08/2024
+R
+If a primary pooling event occurs, then:
+(1)
+(a) in respect of a sub-pool, the following is treated as a single notional pool of client money for the beneficiaries of that pool:
+(i) any client money held in a client bank account of the firm relating to that sub-pool; and
+(ii) any client money held in a client transaction account of the firm relating to that sub-pool, except for client money held in a client transaction account at an authorised central counterparty or a clearing member which is, in either case, held as part of a regulated clearing arrangement;
+(b) in respect of the general pool, the following is treated as a single notional pool of client money for the beneficiaries of the general pool:
+(i) any client money held in any client bank account of the firm;
+(ii) any client money held in a client transaction account of the firm, except for client money held in a client transaction account at an authorised central counterparty, or a clearing member which is, in either case, held as part of a regulated clearing arrangement; and
+(iii) any client money identifiable in any other account held by the firm into which client money has been received;
+except, in each case, for client money relating to a sub-pool which falls under sub-paragraphs (1)(a)(i) or (ii); and
+(1A)
+(a) a notional pool under paragraph (1) shall also include any client money that is:
+(i) transferred by the firm under regulation 10H(3) of the IBSA Regulations to a client bank account that is included in that pool under paragraph (1);
+(ii) paid under CASS 7A.2.3AR into a client bank account that is included in that pool under paragraph (1);
+(iii) paid under CASS 7A.2.4R(3)(b) or CASS 7A.2.4R(3)(d) into a client bank account or client transaction account that is included in that pool under paragraph (1);
+(iv) (subject to sub-paragraph (b)) otherwise received after the primary pooling event into a client transaction account that is included in that pool under paragraph (1) where the receipt is in relation to a margined transaction that the firm had entered into through the use of that client transaction account and which had not closed out before primary pooling event; and
+(v) paid under CASS 7.15.29R(1) (Reconciliation discrepancies) after the primary pooling event into a client bank account that is included in that pool under paragraph (1); and
+(b) the firm must not transfer any client money in a notional pool under sub-paragraphs (1)(a) or (b) to a client transaction account except where necessary to comply with sub-paragraph (2)(b);
+(c) a notional pool under paragraph (1) shall cease to include client money from the point at which it is:
+(i) transferred by the firm under regulation 10H(4) of the IBSA Regulations from a client bank account that is included in that pool under paragraph (1); or
+(ii) paid out after the primary pooling event from a client transaction account that is included in that pool under paragraph (1) where the payment is in relation to a margined transaction that the firm had entered into through the use of that client transaction account and which had not closed out before primary pooling event.
+(2) the firm must, as soon as reasonably practicable:
+(a) (subject to paragraphs (4) and (5)) distribute client money comprising a notional pool in accordance with CASS 7.17.2 R, so that each client who is a beneficiary of that pool receives a sum which is rateable to the client money entitlement calculated in accordance with CASS 7A.2.5R (Client money entitlements); or
+(b) (where applicable) transfer client money comprising a sub-pool to effect or facilitate porting of positions held for the clients who are beneficiaries of that sub-pool; and
+(3) if, in connection with a regulated clearing arrangement, client money is remitted directly to the firm either from an authorised central counterparty or from a clearing member as part of that person’s default management procedures, then, as soon as reasonably practicable:
+(a) any such remittance in respect of a client transaction account that is an individual client account does not form a part of any notional pool under CASS 7A.2.4R(1) and must be distributed to the relevant client subject to CASS 7.17.2R (4);
+(b) subject to sub-paragraphs (3)(c) and (d), any such remittance in respect of a client transaction account that is an omnibus client account must form part of the notional pool under CASS 7A.2.4R(1)(b) and be subject to distribution in accordance with CASS 7A.2.4R(2)(a);
+(c) any such remittance in respect of a client transaction account that is an omnibus client account must be distributed to the relevant clients for whom that omnibus client account is held if:
+(i) no client money in excess of the amount recorded in that omnibus client account is held by the firm as margin in relation to the positions recorded in that omnibus client account; and
+(ii) the amount of such remittance attributable to each client of the omnibus client account is readily apparent from information provided to the firm by the authorised central counterparty or, in the case of indirect clients, the clearing member;
+in which case the amount of such remittance does not form a part of any notional pool under CASS 7A.2.4R(1) and must be distributed to each such client in accordance with the information provided by the authorised central counterparty or clearing member subject to CASS 7.17.2R (4); and
+(d) any such remittance in respect of a client transaction account that is a net margined omnibus client account in respect of which the firm maintains a sub-pool must form part of such sub-pool under CASS 7A.2.4R(1)(a) to be distributed in accordance with CASS 7A.2.4R (2)(a); and
+(4) as an alternative to distributing a client’s client money in a notional pool to the relevant client under CASS 7A.2.4R(2)(a) and in respect of client money that that is not required to be transferred under CASS 7A.2.4R(2)(b), a firm (Firm A) may on its own initiative transfer some or all of that client’s client money in the relevant notional pool to any other person (Firm B) for safekeeping on behalf of the client provided that:
+(a) as a consequence of any such transfer, Firm A does not distribute to any other client whose client money is in that notional pool, or transfer on behalf of any such other client to another person, an amount of money that would be less than that which such other client was entitled to have distributed or transferred under this rule;
+(b) unless Firm A is able to rely on regulation 10B(3)(b) of the IBSA Regulations for the transfer to Firm B to have effect without the consent of the client, either:
+(i) Firm A has the specific consent of the client to the transfer to Firm B; or
+(ii)
+(A) there is a written agreement between Firm A and the client which provides that Firm A may transfer the client’s client money to another person; and
+(B) Firm A can lawfully rely on that provision to achieve the transfer under this rule;
+(c) Firm A has, in advance of the transfer under this rule, either:
+(i) obtained a contractual undertaking from Firm B that the money transferred will be held by Firm B as client money in accordance with the client money rules; or
+(ii) where the client money rules do not apply to Firm B, or where they do apply but Firm B is able to hold the money transferred other than as client money, satisfied itself, having exercised all due skill care and diligence in its assessment, that Firm B will apply adequate measures to protect the money transferred;
+(d) where regulation 10C(3) of the IBSA Regulations does not apply, Firm A has, in advance of the transfer under this rule, obtained a contractual undertaking from Firm B that Firm B will return the money to the client at the client’s request; and
+(e) Firm A has, in advance of the transfer under this rule, obtained a contractual undertaking from Firm B that Firm B will notify the client, within 14 days of the transfer of that client’s balance having commenced:
+(i) of the applicable regulatory regime under which the money will be held by Firm B;
+(ii) either:
+(A) of any relevant compensation scheme limits that may apply in respect of Firm B’s handling of the transferred money; or
+(B) of the fact that Firm B does not participate in a relevant compensation scheme, if that is the case; and
+(iii) where regulation 10C(3) of the IBSA Regulations does not apply, that the client has the option of having its money returned to it by Firm B; and
+(5)
+(a) subject to (b), as a further alternative to distributing a client’s client money in a notional pool to the relevant client under CASS 7A.2.4R(2)(a) and in respect of client money that is not required to be transferred under CASS 7A.2.4R(2)(b), a firm may transfer all of that client’s client money in the relevant notional pool to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 7.11.57AR; and
+(b) as a consequence of any such transfer to a dormant asset fund operator, the firm must not distribute to any other client whose client money is in that notional pool, or transfer on behalf of any such other client to another person, an amount of money that would be less than that which such other client was entitled to have distributed or transferred under this rule.
+CASS 7A.2.4-A
+23/05/2025
+G
+The purpose of CASS 7A.2.4(4)(a) and (5)(b) is to ensure that where a particular client’s client money is transferred (under CASS 7A.2.4R(4) to another person for safekeeping or under CASS 7A.2.4R(5) to a dormant asset fund operator), such a transfer does not prejudice any other client. This means, for example, that the amounts that may be transferred under those provisions should take account of any shortfall that affects the relevant clients.
+CASS 7A.2.4-B
+23/05/2025
+G
+Where regulation 10C(3) of the IBSA Regulations does apply, Firm A should, in advance of the transfer under CASS 7A.2.4R(4), obtain a contractual undertaking from Firm B that:
+(1) Firm B will comply with the client’s request for a ‘reverse transfer’ as defined in regulation 10C of the IBSA Regulations; and
+(2) Firm B will notify the client, within 14 days of the transfer of that client’s safe custody asset having commenced, that the client can demand a ‘reverse transfer’ as defined in regulation 10C of the IBSA Regulations.
+CASS 7A.2.4-C
+23/05/2025
+G
+Under CASS 7A.2.4R(1)(b)(i) a firm should include the balances of client money referred to at CASS 7.13.40AR(2), CASS 7.13.53AR(2) and CASS 7.13.72AR(2) in the relevant pool.
+CASS 7A.2.4A
+03/01/2018
+G
+(1) Under EMIR, where a firm that is a clearing member of an authorised central counterparty defaults, the authorised central counterparty may:
+(a) port client positions where possible; and
+(b) after the completion of the default management process:
+(i) return any balance due directly to those clients for whom the positions are held, if they are known to the authorised central counterparty; or
+(ii) remit any balance to the firm for the account of its clients if the clients are not known to the authorised central counterparty.
+(1A) Under the EMIR L2 Regulation or the MiFIR indirect clearing RTS, where a firm acting in connection with a regulated clearing arrangement for a client (who is also an indirect client) defaults, the clearing member with whom the firm has placed client money of the indirect client, may, in accordance with the EMIR indirect clearing default management obligations or MiFIR indirect clearing default management obligations:
+(a) transfer the positions and assets either to another clearing member of the relevant authorised central counterparty or to another firm willing to act for the indirect client; or
+(b) liquidate the assets and positions of the indirect clients and remit all monies due to the indirect clients.
+(1B) For the avoidance of doubt, 'relevant clients' in the case of CASS 7A.2.4R (3)(a) and CASS 7A.2.4R (3)(c) includes a client who is also an indirect client.
+(2) Where any balance remitted from an authorised central counterparty or, in the case of indirect clients, a clearing member, to a firm is client money, CASS 7A.2.4R (3) provides for the distribution of remittances from either an individual client account or an omnibus client account.
+(3) Remittances received by the firm falling within CASS 7A.2.4R (3)(a) and CASS 7A.2.4R (3)(c) should not be pooled with client money held in any client bank account operated by the firm at the time of the primary pooling event. Those remittances should be segregated and promptly distributed to each client on whose behalf the remittance was received.
+(4) For the avoidance of doubt, in respect of a regulated clearing arrangement, any client money remitted by the authorised central counterparty or, in the case of indirect clients, the clearing member, to the firm pursuant to CASS 7A.2.4R (3) should not be treated as client money received after the failure of the firm under CASS 7A.2.7-AR (Client money received after a primary pooling event).
+(5) The firm's obligation to its client in respect of client money held in a sub-pool is discharged to the extent that the firm transfers that client money to facilitate porting in accordance with CASS 7.11.34R (8).
+CASS 7A.2.4B
+26/07/2017
+G
+(1) The restrictions on transfers of client money at CASS 7A.2.4R(4) are each of the type referred to at regulation 10B(4) of the IBSA Regulations as “a restriction in client money rules”.
+(2) Where Firm A has complied with the restrictions at CASS 7A.2.4R(4) for any transfers to Firm B, any money transferred to Firm B ceases to be client money held by Firm A (see CASS 7.11.34R(2)(e) (Discharge of fiduciary duty)).
+(3) But any money returned by Firm B to Firm A in the event of a ‘reverse transfer’ will be subject to the client money rules and client money distribution and transfer rules as applied to Firm A, and should be treated by Firm A in accordance with CASS 7A.2.7-AR (Client money received after the failure of the firm).
+Client money entitlements
+CASS 7A.2.5
+26/07/2017
+R
+(-2)
+(a) Subject to paragraph (-2)(b), each client’s entitlement to client money in a notional pool is calculated with reference to the client money requirement as shown by an internal client money reconciliation carried out in accordance with CASS 7.15.15R(4)(a) (Internal client money reconciliations) as at the primary pooling event.
+(b) If, as at the primary pooling event, the firm had entered in to one or more cleared margined transactions through the use of a client transaction account at a clearing house that had not closed out as at the primary pooling event, the client money requirement under (-2)(a) must be calculated as follows:
+(i) CASS 7.16.28R does not apply in respect of those cleared margined transactions; and
+(ii) subject to CASS 7.16.30R, in respect of those cleared margined transactions a client’s equity balance is instead the amount which the firm is liable to pay to the client (or the client to the firm) under the client money rules for margined transactions following the close out of those margined transactions. This balance should include any cash margin the firm has received from the client in connection with those transactions.
+(-1) Each client's client equity balance following any adjustments under paragraph (-2) must be reduced by:
+(a) any amount paid by:
+(i) an authorised central counterparty to a clearing member other than the firm in connection with a porting arrangement in accordance with CASS 7.11.34R (6) in respect of that client; and
+(ii) a clearing member to another clearing member or firm (other than the firm) in connection with a transfer in accordance with CASS 7.11.34R (8);
+(b) any amount paid by:
+(i) an authorised central counterparty directly to that client, in accordance withCASS 7.11.34R (7); and
+(ii) a clearing member directly to an indirect client in accordance with CASS 7.11.34R (9); and
+(c) any amount that must be distributed to that client by the firm in accordance with CASS 7A.2.4R (3)(a) or (c).
+(1) When, in respect of a client who is a beneficiary of a pool and following any adjustments under paragraph (-2) and reductions under paragraph (-1), there is a positive individual client balance and a negative client equity balance in relation to that pool, the credit for that pool must be offset against the debit for that pool reducing the individual client balance for that client.
+(2) When, in respect of a client who is a beneficiary of a pool and following any adjustments under paragraph (-2) and reductions under paragraph (-1), there is a negative individual client balance and a positive client equity balance in relation to that pool, the credit for that pool must be offset against the debit for that pool reducing the client equity balance for that client.
+CASS 7A.2.5A
+26/07/2017
+G
+(1)
+(a) The effect of CASS 7A.2.5R(-2)(b) is that the client equity balance for the relevant cleared margined transaction is with reference to the eventual close out or ‘hindsight’ value of the transaction, instead of being a notional balance as at the primary pooling event under CASS 7.16.28R.
+(b) CASS 7A.2.5R(-2)(b) applies in respect of cleared margined transactions that a firm had entered into for any client, including for indirect clients where the firm is itself a client of a clearing member.
+(2) In cases where CASS 7A.2.5R(-2)(b) does not apply, the client equity balance for a margined transaction will be the notional balance as at the primary pooling event under CASS 7.16.28R.
+Closing a client money pool
+CASS 7A.2.6A
+02/08/2024
+R
+(1) Before a firm ceases to treat a balance of client money in a notional pool as client money by transferring it to itself under CASS 7.17.2R(5) it must:
+(a) (subject to paragraph (2)) attempt to distribute the balance to the relevant client or transfer it to another person for safekeeping on behalf of the client in accordance with CASS 7A.2.4R (Pooling and distribution or transfer);
+(b) (subject to paragraph (3)) take reasonable steps to notify any client in respect of whom the firm has evidence that the money may belong, of the firm’s proposed course of action;
+(c) where the firm has failed, apply any of the following types of balances of client money in the notional pool towards any costs incurred in accordance with CASS 7.17.2R(4), including any costs incurred under paragraph (1)(d):
+(i) client money allocated to a client for which, following the steps taken by the firm to satisfy paragraph (1)(b), the client to whom the client money belongs has not provided the firm with instructions that would enable the firm to make a distribution or transfer under paragraph (1)(a); or
+(ii) client money belonging to a client who, in response to a notification made under paragraph (1)(b), has confirmed to the firm that it disclaims the benefit of the statutory trust under CASS 7.17.2R in relation to the client money; or
+(iii) client money that, following the steps taken by the firm to satisfy paragraph (1)(b), is unallocated to any client in the firm’s records and accounts; and
+(d) immediately before transferring the balances of client money under paragraph (1)(c) to the firm itself carry out the actions in (i) and (ii) in the following order:
+(i) attempt to transfer them to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 7.11.57AR (but this only applies if, prior to a primary pooling event, the firm had put in place contractual or other arrangements with a dormant asset fund operator of the sort described at section 23 of the Dormant Assets Act 2022); and
+(ii) apply any remaining balances towards making good any outstanding shortfall in the notional pool, and subsequently distribute or transfer them in accordance with CASS 7A.2.4R to or on behalf of clients for whom the firm is able to make such distributions or transfers.
+(2) A firm is not required to attempt to return or transfer the balance of client money under paragraph (1)(a) where the client to whom the balance belongs has confirmed to the firm that it disclaims the benefit of the statutory trust under CASS 7.17.2R in relation to the balance client money.
+(3) A firm is not required to notify a client under paragraph (1)(b) where:
+(a) the firm is able to distribute the client money to the relevant client or transfer it to another person on behalf of the client in accordance with CASS 7A.2.4R (Pooling and distribution or transfer);
+(b) the client to whom the balance of client money belongs has confirmed to the firm that it disclaims the benefit of the statutory trust under CASS 7.17.2R in relation to the balance client money;
+(c) in respect of a client for whom the firm has evidence that they were a retail client for the purposes of the client money rules at the time of the primary pooling event, the entitlement of that client in the notional pool is £25 or less when calculated under CASS 7A.2.5R (Client money entitlements); or
+(d) in respect of a client for whom the firm has evidence that they were a professional client for the purposes of the client money rules at the time of the primary pooling event, the entitlement of that client is £100 or less when calculated under CASS 7A.2.5R (Client money entitlements).
+CASS 7A.2.6B
+26/07/2017
+G
+(1) A firm may propose to cease to treat a balance of money as client money under CASS 7A.2.6AR(1) where the firm is using the procedure under regulation 12C of the IBSA Regulations to set a ‘hard bar date’ by giving a ‘hard bar date notice’, or another similar procedure in accordance with the legal procedure for the firm’s failure.
+(2) In any case, a firm should consider the whether its obligations under law (including trust law) or any agreement permit it to cease to treat a balance of money as client money in the way in which it proposes to do so.
+(3) Balances of client money under CASS 7A.2.6AR(1)(c)(iii) include any remaining amount of those that the firm is holding to comply with:
+(a) CASS 7.13.41R (Prudent segregation);
+(b) CASS 7.13.65R(1) (The alternative approach to client money segregation); and
+(c) CASS 7.13.73R(1) (Use of the normal approach in relation to certain regulated clearing arrangements).
+CASS 7A.2.6C
+26/07/2017
+E
+(1) Reasonable steps in CASS 7A.2.6AR(1)(b) include the following course of conduct:
+(a) determining, as far as reasonably possible, the correct contact details for the relevant client;
+(b) for a client for whom the firm has evidence that it was a professional client for the purposes of the client money rules at the time of the primary pooling event:
+(i) writing to the client at the last known address either by post or by electronic mail:
+(A) to inform it of the firm’s intention to no longer treat the balance as client money;
+(B) to inform it of the consequences of the firm’s proposed course of action in relation to the client’s ability to assert an ownership right to that money; and
+(C) to invite the client to submit a claim for the money; and
+(ii) where the client has not responded within 28 days of the communication under sub-paragraph (i), attempting to communicate the information in sub-paragraph (i) to the client on at least one further occasion by any means other than that used in (i) including by post, electronic mail, telephone or media advertisement; and
+(c) for any other client:
+(i) the same steps as under sub-paragraphs (b)(i) and (b)(ii); and
+(ii) where the client has not responded within 28 days of the second communication under sub-paragraph (b)(ii), attempting to communicate the information in sub-paragraph (b)(i) to the client on at least one further occasion by any means other than one in respect of which the firm has obtained positive confirmation that the client is not receiving such communications.
+(2) Compliance with paragraph (1) may be relied on as tending to establish compliance with CASS 7A.2.6AR(1)(b).
+(3) Contravention of paragraph (1) may be relied on as tending to establish contravention of CASS 7A.2.6AR(1)(b).
+CASS 7A.2.6D
+26/07/2017
+G
+For the purpose of CASS 7A.2.6CE(1)(a), a firm may use any available means to determine the correct contact details for the relevant client, including:
+(1) telephoning the client;
+(2) searching internal and/or public records;
+(3) media advertising;
+(4) mortality screening; and
+(5) using credit reference agencies or tracing agents.
+CASS 7A.2.6E
+26/07/2017
+R
+If the firm undertook a tracing exercise for the purposes of CASS 7.11.50R(3) (Allocated but unclaimed client money) before the primary pooling event but had not made the charity payment under that rule by the time of the primary pooling event then the findings of that exercise may be relied on for the purposes of CASS 7A.2.6CE(1)(a).
+CASS 7A.2.6F
+26/07/2017
+R
+(1) A firm must make a record of any balance under CASS 7A.2.6AR(1)(c)(i) or (ii) which is to be applied towards any costs or towards any shortfall in the relevant notional pool in accordance with CASS 7A.2.6AR(1)(c) or (d) respectively, immediately before taking such steps.
+(2) The record under paragraph (1) must state:
+(a) the amount of the balance of client money;
+(b) the name and contact details of any client to whom that balance was allocated according to the firm’s records at the time of making the record under this rule; and
+(c) either:
+(i) the efforts applied by the firm to determine the client’s correct contact details under CASS 7A.2.6CE(1)(a); or
+(ii) if being relied on under CASS 7A.2.6ER, the efforts applied by the firm to determine the client’s correct contact details for the purposes of CASS 7.11.50R(3) (Allocated but unclaimed client money).
+(3) A firm must keep the record under (1) indefinitely.
+Client money received after a primary pooling event
+CASS 7A.2.7-A
+26/07/2017
+R
+(1) This rule applies in respect of client money received by a firm after a primary pooling event that does not form part of a notional pool.
+(2) Where the firm is using the normal approach under CASS 7.13.6R (The normal approach), client money to which this rule applies must be received into a client bank account that does not contain any client money forming part of a notional pool under CASS 7A.2.4R(1) (Pooling and distribution or transfer).
+(3)
+(a) This paragraph applies in respect of client money that is received by a firm into an account other than a client bank account as required under CASS 7.13.62R (The alternative approach to client money segregation) or as permitted under CASS 7.13.72R (Use of the normal approach in relation to certain regulated clearing arrangements).
+(b) To the extent the firm makes any transfers from its own account to a client bank account under CASS 7.13.62R(3) (The alternative approach to client money segregation) or CASS 7.13.72R(2)(b) (Use of the normal approach in relation to certain regulated clearing arrangements), such transfers must be made into a client bank account that does not contain any client money forming part of a notional pool under CASS 7A.2.4R(1) (Pooling and distribution or transfer).
+(4) Subject to paragraphs (5) and (6), a firm must promptly return to each relevant client all client money to which this rule applies.
+(5) To the extent that client money relates to a transaction for a client that was concluded before the primary pooling event but had not yet settled at the time of the primary pooling event, the firm may use that client money to settle that transaction.
+(6)
+(a) This paragraph applies where client money which is not received by the firm into a client transaction account relates to one or more cleared margined transactions entered into by the firm through the use of a client transaction account at a clearing house.
+(b) Where such transactions have not closed out as at the primary pooling event, then provided that the firm has not failed, it may transfer that client money to a client transaction account with the relevant clearing house in accordance with CASS 7.14 (Client money held by a third party) for the purpose of collateralising those margined transactions.
+CASS 7A.2.7A
+26/07/2017
+G
+A firm may open a client bank account after a primary pooling event for the purposes of complying with CASS 7A.2.7-AR(2) and CASS 7A.2.10AR(2). If it does so it must comply with CASS 7.18.15R regarding acknowledgement letters.
+CASS 7A.2.7B
+26/07/2017
+G
+Following a failure, CASS 7.17.2R(4) applies in respect of costs properly attributable to the return of a client’s client money under CASS 7A.2.7-AR(4).
+CASS 7A.2.9
+26/07/2017
+R
+If a firm receives a mixed remittance after a primary pooling event other than where using the alternative approach under CASS 7.13.62R or under a regulated clearing arrangement to which CASS 7.13.72R applies, it must:
+(1) pay the full sum into a client bank account that meets the requirements of CASS 7A.2.7-AR(2); and
+(2) pay the money that is not client money out of that client bank account into a firm's own bank account within one business day of the day on which the firm would normally expect the remittance to be cleared.
+CASS 7A.2.10
+01/01/2009
+G
+Whenever possible the firm should seek to split a mixed remittance before the relevant accounts are credited.
+Money due to a client from a firm after a primary pooling event
+CASS 7A.2.10A
+26/07/2017
+R
+A firm that is operating the normal approach to segregation under CASS 7.13 (Segregation of client money) which becomes liable to pay money to a client after a primary pooling event must promptly, and in any event no later than one business day after the money is due and payable, pay the money:
+(1) to, or to the order of, the client; or
+(2) into a client bank account that does not contain any client money forming part of a notional pool under CASS 7A.2.4R(1).
+CASS 7A.2.10B
+26/07/2017
+G
+Where the firm has payment instructions from the client, the firm should pay the money to the order of the client, rather than into a client bank account.
+Secondary pooling events
+CASS 7A.2.11
+01/01/2009
+R
+If both a primary pooling event and a secondary pooling event occur, the provisions of this section relating to a primary pooling event apply.
+CASS 7A.3 Secondary pooling events
+CASS 7A.3.1
+26/07/2017
+R
+A secondary pooling event occurs on the failure of a person to which client money held by the firm has been transferred underCASS 7.13.3R (1) to CASS 7.13.3R (3) (Depositing client money) or CASS 7.14.2 R (Client money held by a third party).
+CASS 7A.3.2
+26/07/2017
+R
+CASS 7A.3.6 R to CASS 7A.3.12AR do not apply if, on the failure of the relevant person:
+(1) there is no secondary pooling shortfall; or
+(2) where there is a secondary pooling shortfall, the firm pays an amount equal to the amount of client money which would have been held at that person if a secondary pooling shortfall had not occurred either:
+(a) to its clients in the appropriate amounts such that they are compensated by the amount of the secondary pooling shortfall that they would otherwise be required to bear under this section; or
+(b) into a client bank account at an unaffected bank with the effect that any shortfall that would otherwise arise for the purposes of CASS 7.15 (Records, accounts and reconciliations) is avoided.
+CASS 7A.3.4
+26/07/2017
+G
+When a person to which client money held by the firm has been transferred under CASS 7.13.3R(1) to CASS 7.13.3R(3) (Depositing client money) or CASS 7.14.2R (Client money held by a third party) fails, and the firm decides not to make good any secondary pooling shortfall in the amount of client money held at that person (see CASS 7A.3.2R(2)), a secondary pooling event will occur. The firm should reflect the secondary pooling shortfall that arises in the general pool (where the firm maintains only a general pool) and, where relevant, in a particular sub-pool (where the firm maintains both a general pool and one or more sub-pools) in its records of the entitlement of clients and of money held with third parties under CASS 7.15 (Records, accounts and reconciliations).
+CASS 7A.3.5
+26/07/2017
+G
+The client money distribution and transfer rules seek to ensure that clients who have previously specified that they are not willing to accept the risk of the bank that has failed, and who therefore requested that their client money be placed in a designated client bank account at a different bank, should not suffer the loss of the bank that has failed.
+Failure of a bank: pooling
+CASS 7A.3.6
+26/07/2017
+R
+If a secondary pooling event occurs as a result of the failure of a bank where one or more general client bank accounts are held, and/or where one or more designated client bank accounts or designated client fund accounts are held, for the general pool or a particular sub-pool, then:
+(1) in relation to every general client bank account of the firm maintained in respect of that pool, the provisions of CASS 7A.3.8 R, CASS 7A.3.13 R and CASS 7A.3.14 R will apply;
+(2) in relation to every designated client bank account held by the firm with the failed bank for the relevant pool, the provisions of CASS 7A.3.10 R, CASS 7A.3.13 R and CASS 7A.3.14 R will apply;
+(3) in relation to each designated client fund account held by the firm with the failed bank for the relevant pool, the provisions of CASS 7A.3.11 R, CASS 7A.3.13 R and CASS 7A.3.14 R will apply;
+(4) any money held at a bank, other than the bank that has failed, in designated client bank accounts for the relevant pool, is not pooled with any other client money held for that pool or any other pool; and
+(5) any money held in a designated client fund account in respect of that pool, no part of which is held by the bank that has failed, is not pooled with any other client money held for that pool or any other pool.
+CASS 7A.3.6A
+26/07/2017
+G
+Depending on the person at which the secondary pooling event occurs, the types of client bank accounts and client transaction accounts that are affected by the secondary pooling shortfall, and the nature of a firm’s business with a particular client, it is possible that the client’s overall entitlement to client money held by the firm may be affected by a combination of CASS 7A.3.8R, CASS 7A.3.8AR, CASS 7A.3.10R and CASS 7A.3.11R.
+Failure of an exchange, clearing house, intermediate broker, settlement agent or OTC counterparty: pooling
+CASS 7A.3.7A
+26/07/2017
+R
+If a secondary pooling event occurs as a result of the failure of an exchange, clearing house, intermediate broker, settlement agent or OTC counterparty, then, in relation to every general client bank account and client transaction account of the firm, CASS 7A.3.8R and CASS 7A.3.13R will apply, and CASS 7A.3.8AR will additionally apply in the case of the failure of an authorised central counterparty.
+Failure of a bank, intermediate broker, settlement agent, OTC counterparty, exchange or clearing house: treatment of general client bank accounts and client transaction accounts
+CASS 7A.3.8
+26/07/2017
+R
+Money Subject to CASS 7A.3.8AR, if a secondary pooling event occurs as a result of the failure of a bank, intermediate broker, settlement agent, OTC counterparty, exchange or clearing house, money held in each general client bank account and client transaction account of the firm for the general pool or a sub-pool must be treated as pooled and:
+(1) any secondary pooling shortfall in client money held, or which should have been held, in general client bank accounts and client transaction accounts for the relevant pool, that has arisen as a result of the failure of the bank, exchange, clearing house, intermediate broker, settlement agent or OTC counterparty, must be borne by all the clients of that pool whose client money is held in such general client bank account or client transaction account of the firm, rateably in accordance with their entitlements;
+(2) a new client money entitlement must be calculated for each client of the relevant pool by the firm, to reflect the requirements in paragraph (1), and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client's share of the secondary pooling shortfall until the client is repaid; and
+(4) the firm must use the new client money entitlements, calculated in accordance with paragraph (2), for the purposes of reconciliations pursuant to CASS 7.15.3 R (Records and accounts) for that pool.
+CASS 7A.3.8A
+26/07/2017
+R
+If a secondary pooling event occurs as a result of the failure of an authorised central counterparty:
+(1) any money held in a client transaction account that is an individual client account at the failed authorised central counterparty is not pooled by the firm with any of its other client money;
+(2) any money held in a client transaction account that is an omnibus client account at the failed authorised central counterparty is not pooled by the firm with any of its other client money provided that:
+(a) no client money in excess of the amount recorded in that omnibus client account is held by the firm as margin in relation to the positions recorded in that omnibus client account; and
+(b) the client or clients of the firm to whom the amount recorded in that omnibus client account relates is or are readily apparent from information provided to the firm by the authorised central counterparty or, in the case of indirect clients, the clearing member;
+(3) any money held in a client transaction account that is a net margined omnibus client account at the failed authorised central counterparty in respect of which the firm maintains a sub-pool is not pooled by the firm with any of its other client money;
+(4) the proportion of any secondary pooling shortfall that arises as a result of client money held, or which should have been held, in an individual client account to which paragraph (1) applies must be borne by the client whose client money was held in that individual client account;
+(5) the proportion of any secondary pooling shortfall that arises as a result of client money held, or which should have been held, in an omnibus client account to which paragraph (2) applies must either:
+(a) be borne by all the clients whose client money is held in that account, rateably in accordance with their entitlements; or
+(b) if the firm is required under applicable law to allocate the secondary pooling shortfall other than as under (a), be allocated as required by applicable law;
+(6) the proportion of any secondary pooling shortfall that arises as a result of client money held, or which should have been held, in a net margined omnibus client account to which paragraph (3) applies must be borne by all the clients whose client money is held in the relevant sub-pool, rateably in accordance with their entitlements;
+(7) a new client money entitlement must be calculated for each relevant client of the relevant pool, to reflect the requirements in paragraphs (1), (2) and (3), and the firm’s records must be amended to reflect the reduced client money entitlement;
+(8) the firm must make and retain a record of each client’s share of the secondary pooling shortfall until the client is repaid; and
+(9) the firm must use the new client money entitlements calculated under paragraph (7) for the purposes of reconciliations pursuant to CASS 7.15.3R (Records and accounts) for the relevant pool.
+CASS 7A.3.9
+26/07/2017
+G
+The term "which should have been held" is a reference to the relevant failed person’s failure to hold the client money at the time of its failure.
+CASS 7A.3.9A
+26/07/2017
+G
+(1) CASS 7A.3.8AR(5)(b) enables a firm to allocate the relevant part of a secondary pooling shortfall that arises in an omnibus client account under CASS 7A.3.8AR(2) other than on a “pro rata” basis, where this is required by applicable law.
+(2) This would include, for example, where applicable law requires the firm to attribute a secondary pooling shortfall only to a particular client or clients.
+Failure of a bank: treatment of designated client bank accounts and designated client fund accounts
+CASS 7A.3.10
+26/07/2017
+R
+For each client with a designated client bank account maintained by the firm for the general pool or a particular sub-pool and held at the failed bank:
+(1) any secondary pooling shortfall in client money held, or which should have been held, in designated client bank accounts that has arisen as a result of the failure, must be borne by all the clients of the relevant pool whose client money is held in a designated client bank account of the firm at the failed bank, rateably in accordance with their client money entitlements;
+(2) a new client money entitlement must be calculated for each of the relevant clients of the relevant pool by the firm, and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client's share of the secondary pooling shortfall at the failed bank until the client is repaid; and
+(4) the firm must use the new client money entitlements, calculated in accordance with paragraph (2), for the purposes of reconciliations pursuant to CASS 7.15.3 R (Records and accounts) in respect of the relevant pool.
+CASS 7A.3.11
+26/07/2017
+R
+Money held by the firm in each designated client fund account for the general pool or a particular sub-pool with the failed bank must be treated as pooled with any other designated client fund accounts for the general pool or a particular sub-pool as the case may be which contain part of the same designated fund and:
+(1) any secondary pooling shortfall in client money held, or which should have been held, in designated client fund accounts that has arisen as a result of the failure, must be borne by each of the clients of the relevant pool whose client money is held in that designated fund, rateably in accordance with their entitlements;
+(2) a new client money entitlement must be calculated for each client of the relevant pool by the firm, in accordance with paragraph (1), and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client's share of the secondary pooling shortfall at the failed bank until the client is repaid; and
+(4) the firm must use the new client money entitlements, calculated in accordance with paragraph (2), for the purposes of reconciliations pursuant to CASS 7.15.3 R (Records and accounts) for the relevant pool.
+CASS 7A.3.12
+01/01/2009
+R
+A client whose money was held, or which should have been held, in a designated client bank account with a bank that has failed is not entitled to claim in respect of that money against any other client bank account or client transaction account of the firm.
+CASS 7A.3.12A
+26/07/2017
+R
+A client whose money was held, or which should have been held, in a designated client fund account with a bank that has failed is not entitled to claim in respect of that money against any other client bank account of the firm that is not part of the same designated fund or against any client transaction account of the firm.
+Client money received after the secondary pooling event
+CASS 7A.3.13
+26/07/2017
+R
+Client money received by the firm after the failure of a bank, exchange, clearing house, intermediate broker, settlement agent or OTC counterparty, that would otherwise have been paid into a client bank account or client transaction account at that bank, exchange, clearing house, intermediate broker, settlement agent or OTC counterparty, as the case may be, for either the general pool or a particular sub-pool:
+(1) must not be transferred to the failed person unless specifically instructed by the client in order to settle an obligation of that client to the failed person; and
+(2) must be, subject to paragraph (1), placed in a client bank account or client transaction account relating to the general pool or the particular sub-pool as the case may be other than an account at the failed person.
+CASS 7A.3.14
+01/01/2009
+R
+If a firm receives a mixed remittance after the secondary pooling event which consists of client money that would have been paid into a general client bank account, a designated client bank account or a designated client fund account maintained at the bank that has failed, it must:
+(1) pay the full sum into a client bank account other than one operated at the bank that has failed; and
+(2) pay the money that is not client money out of that client bank account within one business day of the day on which the firm would normally expect the remittance to be cleared.
+CASS 7A.3.15
+01/01/2009
+G
+Whenever possible the firm should seek to split a mixed remittance before the relevant accounts are credited.
+Notification to the FCA of secondary pooling event
+CASS 7A.3.19
+26/07/2017
+R
+A firm must notify the FCA as soon as reasonably practical after it becomes aware of the failure of any bank, exchange, clearing house, intermediate broker, settlement agent, OTC counterparty or other entity with which it has placed, or whom it has allowed to hold, client money:
+(1) [deleted]
+(2) [deleted]
+(3) whether it intends to make good any secondary pooling shortfall that has arisen or may arise; and
+(4) the amount of that secondary pooling shortfall, or the expected amount if the actual amount is not known.

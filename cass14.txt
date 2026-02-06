@@ -1,0 +1,375 @@
+CASS 14 Temporary permissions regime – client assets rules
+You are viewing CASS 14 Temporary permissions regime – client assets rules as of 06/02/2026. CASS 14 Temporary permissions regime – client assets rules was last updated on 26/02/2021.
+Rules
+Guidance
+Related resources
+CASS 14.1 General application
+Who?
+CASS 14.1.1
+01/01/2021
+R
+This chapter only applies to a TP firm that has not failed.
+What?
+CASS 14.1.2
+01/01/2021
+R
+Unless otherwise stated, the rules in CASS 14 apply:
+(1) in relation to:
+(a) a TP firm’s activities to which CASS 7 applies as a result of GEN 2.2.26R, but subject to CASS 14.1.3R; and
+(b) a TP firm’s activities to which CASS 5 or CASS 6 applies as a result of GEN 2.2.26R; and
+(2) where those activities are carried on in reliance on the TP firm’s temporary permission.
+CASS 14.1.3
+01/01/2021
+R
+CASS 14 does not apply in relation to a TP firm’s activities to which CASS 7 applies if, during the period for which it is has a temporary permission, the TP firm does not hold any client money for the purposes of the rules in CASS 7 that apply as a result of GEN 2.2.26R.
+CASS 14.1.4
+01/01/2021
+G
+CASS 14.1.3R may, for example, be relevant to a TP firm that can apply the exclusion from the definition of client money at CASS 7.10.16R(1) (credit institutions) or at CASS 7.11.1R(4) (title transfer collateral arrangements) throughout the period.
+CASS 14.1.5
+01/01/2021
+G
+(1) CASS 14 does not apply in relation to a TP firm’s activities which are carried on other than in reliance on its temporary permission. It only applies in relation to the part of its Part 4A permission that the TP firm is treated as having under regulation 8, 11, 28 or 34 of the EU Exit Passport Regulations.
+(2) For example, where a TP firm had Part 4A permission immediately before IP completion day to act as trustee or depositary of an AIF or to act as trustee or depositary of a UCITS, and continues to hold that permission, the rules applying to activities under that part of its Part 4A permission are not affected by its temporary permission because of GEN 2.2.26R(1) (see also the guidance at GEN 2.2.37G(3)). In relation to those activities, it should continue to comply with the applicable rules in CASS. It may also consider making the election at CASS 14.3.6R in relation to its activities that are carried on in reliance on the TP firm’s temporary permission.
+Where?
+CASS 14.1.6
+01/01/2021
+R
+The rules in CASS 14 apply in relation to a TP firm’s activities described at CASS 14.1.2R wherever they are carried on.
+CASS 14.1.7
+01/01/2021
+G
+CASS 14.1.6R means that the rules in CASS 14 apply both to activities carried on from a UK branch and activities carried on other than from a UK branch into the UK.
+CASS 14.2 Temporary permission CASS firm classification
+CASS 14.2.1
+01/01/2021
+R
+(1) Subject to paragraphs (2) to (5), this section applies only to a TP firm to which either or both of CASS 6 and CASS 7 apply as a result of GEN 2.2.26R.
+(2) In relation to a TP firm to which both CASS 5 and CASS 7 (Client money rules) apply as a result of GEN 2.2.26R, this section does not apply in relation to client money that the TP firm holds in accordance with CASS 5 as a result of GEN 2.2.26R.
+(3) The rules in this section apply to a TP firm even if at the date of the determination or, as the case may be, the notification required under them, either or both of CASS 6 and CASS 7 do not apply to it, provided that:
+(a) either or both of those chapters applied to it as a result of GEN 2.2.26R during part or all of the previous calendar year; or
+(b) it projects that either or both will apply to it as a result of GEN 2.2.26R in the current calendar year.
+(4) The rules in this section do not apply to a TP firm to which, as a result of GEN 2.2.26R, only CASS 6 applies, applied or is projected to apply, merely because it is, was, or is projected to be a firm which arranges safeguarding and administration of assets.
+(5) The rules in this section do not apply to a TP firm that has notified the FCA of an election made under CASS 14.3.6R.
+CASS 14.2.2
+01/01/2021
+G
+This section does not apply to a TP firm to which, as a result of GEN 2.2.26R, CASS 5 applies but neither CASS 6 nor CASS 7 applies.
+CASS 14.2.3
+01/01/2021
+G
+The frequency of a TP firm’s reporting obligations under CASS 14.3 depends on the ‘CASS firm type’ within which a TP firm falls. The ‘CASS firm types’ are defined in accordance with CASS 14.2.8R.
+CASS 14.2.4
+01/01/2021
+R
+(1) A TP firm must once every year, and by the time it is required to make a notification in accordance with CASS 14.2.9R, determine whether it is a CASS large TP firm, CASS medium TP firm or a CASS small TP firm according to the amount of client money or safe custody assets which it holds, using the limits set out in the table in CASS 14.2.8R.
+(2) For the purpose of determining its ‘CASS firm type’ in accordance with CASS 14.2.8R, a TP firm must:
+(a) if it currently holds client money or safe custody assets, calculate the higher of the highest total amount of client money and the highest total value of safe custody assets held during the previous calendar year ending on 31 December, and use that figure to determine its ‘CASS firm type’;
+(b) if it did not hold client money or safe custody assets in the previous calendar year but projects that it will do so in the current calendar year, calculate the higher of the highest total amount of client money and the highest total value of safe custody assets that it projects that it will hold during that year, and use that figure to determine its ‘CASS firm type’; but
+(c) in either case, exclude from its calculation any client money held in accordance with CASS 5.
+CASS 14.2.5
+01/01/2021
+G
+For the purposes of CASS 14.2.4R a TP firm should only include client money and safe custody assets that it holds (or is projected to hold) in relation to the TP firm’s activities which are carried on (or projected to be carried on) in reliance of the firm’s temporary permission. It should not include client money and safe custody assets that it holds in reliance of any authorisation in its Home State.
+CASS 14.2.6
+01/01/2021
+R
+For the purpose of calculating the value of the total amounts of client money and safe custody assets that it holds on any given day during a calendar year a TP firm must:
+(1) in complying with CASS 14.2.4R(2)(a), base its calculation on the reconciliation performed in accordance with CASS 7.15.20R during the previous year;
+(2) in relation to client money or safe custody assets denominated in a currency other than sterling, translate the value of that money or those safe custody assets into sterling at the previous day’s closing spot exchange rate; and
+(3) in relation to safe custody assets only, calculate their total value using the previous day’s closing mark to market valuation, or if in relation to a particular safe custody asset none is available, the most recent available valuation.
+CASS 14.2.7
+01/01/2021
+R
+(1) Notwithstanding CASS 14.2.4R, provided that the conditions in (2) are satisfied a TP firm may elect to be treated:
+(a) as a CASS medium TP firm, in the case of a TP firm that is classed by the application of the limits in CASS 14.2.8R as a CASS small TP firm; and
+(b) as a CASS large TP firm, in the case of a TP firm that is classed by the application of the limits in CASS 14.2.8R as a CASS medium TP firm.
+(2) The conditions to which (1) refers are that in either case:
+(a) the election is notified to the FCA by email;
+(b) the notification in accordance with (a) is made at least one week before the election is intended to take effect; and
+(c) the FCA has not objected.
+CASS 14.2.8
+01/01/2021
+R
+CASS firm types
+CASS firm type
+Highest total amount of client money held during the TP firm’s last calendar year or as the case may be that it projects that it will hold during the current calendar year
+Highest total value of safe custody assets held by the TP firm during the TP firm’s last calendar year or as the case may be that it projects that it will hold during the current calendar year
+CASS large TP firm
+more than £1 billion
+more than £100 billion
+CASS medium TP firm
+an amount equal to or greater than £1 million and less than or equal to £1 billion
+an amount equal to or greater than £10 million and less than or equal to £100 billion
+CASS small TP firm
+Less than £1 million
+Less than £10 million
+CASS 14.2.9
+01/01/2021
+R
+Once every calendar year a TP firm must notify to the FCA by email the information specified in (1), (2) or (3) as applicable, and the information specified in (4), in each case no later than the day specified in (1) to (4):
+(1) if it held client money or safe custody assets in the previous calendar year, the highest total amount of client money and the highest total value of safe custody assets held during the previous calendar year, notification of which must be made no later than the fifteenth business day of January;
+(2) if it did not hold client money or safe custody assets in the previous calendar year but at any point up to the fifteenth business day of January the TP firm projects that it will do so in the current calendar year, the highest total amount of client money and the highest total value of safe custody assets that the TP firm projects that it will hold during the current calendar year, notification of which must be made no later than the fifteenth business day of January; or
+(3) in any other case, the highest total amount of client money and the highest total value of safe custody assets that the TP firm projects that it will hold during the remainder of the current calendar year, notification of which must be made no later than the business day before the firm begins to hold client money or safe custody assets; and
+(4) in every case, of its ‘CASS firm type’ classification, notification of which must be made at the same time the TP firm makes the notification under (1), (2) or (3).
+CASS 14.2.10
+01/01/2021
+R
+For the purpose of the annual notification to which CASS 14.2.9R refers, a TP firm must apply the calculation rule in CASS 14.2.6R.
+CASS 14.2.11
+01/01/2021
+R
+For the purpose of CASS 14.2.9R(1), the FCA will treat that obligation as satisfied if a TP firm submitted a TPCAR for each period within the previous calendar year in compliance with the rules in CASS 14.3.
+CASS 14.2.12
+01/01/2021
+R
+A TP firm's ‘CASS firm type’ and any change to it takes effect if the TP firm:
+(1) notifies the FCA in accordance with CASS 14.2.9R(1) or CASS 14.2.9R(2), on 1 February following the notification; or
+(2) notifies the FCA in accordance with CASS 14.2.9R(3), on the day it begins to hold client money or safe custody assets; or
+(3) makes an election under CASS 14.2.7R(1), and provided the conditions in CASS 14.2.7R(2) are satisfied, on the day the notification made under CASS 14.2.7R(2)(a) states that the election is intended to take effect.
+CASS 14.2.13
+01/01/2021
+G
+Any written notification made to the FCA under this chapter should be marked for the attention of: “Client Assets TP Firm Classification”.
+CASS 14.3 Temporary Permission Client Assets Return
+CASS 14.3.1
+01/01/2021
+R
+(1) A TP firm must submit a completed TPCAR to the FCA by email for each reporting period specified in CASS 14.3.3R.
+(2) The TP firm must submit the TPCAR to the FCA by the deadline specified in CASS 14.3.4R.
+(3) A TPCAR must be completed using the template specified at CASS 14 Annex 1R.
+CASS 14.3.2
+01/01/2021
+G
+Guidance notes on completing a TPCAR are available at CASS 14 Annex 2G.
+CASS 14.3.3
+01/01/2021
+R
+The TPCAR reporting periods for the purposes of CASS 14.3.1R are:
+(1) for TP firms to which either or both of CASS 6 and CASS 7 applies as a result of GEN 2.2.26R, either:
+(a) for CASS small TP firms, the initial twelve-month period 1 January 2021 to 31 December 2021, and each subsequent 12-month period; or
+(b) for CASS medium TP firms and CASS large TP firms, the initial one-month period from 1 January 2021 to 31 January 2021, and each subsequent one-month period; and
+(2) for TP firms to whom as a result of GEN 2.2.26R, CASS 5 applies:
+(a) if the TP firm’s annual revenue from its business to which CASS 5 applies as a result of GEN 2.2.26R is £5 million or less:
+(i) the shorter of:
+(A) the initial period from 1 January 2021 to the firm’s accounting reference date, and
+(B) the initial period from 1 January 2021 to the last day of the six-month period after the firm’s accounting reference date; and
+(ii) each six-month period subsequent to the shorter of those initial periods; or
+(b) if the TP firm’s annual revenue from its business to which CASS 5 applies as a result of GEN 2.2.26R exceeds £5 million:
+(i) the shorter of:
+(A) the initial period from 1 January 2021 to the firm’s accounting reference date, and
+(B) the initial period from 1 January 2021 to the last day of the three-month period after the firm’s accounting reference date; and
+(ii) each three-month period subsequent to the shorter of those initial periods.
+CASS 14.3.4
+26/02/2021
+R
+The TPCAR submission deadlines for the purposes of CASS 14.3.1R are:
+(1) for TP firms to which either or both of CASS 6 and CASS 7 applies as a result of GEN 2.2.26R, either:
+(a) for CASS small TP firms the 15th business day of the month that follows the reporting period specified in CASS 14.3.3R(1)(a); or
+(b) for CASS medium TP firms and CASS large TP firms, the 15th business day of the month that follows the reporting period specified in CASS 14.3.3R(1)(b); and
+(2) for TP firms to which CASS 5 applies as a result of GEN 2.2.26R, the 30th business day after the relevant reporting period specified in CASS 14.3.3R(2).
+CASS 14.3.5
+01/01/2021
+G
+(1) If both CASS 14.3.3R(1) and (2) apply to a TP firm, then it should submit a completed TPCAR to the FCA to cover each reporting period that applies to it, by the relevant submission deadline in CASS 14.3.4R(1) and (2).
+(2) In those cases:
+(a) a TP firm should only complete Part 1 and Part 2 of any TPCAR that is for a reporting period specified under CASS 14.3.3R(1); and
+(b) it should only complete Part 1 and Part 3 of any TPCAR that is for a reporting period specified under CASS 14.3.3R(2).
+Election to use the CMAR for TP firms that had a Part 4A permission before IP completion day
+CASS 14.3.6
+01/01/2021
+R
+(1) This rule applies to a TP firm to which SUP 16.14.3R (Client money and asset return) applies as a result of GEN 2.2.26R(1), on the basis that it has classified itself as a CASS large firm or a CASS medium firm for the purposes of CASS 1A.
+(2) A TP firm may comply with SUP 16.14.3R instead of CASS 14.3.1R provided that it has notified the FCA in advance and by email that it has elected to do so.
+(3) A TP firm that makes the election under this rule must, when completing data field 8 of the CMAR:
+(a) use a separate row to distinguish between types of business activity or services which are carried on in reliance of the firm’s temporary permission and types which are not; and
+(b) clearly indicate which rows relate to a business activity or service which is carried on in reliance of the firm’s temporary permission.
+CASS 14.3.7
+01/01/2021
+G
+(1) See GEN 2.2.37G(3) for an explanation of the effect of GEN 2.2.26R(1) and CASS 14.1.5G.
+(2) CASS 14.3.6R may be relevant to a TP firm that had a Part 4A permission immediately before IP completion day for acting as trustee or depositary of an AIF or acting as trustee or depositary of a UCITS and continues to hold that permission.
+(3) In complying with CASS 14.3.6R(3):
+(a) a TP firm should observe the guidance at SUP 16 Annex 29AG (Guidance notes for the data item in SUP 16 Annex 29R) in relation to data field 8 of the CMAR and, therefore, distinguish between each different type of business activity or service which it carries on in reliance its temporary permission, as well as between each type which it carries on under its Part 4A permission;
+(b) a TP firm could, for example, annotate each row which relates to a business activity or service which is carried on in reliance of the firm’s temporary permission by including the letters “TP” in data field 8A; and
+(c) if a TP firm follows sub-paragraph (b), the overall effect may be that data field 8 includes a number of rows that are prefaced with “TP” (for example, “TP CFD business” and “TP share custody business”) and a number of rows that are not (for example, “AIF depositary business” and “UCITS depositary business”).
+CASS 14.4 Temporary permission auditor’s report
+CASS 14.4.1
+01/01/2021
+R
+This section does not apply in relation to a TP firm to which only CASS 5 applies as a result of GEN 2.2.26R.
+CASS 14.4.2
+01/01/2021
+R
+Subject to CASS 14.4.3R, a TP firm to which this section applies must ensure that the FCA receives any report made by its external auditors pursuant to a requirement in its Home State that implements article 8 of the MiFID Delegated Directive, in the following circumstances:
+(1) where the auditor’s report confirms that the TP firm’s arrangements referred to in article 8 of the MiFID Delegated Directive are not adequate; or
+(2) in response to a request made by the FCA to the TP firm in writing.
+CASS 14.4.3
+01/01/2021
+R
+(1) If the TP firm did not have a temporary permission during the entire period covered by an auditor’s report, that auditor’s report is excluded from the requirement under CASS 14.4.2R.
+(2) Where the auditor’s report required under CASS 14.4.2R is not in English, the TP firm must ensure that the FCA receives both the auditor’s report and an English translation of it.
+CASS 14.4.4
+01/01/2021
+R
+(1) A TP firm must ensure that any auditor’s report and English translation which are required to be provided to the FCA under this section are sent by email.
+(2) In the case of an auditor’s report, this must be sent:
+(a) where CASS 14.4.2R(1) applies, as soon as it is made available to the relevant Home State regulator; and
+(b) where CASS 14.4.2R(2) applies, immediately on the FCA’s written request.
+(3) In the case of an English translation, this must be sent:
+(a) where CASS 14.4.2R(1) applies, within one month of the auditor’s report being made available to the relevant Home State regulator; and
+(b) where CASS 14.4.2R(2) applies, within one month of the FCA’s written request.
+CASS 14.4.5
+01/01/2021
+R
+Where a TP firm intends to rely on another person to send an auditor’s report to the FCA under this section, it must inform the FCA in advance of that person’s identity by email.
+CASS 14.4.6
+01/01/2021
+R
+The rules in this section apply regardless of whether the scope of an auditor’s report includes a TP firm’s activities specified in CASS 14.1.2R.
+CASS 14.5 Client information
+CASS 14.5.1
+01/01/2021
+R
+A TP firm must provide any client in respect of which it carries on the activities specified in CASS 14.1.2R with the following information (the “TP Firm CASS Disclosure”) in English and in a durable medium:
+(1) any non-UK jurisdiction under which the TP firm’s failure may be administered; and
+(2) unless such an outcome is not possible under the law of that jurisdiction as it applies on IP completion day, a statement that makes clear the possibility that any client money or safe custody assets belonging to that client will, as a result of the law of that jurisdiction, be treated differently to money or assets belonging to other customers of the TP firm in the event of the TP firm’s failure.
+CASS 14.5.2
+01/01/2021
+R
+(1) A firm must ensure that the “TP Firm CASS Disclosure” is not obscured by or disguised within other information.
+(2) Where a firm provides the “TP Firm CASS Disclosure” amidst or alongside other information, it must ensure that it uses a font size for the ‘TP Firm CASS Disclosure’ that is at least equal to the predominant font size used throughout the information provided, as well as a layout that ensures the “TP Firm CASS Disclosure” is prominent.
+CASS 14.5.3
+01/01/2021
+G
+(1) To comply with CASS 14.5.1R(1) it is sufficient to name the jurisdiction. For example, this may be the name of the TP firm’s Home State, or an administrative region within it.
+(2) In order to comply with CASS 14.5.1R(2), a TP firm should carefully consider the applicable law and insolvency rules in question as at IP completion day when deciding whether or not a statement is required to be given under that provision. For example, it could obtain a legal opinion on whether the law differentiates between the treatment of different classes of clients. If, following such careful consideration, the firm cannot rule out the possibility of different treatment, then it should make the statement under CASS 14.5.1R(2).
+CASS 14.5.4
+01/01/2021
+R
+The “TP Firm CASS Disclosure” under CASS 14.5.1R is not required where a firm complies with those requirements of CASS 5, CASS 6 or CASS 7 that are applied under GEN 2.2.26R without needing to safeguard client money or safe custody assets.
+CASS 14.5.5
+01/01/2021
+G
+Situations falling under CASS 14.5.4R include where, for example, the TP firm relies on:
+(1) CASS 5.1.5R(1)(b) or (2);
+(2) CASS 7.10.6R; or
+(3) GEN 2.2.26R(3) or (4) and takes the approach set out in article 10.6.a, 10.6.b or 10.6.d of IDD.
+CASS 14.5.6
+01/01/2021
+R
+A TP firm must provide the “TP Firm CASS Disclosure” under CASS 14.5.1R to a client:
+(1) where it safeguards client money or safe custody assets for the client on IP completion day, on that date (unless it has taken steps before that date which would have complied with the requirements under CASS 14.5.1R and CASS 14.5.2R); or
+(2) otherwise, in good time before it safeguards client money or custody assets for the client.
+CASS 14.6 Tied agents and appointed representatives of TP firms
+CASS 14.6.1
+01/01/2021
+G
+(1) CASS does not apply directly to a TP firm’s appointed representative or tied agent.
+(2) A TP firm will be responsible for the acts and omissions of its appointed representatives and tied agents in carrying on business for which the TP firm has accepted responsibility.
+(3) In determining whether a TP firm has complied with any provision of CASS, anything done or omitted by a TP firm's appointed representative or tied agent (when acting as such) will be treated as having been done or omitted by the TP firm.
+(4) CASS 14.6.2R further restricts the possibility of appointed representatives and tied agents of TP firms from receiving or holding client money and safe custody assets. But that rule does not apply in relation to the business of an appointed representative or tied agent of a TP firm in respect of which CASS 5 would apply to the TP firm as a result of GEN 2.2.26R.
+CASS 14.6.2
+01/01/2021
+R
+A TP firm must not permit an appointed representative or tied agent to receive or hold client money or safe custody assets in the course of or in connection with any of their business in respect of which CASS 6 or CASS 7 would apply to the TP firm as a result of GEN 2.2.26R.
+CASS 14 Annex 1R Temporary permissions client asset return (TPCAR)
+CASS 14 Annex 1R
+01/01/2021
+R
+[Note: A firm must answer all the questions in Part 1. A firm must also complete either Part 2 or Part 3, depending on the answer to question 1.1.3. Further guidance notes are available at CASS 14 Annex 2G.]
+CASS 14 Annex 1
+CASS 14 Annex 2G Guidance notes for the TPCAR
+CASS 14 Annex 2G
+01/01/2021
+G
+1. This annex contains guidance on the TPCAR and is therefore only relevant to a firm that is subject to CASS 14.3.
+2. Italicised terms in the TPCAR have the same meaning as in the Glossary.
+3. A firm is reminded of its obligation to determine their “CASS firm type” categorisation in accordance with CASS 14.2.8R.
+4. A firm should complete Part 1 and either Part 2 or Part 3, depending on whether it is reporting on investment services and activities or insurance distribution activities. See also the guidance at CASS 14.3.5G for firms that carry on both sorts of activities under their temporary permission.
+5. For the purposes of the TPCAR, the FCA does not prescribe any particular methodology or frequency for valuing safe custody assets.
+6. Guide for completing individual questions in the TPCAR:
+PART 1 - TO BE COMPLETED BY ALL TP FIRMS
+Section 1.1 - Scope of this return
+1.1.1
+What is the reporting period start date for this return?
+1.1.2
+What is the reporting period end date for this return?
+The reporting period is a calendar period for which the TPCAR is required to be completed in accordance with CASS 14.3.1R, including the first day and the last day of the relevant period applicable to the firm. The first reporting period starts from 1 January 2021.
+For example:
+• For a firm conducting investment services or activities under their temporary permission which is subject to monthly reporting under CASS 14.3.3R, the first reporting period will be 1 January 2021 to 31 January 2021, regardless of whether or not any day in January is a business day.
+• For a firm conducting insurance distribution activities under their temporary permission which is subject to half-yearly reporting under CASS 14.3.3R and has an accounting reference date of 31 March, the first reporting period will be 1 January 2021 to 31 March 2021, regardless of whether or not any day in this period is a business day. The next reporting period for such a firm will be 1 April 2021 to 30 September 2021.
+1.1.3
+Does this return report on:
+- investment services and activities, to which CASS 6 or CASS 7 apply as a result of GEN 2.2.26R; or
+- insurance distribution activities, to which CASS 5 applies as a result of GEN 2.2.26R?
+A firm should identify the relevant activity in the course of which it holds client money or safe custody assets under its temporary permission and answer either “investment services or activities” or “insurance distribution activities”.
+If a firm is conducting both activities in the course of which it holds client money or safe custody assets under its temporary permission, then it will need to complete a separate TPCAR for each activity.
+Section 1.2 - Location of activities
+1.2.1
+Did the firm conduct the activities to which this return relates from an establishment in the UK?
+A firm should answer either “Yes” or “No”. For example, a firm should answer “Yes” if, during the reporting period, it conducted the above activities from a branch in the UK.
+Section 1.3 - Compliance
+1.3.1
+During the reporting period, did the firm have any breaches of its obligations under CASS 14?
+A firm should answer either “Yes” or “No”.
+1.3.2
+During the reporting period, did the firm obtain an external auditor’s report on the adequacy of the firm's arrangements under its client assets obligations?
+A firm should answer either “Yes” or “No”.
+Section 1.4 - Solvency
+1.4.1
+During the reporting period, were there any issues with the firm's solvency?
+A firm should answer either “Yes” or “No”.
+Section 1.5 - Other issues
+1.5.1
+During the reporting period, were there any other issues with the firm in relation to its obligations under CASS which applied as a result of GEN 2.2.26R? If so, please provide a brief description.
+A firm should describe any issues not covered by the TPCAR that may be relevant in respect of holding client money or safe custody assets to which CASS applies as a result of GEN 2.2.26R during the reporting period.
+PART 2 - FOR REPORTING ON INVESTMENT SERVICES OR ACTIVITIES
+2.1.1
+During the reporting period, did the firm hold client money and/or safe custody assets in relation to activities carried on in reliance of the firm’s temporary permission to which CASS 6 or CASS 7 apply as a result of GEN 2.2.26R?
+A firm should answer either “Yes” or “No”.
+2.1.2
+What was the highest balance of client money held in relation to activities carried on in reliance of the firm’s temporary permission, in relation to which CASS 7 applies as a result of GEN 2.2.26R?
+A firm should report the highest total amount of client money that it held at any point during the reporting period.
+A firm should ensure that it includes in the amount reported any client money that it is holding, which has or have been placed with a third party custodian, either by a custodian with which that firm has deposited those client money, or by that firm if it is a custodian.
+A firm should determine the highest figures by reference to the data that it has recorded from its reconciliations required under article 2(1)(c) of the MiFID Delegated Directive that relate to the reporting period in question.
+2.1.3
+What was the highest amount of safe custody assets held in relation to activities carried on in reliance of the firm’s temporary permission, in relation to which CASS 6 applies as a result of GEN 2.2.26R?
+A firm should report the highest total amount of safe custody assets that it held at any point during the reporting period.
+A firm should ensure that it includes in the amount reported any safe custody assets that it is holding, which has or have been placed with a third party custodian, either by a custodian with which that firm has deposited those safe custody assets, or by that firm if it is a custodian.
+A firm should determine the highest figures by reference to the data that it has recorded from its reconciliations required under article 2(1)(c) of the MiFID Delegated Directive that relate to the reporting period in question.
+2.1.4
+What percentage of the client money reported in Question 2.1.2 was deposited with a bank or a qualifying money market fund in the same group as the firm (article 4, MiFID Delegated Directive)?
+A firm should state what percentage of client money are held with a credit institution, bank or qualifying money market fund of the same group as the firm.
+2.1.5
+What was the frequency of reconciliations between the firm's internal accounts and records and those of any third party with whom the client money reported in Question 3 was held (article 2(1)(c), MiFID Delegated Directive)?
+A firm should identify the frequency of its reconciliations in respect of client money required by article 2(1)(c) of MiFID Delegated Directive and answer either “Daily”, “Quarterly”, “Monthly”, “Annually” or “Other”.
+2.1.6
+What was the frequency of reconciliations between the firm's internal accounts and records and those of any third party with whom the safe custody assets reported in Question 2.1.2 were held (article 2(1)(c), MiFID Delegated Directive)?
+A firm should identify the frequency of its reconciliations in respect of safe custody assets required by article 2(1)(c) of MiFID Delegated Directive and answer either “Daily”, “Quarterly”, “Monthly”, “Annually” or “Other”.
+2.1.7
+Did the firm resolve all discrepancies identified by its reconciliations referred to in Questions 7 and 8 as applicable (article 2(1)(c), MiFID Delegated Directive)?
+A firm should answer either “Yes” or “No”.
+2.1.8
+Were there any changes to the firm's officer responsible for compliance with obligations relating to safeguarding of client assets appointed pursuant to article 7 of the MiFID Delegated Directive?
+A firm should answer either “Yes” or “No”.
+2.1.9
+Did the firm have any breaches of its obligations to segregate and/or keep records in accordance with its obligations under CASS 6 or 7 which applied as a result of GEN 2.2.26R?
+A firm should answer either “Yes” or “No”.
+PART 3 - FOR REPORTING ON INSURANCE DISTRIBUTION ACTIVITIES
+3.1.1
+During the reporting period, did the firm hold money in relation to activities carried on in reliance of the firm’s temporary permission to which CASS 5 applies as a result of GEN 2.2.26R?
+A firm should answer either “Yes” or “No”.
+3.1.2
+How did the firm protect such money in accordance with article 10.6 of the IDD?
+This question should only be answered if a firm answered “Yes” in Question 3.1.1.
+A firm should answer “Contractual risk transfer to the insurer”, “Holding customers' monies in segregated customer accounts”, “Holding capital on a permanent basis” or “A guarantee fund”.
+A firm’s answer may depend on which of these methods are permitted by its Home State’s implementation of the IDD.
+More than one answer may be given if the firm protects money using more than one of these methods.
+3.1.3
+What was the highest balance of money held by the firm in relation to activities carried on in reliance of the firm’s temporary permission to which CASS 5 applies as a result of GEN 2.2.26R?
+This question should only be answered if a firm answered “Yes” in Question 11.
+A firm should take into account the amount recorded in the firm’s records that relate to the reporting period in question. A firm should also take into account money held in all the possible methods of holding such money under IDD.
+3.1.4
+Did the firm have any breaches of its obligations to segregate and/or keep records in accordance with its obligations under CASS 5 which applied as a result of GEN 2.2.26R?.
+A firm should answer either “Yes” or “No”

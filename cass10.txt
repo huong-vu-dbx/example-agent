@@ -1,0 +1,159 @@
+CASS 10 CASS resolution pack
+You are viewing CASS 10 CASS resolution pack as of 06/02/2026. CASS 10 CASS resolution pack was last updated on 01/01/2021.
+Rules
+Guidance
+Evidential Provisions
+Related resources
+CASS 10.1 Application, purpose and general provisions
+Application
+CASS 10.1.1
+01/04/2015
+R
+(1) Subject to (2) this chapter applies to a firm when it:
+(a) holds financial instruments, is safeguarding and administering investments, is acting as trustee or depositary of an AIF or is acting as trustee or depositary of a UCITS, in accordance with CASS 6;
+(aa) is acting as a small AIFM and carries on excluded custody activities in accordance with CASS 6; and/or
+(b) holds client money in accordance with CASS 7.
+(2) This chapter does not apply to a firm to which CASS 6 applies merely because it is:
+(a) a firm which arranges safeguarding and administration of assets; or
+(b) a small AIFM carrying on those excluded custody activities that would amount to arranging safeguarding and administration of assets but for the exclusion in article 72AA of the RAO.
+Purpose
+CASS 10.1.2
+01/01/2021
+G
+The purpose of the CASS resolution pack is to ensure that a firm maintains and is able to retrieve information that would:
+(1) in the event of its insolvency, assist an insolvency practitioner in achieving a timely return of client money and safe custody assets held by the firm to that firm’s clients; and
+(2) in the event of its or another firm’s resolution, assist the Bank of England; and
+(3) in either case, assist the FCA.
+General provisions
+CASS 10.1.3
+01/10/2012
+R
+A firm falling within CASS 10.1.1 R must maintain and be able to retrieve, in the manner described in this chapter, a CASS resolution pack.
+CASS 10.1.4
+01/10/2012
+G
+A firm is required to maintain a CASS resolution pack at all times when CASS 10.1.1 R applies to it.
+CASS 10.1.5
+01/10/2012
+G
+(1) The rules in this chapter specify the types of documents and records that must be maintained in a firm's CASS resolution pack and the retrieval period for the pack. The firm should maintain the component documents of the CASS resolution pack in order for them to be retrieved in accordance with CASS 10.1.7 R, and should not use the retrieval period to start producing these documents.
+(2) The contents of the documents that constitute the CASS resolution pack will change from time to time (for example, because daily reconciliations must be included in the pack).
+(3) A firm is only required to retrieve the CASS resolution pack in the circumstances prescribed in CASS 10.1.7 R.
+CASS 10.1.6
+01/10/2012
+R
+For the purpose of this chapter, a firm will be treated as satisfying a rule in this chapter requiring it to include a document in its CASS resolution pack if a member of that firm's group includes that document in its own CASS resolution pack, provided that:
+(1) that group member is subject to the same rule; and
+(2) the firm is still able to comply with CASS 10.1.7 R.
+CASS 10.1.7
+03/01/2018
+R
+In relation to each document in a firm's CASS resolution pack a firm must:
+(1) put in place adequate arrangements to ensure that an administrator, receiver, trustee, liquidator or analogous officer appointed in respect of it or any material part of its property is able to retrieve each document as soon as practicable and in any event within 48 hours of that officer’s appointment; and
+(2) ensure that it is able to retrieve each document as soon as practicable, and in any event within 48 hours, where it has taken a decision to do so or as a result of an FCA or Bank of England request.
+[Note: article 2(5) of the MiFID Delegated Directive]
+CASS 10.1.8
+01/10/2012
+R
+Where documents are held by members of a firm's group in accordance with CASS 10.1.6 R, the firm must have adequate arrangements in place with its group members which allow for delivery of the documents within the timeframe referred to in CASS 10.1.7 R.
+CASS 10.1.9
+01/11/2015
+E
+(1) For the purpose of CASS 10.1.7 R, the following documents and records should be retrievable immediately:
+(a) the document identifying the institutions referred to in CASS 10.2.1R (2);
+(b) the document identifying individuals pursuant to CASS 10.2.1R (4);
+(c) any written notification or acknowledgement letters referred to in CASS 10.2.1R (5);
+(d) the most recent internal custody records checks referred to in CASS 10.3.1R (3);
+(e) the most recent external custody reconciliations referred to in CASS 10.3.1R (5);
+(f) the most recent internal client money reconciliations referred to in CASS 10.3.1R (7) and CASS 10.3.1R (7A); and
+(g) the most recent external client money reconciliations referred to in CASS 10.3.1R(7A).
+(2) Where a firm is reliant on the continued operation of certain systems for the provision of component documents in its CASS resolution pack, it should have arrangements in place to ensure that these systems will remain operational and accessible to it after its insolvency.
+(3) Contravention of (1) or (2) may be relied upon as tending to establish contravention of CASS 10.1.7 R.
+CASS 10.1.10
+01/10/2012
+G
+Where a firm anticipates that it might be the subject of an insolvency order, it is likely to have sought advice from an external adviser. The firm should make the CASS resolution pack available promptly, on request, to such an adviser.
+CASS 10.1.11
+01/10/2012
+R
+(1) A firm must ensure that it reviews the content of its CASS resolution pack on an ongoing basis to ensure that it remains accurate
+(2) In relation to any change of circumstances that has the effect of rendering inaccurate, in any material respect, the content of a document specified in CASS 10.2.1 R, a firm must ensure that any inaccuracy is corrected promptly and in any event no more than five business days after the change of circumstances arose.
+CASS 10.1.12
+01/10/2012
+G
+For the purpose of CASS 10.1.11R (2), an example of a change that would render a document inaccurate in a material respect is a change of institution identified pursuant to CASS 10.2.1R (2).
+CASS 10.1.13
+01/10/2012
+G
+A firm may hold in electronic form any document in its CASS resolution pack provided that it continues to be able to comply with CASS 10.1.7 R and CASS 10.1.11 R in respect of that document.
+CASS 10.1.14
+01/01/2013
+R
+The individual to whom responsibility for CASS operational oversight has been allocated under CASS 1A.3.1 R, CASS 1A.3.1A R or, as the case may be, CASS 1A.3.1CR (2), must report at least annually to the firm's governing body in respect of compliance with the rules in this chapter.
+CASS 10.1.15
+01/01/2013
+G
+Individuals allocated functions relating to CASS operational oversight pursuant to CASS 1A.3.1 R, CASS 1A.3.1A R or, as the case may be, CASS 1A.3.1CR (2), are reminded that their responsibilities include compliance with the provisions in this chapter.
+CASS 10.1.16
+01/04/2013
+R
+A firm must notify the FCA in writing immediately if it has not complied with, or is unable to comply with, CASS 10.1.3 R.
+CASS 10.2 Core content requirements
+CASS 10.2.1
+01/06/2015
+R
+A firm must include within its CASS resolution pack:
+(1) a master document containing information sufficient to retrieve each document in the firm's CASS resolution pack;
+(2) a document which identifies the institutions the firm has appointed (including through an appointed representative, tied agent, field representative or other agent):
+(a) in the case of client money, for the placement of money in accordance with CASS 7.13.3 R or to hold client money in accordance with CASS 7.14.2 R; and
+(b) in the case of safe custody assets, for the deposit of those assets in accordance with CASS 6.3.1 R;
+(3) a document which identifies each appointed representative, tied agent, field representative or other agent of the firm which receives client money or safe custody assets in its capacity as the firm's agent;
+(4) a document which identifies:
+(a) each senior manager and director and any other individual and the nature of their responsibility within the firm who is critical or important to the performance of operational functions related to any of the obligations imposed on the firm by CASS 6 or CASS 7; and
+(b) the individual to whom responsibility for CASS operational oversight has been allocated under CASS 1A.3.1 R or, as the case may be, to whom the CASS operational oversight function has been allocated under CASS 1A.3.1A R;
+(5) for each institution identified in CASS 10.2.1R (2), a copy of each executed agreement, including any side letters or other agreements used to clarify or modify the terms of the executed agreement, between that institution and the firm that relates to the holding of client money or safe custody assets including any written notification or acknowledgement letters sent or received pursuant to CASS 7.18;
+(6) a document which:
+(a) identifies each member of the firm's group involved in operational functions related to any obligations imposed on the firm under CASS 6 or CASS 7, including in the case of a member that is a nominee company, identification as such; and
+(b) identifies each third party which the firm uses for the performance of operational functions related to any of the obligations imposed on the firm by CASS 6 or CASS 7; and
+(c) for each group member identified in (a), the type of entity (such as branch, subsidiary and or nominee company) the group member is, its jurisdiction of incorporation if applicable, and a description of its related operational functions;
+(7) a copy of each executed agreement, including any side letters or other agreements used to clarify or modify the terms of the executed agreement, between the firm and each third party identified in (6)(b);
+(8) where the firm relies on a third party identified in (6)(b), a document which describes how to:
+(a) gain access to relevant information held by that third party; and
+(b) effect a transfer of any of the client money or safe custody assets held by the firm, but controlled by that third party; and
+(9) a copy of the firm's manual in which are recorded its procedures for the management, recording and transfer of the client money and safe custody assets that it holds.
+CASS 10.2.2
+01/06/2015
+G
+For the purpose of CASS 10.2.1R (4), examples of individuals within the firm who are critical or important to the performance of operational functions include:
+(1) those necessary to carry out both internal and external client money and safe custody asset reconciliations and record checks; and
+(2) those in charge of client documentation for business involving client money and safe custody assets.
+CASS 10.2.3
+01/10/2012
+R
+For the purpose of CASS 10.2.1R (2), a firm must ensure that the document records:
+(1) the full name of the individual institution in question;
+(2) the postal and email address and telephone number of that institution; and
+(3) the numbers of all accounts opened by that firm with that institution.
+CASS 10.3 Existing records forming part of the CASS resolution pack
+CASS 10.3.1
+22/01/2018
+R
+A firm must include, as applicable, within its CASS resolution pack the records required under:
+(1) CASS 6.3.2A R (safe custody assets: appropriateness of the firm’s selection of a third party);
+(1A) CASS 6.3.6AR (third party rights over client assets);
+(2) CASS 6.4.3 R (firm’s use of safe custody assets);
+(3) CASS 6.6.2 R and CASS 6.6.3 R (safe custody assets held for each client);
+(4) CASS 6.6.6 R (client agreements: firm’s right to use);
+(4A) CASS 6.6.8 R (internal custody record checks, physical asset reconciliations and external custody reconciliations);
+(5) [deleted]
+(5A) SYSC 6.1.1 R (policy and procedures for carrying out record checks and reconciliations);
+(5B) CASS 7.13.14BR (policy for use of client bank accounts under CASS 7.13.13R(3A)(b));
+(6) CASS 7.13.25 R (client money: appropriateness of the firm’s selection of a third party);
+(7) CASS 7.15.2 R, CASS 7.15.3 R and CASS 7.15.5 R (client money held for each client);
+(7A) CASS 7.15.7 R (internal client money reconciliations and external client money reconciliations);
+(10) COBS 3.8.2 R (2)(a) and COBS 3.8.2 R (2)(c) (client categorisation); and
+(11) COBS 8.1.4 R or COBS 8A.1.9R (retail and professional client agreements).
+CASS 10.3.2
+01/10/2012
+G
+CASS 10.3.1 R does not change the record keeping requirements of the rules referred to therein.

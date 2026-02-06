@@ -1,0 +1,221 @@
+CASS 1A.2.8 R (1) - (3)
+[deleted]
+CASS 1A.2.8 R (4)
+[deleted]
+CASS 1A.2.8A R
+[deleted]
+CASS 1A.2.9 R (1) - (3)
+The highest total amount of client money and the highest total value of safe custody assets held by a firm, as more fully described in CASS 1A.2.9 R
+The highest total amount of client money and safe custody assets held by a firm, as more fully described in CASS 1A.2.9 R.
+The need to comply with CASS 1A.2.9 R (1)- (3)
+By the fifteenth business day of January unless contrary provision is made in CASS 1A.2.9 R
+CASS 1A.2.9 R (4)
+A firm's ‘CASS firm type’ classification
+A firm's ‘CASS firm type’ classification
+The need to comply with CASS 1A.2.9 R (4)
+At the same time the firm makes the notification under CASS 1A.2.9 R (1), (2) or (3)
+CASS 1A.3.2 R
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+CASS 5.5.61R
+Failure of bank, broker or settlement agent
+Full details including whether it intends to make good any shortfall that may have arisen in the amounts involved
+As soon as the firm becomes aware
+Immediately
+CASS 5.5.76R
+Inability to perform the calculation required by CASS 5.5.63R(1)
+Inability to perform the calculation
+Inability to perform the calculation
+Immediately
+CASS 5.5.77R
+Inability to make good any shortfall identified by CASS 5.5.63R(1)
+Inability to make good any shortfall in client money
+Inability to make good any shortfall
+Immediately
+CASS 6.6.57R(1)
+Inability to comply with the requirements in CASS 6.6.2 R to CASS 6.6.4 R (Records, accounts and reconciliations)
+The fact that the firm has not complied or is unable, in any material respect, to comply with the requirements and the reasons for that
+Non-compliance or inability, in any material respect, to comply with the requirements
+Without delay
+CASS 6.6.57R (2)
+Non-compliance or material inability to comply with the requirements in CASS 6.6.2 R (Records, accounts and reconciliations) and/or article 89(1)(b) or 89(1)(c) (Safekeeping duties with regard to assets held in custody) of the AIFMD level 2 regulation
+The fact that the firm has not complied or is materially unable to comply with the requirements and the reasons for that
+Non-compliance or material inability to comply with the requirement
+Without delay
+CASS 6.6.57R(2A)
+Non-compliance or material inability to comply with the requirements in CASS 6.6.2R (Records, accounts and reconciliations) or article 13(1)(b) or 13(1)(c) (Safekeeping duties with regard to assets held in custody) of the UCITS level 2 regulation
+The fact that the firm has not complied or is materially unable to comply with the requirements and the reasons for that
+Non-compliance or material inability to comply with the requirement
+Without delay
+CASS 6.6.57R (3)
+Inability or material failure to take the steps required under CASS 6.6.54 R for the treatment of shortfalls.
+The fact that the firm is unable or has materially failed to comply and the reasons for that
+Inability or material failure to comply with the requirement
+Without delay
+CASS 6.6.57R (4)
+Inability or material failure to conduct an internal custody record check under CASS 6.6.11 R to CASS 6.6.19 R
+The fact that the firm is unable or has materially failed to comply and the reasons for that
+Inability or material failure to comply with the requirement
+Without delay
+CASS 6.6.57R (5)
+Inability or material failure to conduct a physical asset reconciliation in compliance with CASS 6.6.22 R to CASS 6.6.30 R
+The fact that the firm is unable or has materially failed to comply and the reasons for that
+Inability or material failure to comply with the requirement
+Without delay
+CASS 6.6.57R (6)
+Inability or material failure to conduct an external custody record check in compliance with CASS 6.6.34 R to CASS 6.6.37 R
+The fact that the firm is unable or has materially failed to comply and the reasons for that
+Inability or material failure to comply with the requirement
+Without delay
+CASS 7.10.7AR(2)-(4)
+The firm’s election under CASS 7.10.7AR(1), the effective date and any change to the effective date
+The firm’s election under CASS 7.10.7AR(1)
+Making the election or changing the effective date
+For a notification under CASS 7.10.7AR(2), at least one month before the date on which the firm’s election is to be effective
+For a notification of a new effective date under CASS 7.10.7AR(4), the notification must be made before the new effective date.
+CASS 7.10.7DR(1)
+The cancellation of the firm’s election under CASS 7.10.7AR(1)
+The cancellation of the firm’s election under CASS 7.10.7AR(1)
+Cancelling the election
+At least one month before the date on which the firm’s election is to cease to be effective
+CASS 7.11.47 R
+The firm's intention to transfer client money under CASS 7.11.42R and/or CASS 7.11.44R
+That intention
+Forming the intention
+Not less than seven days before the transfer of the client money in question
+CASS 7.13.21CR(1)
+Commencement of approach under CASS 7.13.21AR(1)
+Notice that the firm will start to use the approach under CASS 7.13.21AR(1)
+Whenever a decision to use the approach under CASS 7.13.21AR(1) is taken
+Upon reaching the decision and before the firm starts to use that approach
+CASS 7.13.21CR(2)
+Cessation or continuation of approach under CASS 7.13.21AR(1)
+Notice that the firm will cease to use the approach under CASS 7.13.21AR(1)
+Whenever a decision to cease the approach under CASS 7.13.21AR(1) is taken
+Upon reaching the decision
+CASS 7.13.57 R
+Firm's intention to adopt the alternative approach for a particular business line
+Firm's intention to adopt the alternative approach for a particular business line
+At least three months prior to adopting the alternative approach for that business line
+At least three months prior to adopting the alternative approach for that business line
+CASS 7.15.18R(1)(b)
+Firm's intention to use a non-standard method of internal client money reconciliation
+Firm's intention to use a non-standard method of internal client money reconciliation
+Forming the intention
+Before using a non-standard method of internal client money reconciliation
+CASS 7.6.16R (2)
+[deleted]
+CASS 7.15.33R (1)
+Inability to comply with CASS 7.15.2 R, CASS 7.15.3 R or CASS 7.15.5R (1), due to materially out of date, inaccurate or invalid internal records and accounts
+The fact that the firm is unable to comply and the reasons for that
+Firm's records and accounts are materially out of date, inaccurate or invalid internal so that it is unable to comply
+Without delay
+CASS 7.15.33R (2)
+Inability to comply with CASS 7.15.29 R after having carried out an internal client money reconciliation
+The fact that the firm is unable to comply and the reasons for that
+Firm's records and accounts are materially out of date, inaccurate or invalid internal so that it is unable to comply
+Without delay
+CASS 7.15.33R (3)
+Inability or material failure to identify and correct any discrepancies under CASS 7.15.31 R to CASS 7.15.32 R after having carried out an external client money reconciliation
+The fact that the firm is unable to comply and the reasons for that
+Inability or material failure to comply
+Without delay
+CASS 7.15.33R (4)
+Inability or material failure to conduct an internal client money reconciliation under CASS 7.15.12 R and CASS 7.15.15 R
+The fact that the firm is unable to comply and the reasons for that
+Inability or material failure to comply
+Without delay
+CASS 7.15.33R (5)
+Inability or material failure to conduct an external client money reconciliation under CASS 7.15.20 R to CASS 7.15.28 R
+The fact that the firm is unable to comply and the reasons for that
+Inability or material failure to comply
+Without delay
+CASS 7.15.33R (6)
+Amount of client money segregated in client bank accounts materially differing from client money segregation requirements during preceding 12 months
+The fact of the material difference and the reasons for that
+On becoming aware
+Without delay
+CASS 7.19.21 R
+Material change to sub-pool
+Fact of proposed change, risks and consequences to beneficiaries
+Firm determining that it wishes to make material change to a sub-pool
+Not less than two months before the date on which the firm intends the change to take effect
+CASS 7.19.22 R
+Establishment of a sub-pool of client money to FCA
+Firm wishes to establish a sub-pool of client money
+Firm determining that it wishes to establish a sub-pool of client money
+Not less than two months before the date on which the firm intends to receive or hold client money for that sub-pool
+CASS 7.19.24 R
+Non-compliance, or inability to comply with, with the requirements in CASS 7.19.11 R or CASS 7.19.18 R
+The fact that the firm has not complied with, or is unable to comply with, the requirements of CASS 7.19.11 R or CASS 7.19.18 R (as applicable)
+Non-compliance with the applicable requirement
+Without delay
+CASS 7A.3.19R (1)
+Failure of a third party with which money is held – i.e.: bank, intermediate broker, settlement agent or OTC counterparty or other entity with which it has placed or to which it has passed client money
+Full details
+Firm becomes aware of the failure of the entity
+As soon as the firm becomes aware
+CASS 7A.3.19R (2)
+Failure of a third party with which money is held – i.e.: bank, intermediate broker, settlement agent or OTC counterparty or other entity with which it has placed or to which it has passed client money
+Intentions regarding making good any shortfall that has arisen or may arise, and of the amounts involved
+Failure of third party with which client money is held
+As soon as reasonably practical
+CASS 10.1.16 R
+If a firm has not complied with, or is unable to comply with, CASS 10.1.3 R
+The fact of that firm's non-compliance or inability to comply with the rule in CASS 10.1.3 R
+Non-compliance or inability to comply with CASS 10.1.3 R
+Immediately (as per CASS 10.1.16 R)
+CASS 11.2.4 R (1) to CASS 11.2.4 R (3)
+The highest total amount of client money held in the previous year or projected to be held in the current year, as more fully described in CASS 11.2.4 R
+The highest total amount of client money held in the previous year or projected to be held in the current year, as more fully described in CASS 11.2.4 R
+The need to comply with CASS 11.2.4 R (1) to CASS 11.2.4 R (3)
+By the fifteenth day of January unless contrary provision is made in CASS 11.2.4 R (1) to CASS 11.2.4 R (4)
+CASS 11.2.4 R (4)
+A firm's CASS debt management firm type classification
+A firm's CASS debt management firm type classification
+The need to comply with CASS 11.2.4 R (4)
+At the same time as the notification in CASS 11.2.4 R (1) to CASS 11.2.4 R (4)
+CASS 11.11.30 R (1)
+Non-compliance with requirements in CASS 11.11.1 R to CASS 11.11.4 R
+Non-compliance with requirements in CASS 11.11.1 R to CASS 11.11.4 R
+The non-compliance
+Without delay
+CASS 11.11.30 R (2)
+Amount of money segregated in client bank accounts is materially different from total aggregate of client money required to be segregated
+The fact that there is a material difference
+Awareness of the difference
+Without delay
+CASS 11.11.31 R
+A CASS large debt management firm's inability or failure to comply with CASS 11.11.23 R, CASS 11.11.28 R, CASS 11.11.13 R or CASS 11.11.25 R
+The inability or failure to comply
+Awareness of the inability or failure
+Without delay
+CASS 11.12.7 R
+A CASS large debt management firm's inability or failure to comply with CASS 11.12.2 R or CASS 11.12.6 R
+The inability or failure to comply
+Awareness of the inability or failure
+Without delay
+CASS 12.2.5 R
+LME bond arrangements
+Issue of an individual letter of credit issued by the firm
+Upon issue of an individual letter of credit under an LME bond arrangement
+Immediately
+CASS 13.10.21R(1) to (5)
+The firm’s inability or failure to comply with CASS 13.10.1R to 13.10.4R,, CASS 13.10.5R, CASS 13.10.15R, CASS 13.10.17R, or CASS 13.10.19R.
+The inability or failure to comply
+Awareness of the inability or failure
+Without delay
+CASS 13.10.21R(6)
+Amount of money segregated in client bank accounts is materially different from total aggregate of client money required to be segregated
+The fact that there is a material difference
+Awareness of the difference
+Without delay

@@ -1,0 +1,46 @@
+CASS 12 Commodity Futures Trading Commission Part 30 exemption order
+You are viewing CASS 12 Commodity Futures Trading Commission Part 30 exemption order as of 06/02/2026. CASS 12 Commodity Futures Trading Commission Part 30 exemption order was last updated on 03/01/2018.
+Rules
+Guidance
+Related resources
+CASS 12.1 Application
+CASS 12.1.1
+01/07/2014
+R
+This chapter applies to a firm conducting business pursuant to the Part 30 exemption order.
+CASS 12.1.2
+01/07/2014
+G
+United States ('US') legislation restricts the ability of non-US firms to trade on behalf of customers resident in the US ('US customers') on non-US futures and options exchanges. The relevant US regulator (the CFTC) operates an exemption system for firms authorised under the Act. Under the Part 30 exemption order, eligible firms may apply for confirmation of exemptive relief from Part 30 of the General Regulations under the US Commodity Exchange Act. In line with this system, both the applicant firm and the FCA must make certain written representations to the CFTC.
+CASS 12.2 Treatment of client money
+CASS 12.2.1
+01/10/2014
+G
+Under condition 2(g) of the Part 30 exemption order, a firm with exemptive relief represents to the CFTC that it consents to refuse to allow any US customer the option of not having its money treated as client money if it is held or received in respect of transactions on non-US exchanges, unless that US customer is an "eligible contract participant" as defined in section 1a(18)of the Commodity Exchange Act, 7 U.S.C.
+CASS 12.2.2
+03/01/2018
+G
+The FCA understands that in complying with condition 2(g) of the Part 30 exemption order, a firm is representing that it will not:
+(1) make use of the opt-out arrangements in CASS 7.10.9G to CASS 7.10.13G; or
+(2) conduct business to which the client money rules do not apply because of the exemption for CRD credit institutions and approved banks in CASS 7.10.16R to CASS 7.10.24R; or
+(3) enter into any TTCA under CASS 7.11;
+in relation to business conducted pursuant to the Part 30 exemption order.
+LME bond arrangements
+CASS 12.2.3
+01/07/2014
+G
+For firms with exemptive relief under the Part 30 exemption order, the CFTC has issued certain no-action letters which, on the FCA's understanding, would allow such firms to use an LME bond arrangement as an alternative to complying with condition 2(g) of the Part 30 exemption order. Under an LME bond arrangement, a firm may arrange for a binding letter of credit to be issued to cover the 'secured amount' (as defined by section 30.7 of the General Regulations under the US Commodity Exchange Act). The letter of credit must be drawn up in a pre-specified format and may be issued for either:
+(1) an omnibus account in favour of a specified trustee; or
+(2) a specified client who is the named beneficiary.
+CASS 12.2.4
+01/07/2014
+R
+A firm must not reduce the amount of, or cancel a letter of credit issued under, an LME bond arrangement where this will cause the firm to be in breach of the conditions of the Part 30 exemption order.
+CASS 12.2.5
+01/07/2014
+R
+A firm must notify the FCA immediately if it arranges the issue of a letter of credit for a specified client who is the named beneficiary under an LME bond arrangement.
+CASS 12.2.6
+01/07/2014
+G
+A firm's use of an LME bond arrangement does not remove the need for the firm to act in accordance with the client money rules.

@@ -1,0 +1,170 @@
+CASS 1A CASS firm classification and operational oversight
+You are viewing CASS 1A CASS firm classification and operational oversight as of 06/02/2026. CASS 1A CASS firm classification and operational oversight was last updated on 23/10/2020.
+Rules
+Guidance
+Deleted
+Related resources
+CASS 1A.1 Application
+CASS 1A.1.1
+01/10/2018
+R
+(1) Subject to (2), (3) and (4), this chapter applies to a firm to which either or both of CASS 6 (Custody rules) and CASS 7 (Client money rules) applies.
+(2) In relation to a firm to which CASS 5 (Client money: insurance distribution activity) and CASS 7 (Client money rules) apply, this chapter does not apply in relation to client money that a firm holds in accordance with CASS 5.
+(3) The rules and guidance in CASS 1A.2 apply to a firm even if at the date of the determination or, as the case may be, the notification, either or both of CASS 6 and CASS 7 do not apply to it, provided that:
+(a) either or both of those chapters applied to it during part or all of the previous calendar year; or
+(b) it projects that either or both will apply to it in the current calendar year.
+(4) This chapter does not apply to a firm to which only CASS 6 applies, applied or is projected to apply, merely because:
+(a) it is, was, or is projected to be a firm which arranges safeguarding and administration of assets; or
+(b) when acting as a small AIFM and in relation to excluded custody activities, it would be, would have been or would be projected to be a firm which arranges safeguarding and administration of assets but for the exclusion in article 72AA of the RAO.
+CASS 1A.1.2
+26/07/2017
+R
+The rules and guidance in CASS 1A.2 (CASS firm classification) do not apply to a firm following its failure.
+CASS 1A.2 CASS firm classification
+CASS 1A.2.1
+01/01/2013
+G
+The application of certain rules in this chapter depends upon the ‘CASS firm type’ within which a firm falls. The ‘CASS firm types’ are defined in accordance with CASS 1A.2.7 R. The ‘CASS firm type’ within which a firm falls is also used to determine whether it is required to have the CASS operational oversight function described in CASS 1A.3.1A R and whether the reporting obligations in SUP 16.14 (Client money and asset return) apply to it.
+CASS 1A.2.2
+01/04/2019
+R
+(1) A firm must once every year, and by the time it is required to make a notification in accordance with CASS 1A.2.9R (4), determine whether it is a CASS large firm, CASS medium firm or a CASS small firm according to the amount of client money or safe custody assets which it holds, using the limits set out in the table in CASS 1A.2.7 R.
+(2) For the purpose of determining its ‘CASS firm type’ in accordance with CASS 1A.2.7 R, a firm must:
+(a) if it currently holds client money or safe custody assets, calculate the higher of the highest total amount of client money and the highest total value of safe custody assets held during the previous calendar year ending on 31 December and use that figure to determine its ‘CASS firm type’;
+(b) if it did not hold client money or safe custody assets in the previous calendar year but projects that it will do so in the current calendar year, calculate the higher of the highest total amount of client money and the highest total value of safe custody assets that it projects that it will hold during that year and use that figure to determine its ‘CASS firm type’; but
+(c) in either case, exclude from its calculation any client money held in accordance with CASS 5 (Client money: insurance distribution activity) or CASS 13 (Claims management: client money).
+CASS 1A.2.3
+01/01/2011
+R
+For the purpose of calculating the value of the total amounts of client money and safe custody assets that it holds on any given day during a calendar year a firm must:
+(1) in complying with CASS 1A.2.2R (2)(a), base its calculation upon internal reconciliations performed during the previous year;
+(2) in relation to client money or safe custody assets denominated in a currency other than sterling, translate the value of that money or that safe custody assets into sterling at the previous day’s closing spot exchange rate; and
+(3) in relation to safe custody assets only, calculate their total value using the previous day’s closing mark to market valuation, or if in relation to a particular safe custody asset none is available, the most recent available valuation.
+CASS 1A.2.4
+01/01/2011
+G
+One of the consequences of CASS 1A.2.2 R is that a firm that determines itself to be a CASS small firm or a CASS medium firm will, at least if it exceeds during the course of a calendar year either of the limits in CASS 1A.2.7 R that applies to it, become in the next calendar year:
+(1) in the case of a CASS small firm, a CASS medium firm or a CASS large firm; and
+(2) in the case of a CASS medium firm, a CASS large firm.
+CASS 1A.2.5
+01/04/2013
+R
+(1) Notwithstanding CASS 1A.2.2 R, provided that the conditions in (2) are satisfied a firm may elect to be treated:
+(a) as a CASS medium firm, in the case of a firm that is classed by the application of the limits in CASS 1A.2.7 R as a CASS small firm; and
+(b) as a CASS large firm, in the case of a firm that is classed by the application of the limits in CASS 1A.2.7 R as a CASS medium firm.
+(2) The conditions to which (1) refers are that in either case:
+(a) the election is notified to the FCA in writing;
+(b) the notification in accordance with (a) is made at least one week before the election is intended to take effect; and
+(c) the FCA has not objected.
+CASS 1A.2.6
+01/01/2011
+G
+CASS 1A.2.5 R provides a firm with the ability to opt in to a higher category of ‘CASS firm type’. This may be useful for a firm whose holding of client money and safe custody assets is near the upper categorisation limit for a CASS small firm or a CASS medium firm.
+CASS 1A.2.7
+01/01/2011
+R
+CASS firm types
+CASS firm type
+Highest total amount of client money held during the firm’s last calendar year or as the case may be that it projects that it will hold during the current calendar year
+Highest total value of safe custody assets held by the firm during the firm's last calendar year or as the case may be that it projects that it will hold during the current calendar year
+CASS large firm
+more than £1 billion
+more than £100 billion
+CASS medium firm
+an amount equal to or greater than £1 million and less than or equal to £1 billion
+an amount equal to or greater than £10 million and less than or equal to £100 billion
+CASS small firm
+less than £1 million
+less than £10 million
+CASS 1A.2.9
+01/04/2013
+R
+Once every calendar year a firm must notify to the FCA in writing the information specified in (1), (2) or (3) as applicable, and the information specified in (4), in each case no later than the day specified in (1) to (4):
+(1) if it held client money or safe custody assets in the previous calendar year, the highest total amount of client money and the highest total value of safe custody assets held during the previous calendar year, notification of which must be made no later than the fifteenth business day of January; or
+(2) if it did not hold client money or safe custody assets in the previous calendar year but at any point up to the fifteenth business day of January the firm projects that it will do so in the current calendar year, the highest total amount of client money and the highest total value of safe custody assets that the firm projects that it will hold during the current calendar year, notification of which must be made no later than the fifteenth business day of January; or
+(3) in any other case, the highest total amount of client money and the highest total value of safe custody assets that the firm projects that it will hold during the remainder of the current calendar year, notification of which must be made no later than the business day before the firm begins to hold client money or safe custody assets; and
+(4) in every case, of its ‘CASS firm type’ classification, notification of which must be made at the same time the firm makes the notification under (1), (2) or (3).
+CASS 1A.2.10
+01/01/2013
+R
+For the purpose of the annual notification to which CASS 1A.2.9 Rrefers, a firm must apply the calculation rule in CASS 1A.2.3 R.
+CASS 1A.2.11
+01/04/2013
+G
+For the purpose of CASS 1A.2.9R (1), the FCA will treat that obligation as satisfied if a firm submitted a CMAR for each period within the previous calendar year in compliance with SUP 16.14.3 R.
+CASS 1A.2.12
+01/04/2013
+R
+A firm's 'CASS firm type' and any change to it takes effect:
+(1) if the firm notifies the FCA in accordance with CASS 1A.2.9 R (1) or CASS 1A.2.9 R (2), on 1 February following the notification; or
+(2) if the firm notifies the FCA in accordance with CASS 1A.2.9 R (3), on the day it begins to hold client money or safe custody assets; or
+(3) if the firm makes an election under CASS 1A.2.5 R (1), and provided the conditions in CASS 1A.2.5 R (2) are satisfied, on the day the notification made under CASS 1A.2.5 R (2)(a) states that the election is intended to take effect.
+CASS 1A.2.13
+01/04/2013
+G
+Any written notification made to the FCA under this chapter should be marked for the attention of: "Client Assets Firm Classification".
+CASS 1A.3 Responsibility for CASS operational oversight
+CASS 1A.3.1
+09/12/2019
+R
+(1) A CASS small firm must allocate to a single director or senior manager of sufficient skill and authority responsibility for:
+(a) oversight of the firm’s operational compliance with CASS; and
+(b) reporting to the firm's governing body in respect of that oversight.
+(2) [deleted]
+[Note: article 7, first paragraph of the MiFID Delegated Directive]
+CASS 1A.3.1-A
+09/12/2019
+G
+The material in CASS 1A.3.1BG about how CASS 1A.3 fits into the FCA senior managers and certification regime for SMCR firms also applies to a CASS small firm that is an SMCR firm and the function in CASS 1A.3.1R.
+The senior managers regime and the certification regime
+CASS 1A.3.1A
+03/01/2018
+R
+A CASS medium firm and a CASS large firm must allocate to a single director or senior manager of sufficient skill and authority the function of:
+(1) oversight of the operational effectiveness of that firm’s systems and controls that are designed to achieve compliance with CASS;
+(2) reporting to the firm’s governing body in respect of that oversight; and
+(3) completing and submitting a CMAR to the FCA in accordance with SUP 16.14.
+[Note: article 7, first paragraph of the MiFID Delegated Directive]
+CASS 1A.3.1B
+23/10/2020
+G
+(1)
+(a) This paragraph CASS 1A.3.1BG describes how CASS 1A.3.1AR applies to SMCR firms.
+(b) The function in CASS 1A.3.1AR is not a separate controlled function and performing that function does not require approval as an approved person.
+(c) However, nothing in paragraphs (1A) to (4) affects the requirement for the function in CASS 1A.3.1AR to be allocated to a single director or senior manager of sufficient skill and authority in accordance with CASS 1A.3.1AR and CASS 1A.3.2AR.
+(1A) There are three elements of the regime for SMCR firms that are particularly relevant to CASS 1A, although they do not all apply to all SMCR firms:
+(a) a firm’s obligation to allocate certain responsibilities to its SMF managers (see SYSC 24 (Senior managers and certification regime: Allocation of prescribed responsibilities));
+(b) a firm’s obligation to ensure that one or more of its SMF managers have overall responsibility for each of its activities, business areas and management functions (see SYSC 26 (Senior managers and certification regime: Overall and local responsibility)); and
+(c) the certification regime (the certification regime is explained in SYSC 27 (Senior managers and certification regime: Certification regime) and SYSC TP 7 (Bank of England and Financial Services Act 2016: Certification and regulatory references) explains that the certification regime comes into force sometime after other parts of the senior managers and certification regime).
+(2)
+(a) This paragraph (2) explains how CASS 1A.3.1AR applies to an SMCR firm to which SYSC 24 and SYSC 26 both apply.
+(b) The firm must allocate responsibility for the firm’s compliance with CASS to one of its SMF managers (see SYSC 24.2.1R). That responsibility is an “FCA-prescribed senior management responsibility”. The full list of FCA-prescribed senior management responsibilities is in the table in SYSC 24.2.6R.
+(c) Although the CASS function in SYSC 24.2.1R is different from the function in CASS 1A.3.1AR, the firm may allocate the function in CASS 1A.3.1AR to the SMF manager in (b).
+(d) The firm may allocate the CASS FCA-prescribed senior management responsibility described in (b) to an SMF manager who does not perform any other function coming within the FCA regime for SMF managers in SMCR firms. See SUP 10C.7 (Other overall responsibility function (SMF18)) and SUP 10C.8.1R (Other local responsibility function (SMF22)) for details. Where this is the case, the manager will be performing the other overall responsibility function or the other local responsibility function.
+(e) The firm may choose to allocate the function in CASS 1A.3.1AR to someone who is not an approved person and SMF manager. If so:
+(i) that person will be subject to the employee certification regime described in SYSC 27 (Senior managers and certification regime: (Certification Regime);
+(ii) that person will be subject to supervision by the SMF manager in (b); and
+(iii) the function in CASS 1A.3.1AR will be the CASS oversight FCA certification function in SYSC 27.8.1R.
+(3) In relation to an SMCR firm to which SYSC 24 applies but SYSC 26 does not apply, the guidance in sub-paragraphs (2)(b), (2)(c), and 2(e) applies, but the guidance in sub-paragraph (2)(d) does not apply.
+(4)
+(a) The position of an SMCR firm to which neither SYSC 24 nor SYSC 26 apply is slightly different.
+(b) The firm may choose to allocate the function in CASS 1A.3.1AR to an SMF manager.
+(c) The firm may instead choose to allocate the function in CASS 1A.3.1AR to someone who is not an SMF manager.
+(d) Where (c) applies, the person performing the function in CASS 1A.3.1AR will fall into the certification regime. The function in CASS 1A.3.1AR will be the CASS oversight FCA certification function in SYSC 27.8.1R.
+CASS 1A.3.2A
+03/01/2018
+R
+Where a firm allocates the responsibilities in CASS 1A.3.1R or CASS 1A.3.1AR (“the CASS oversight responsibilities”) to a director or senior manager (“P”), the firm must not allocate any other responsibilities to P in addition to the CASS oversight responsibilities, unless the firm is satisfied on reasonable grounds that:
+(1) P will still be able to discharge the CASS oversight responsibilities effectively; and
+(2) the firm’s full compliance with CASS will not be compromised.
+[Note: article 7, second paragraph of the MiFID Delegated Directive]
+CASS 1A.3.2B
+03/01/2018
+R
+A firm may allow the CASS oversight responsibilities to be shared amongst one or more directors or senior managers where this is done as part of a job share between those persons.
+CASS 1A.3.3
+09/12/2019
+R
+(1) Subject to (2), a firm must make and retain an appropriate record of the person to whom responsibility is allocated in accordance with CASS 1A.3.1 R or CASS 1A.3.1A R.
+(2) A CASS small firm must make and retain such a record only where it allocates responsibility to a person other than the person in that firm who performs the compliance oversight function.
+(3) A firm must ensure that the record made under this rule is retained for a period of five years after it is made.

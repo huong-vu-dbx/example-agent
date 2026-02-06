@@ -1,0 +1,845 @@
+CASS 11 Debt management client money chapter
+You are viewing CASS 11 Debt management client money chapter as of 06/02/2026. CASS 11 Debt management client money chapter was last updated on 07/05/2025.
+Rules
+Guidance
+Evidential Provisions
+Deleted
+Related resources
+CASS 11.1 Application
+CASS 11.1.1
+01/04/2014
+R
+This chapter (the debt management client money chapter) applies to a CASS debt management firm that receives or holds client money as set out in this chapter.
+CASS 11.1.2
+01/04/2014
+G
+The requirements imposed on a CASS debt management firm that holds client money vary depending on whether a firm is classified as a CASS small debt management firm or a CASS large debt management firm in CASS 11.2.3 R (CASS debt management firm types). CASS 11.1.4 R to CASS 11.1.6 R indicate which rules in the debt management client money chapter apply to which category of firm.
+CASS 11.1.3
+01/04/2014
+G
+The debt management client money chapter applies (to the extent indicated by CASS 11.1.4 R to CASS 11.1.6 R) to a CASS debt management firm, even if at the date of the determination or, as the case may be, the notification, referred to in CASS 11.2.4 R, the CASS debt management firm is not holding client money, provided that:
+(1) it held client money in the previous calendar year; or
+(2) it projects to hold client money in the current calendar year.
+Application to CASS small debt management firms
+CASS 11.1.4
+01/04/2014
+R
+Subject to CASS 11.1.6 R, only the rules and guidance in the debt management client money chapter listed in the table below apply to CASS small debt management firms.
+Reference
+Rule
+CASS 11.1.1 R to CASS 11.1.4 R and CASS 11.1.6 R
+Application
+CASS 11.2.1 R to CASS 11.2.9 G
+Firm classification
+CASS 11.3.1 R to CASS 11.3.2 R and CASS 11.3.6 R
+Responsibility for CASS operational oversight
+CASS 11.4.1 G to CASS 11.4.4 G
+Definition of client money and discharge of fiduciary duty
+CASS 11.5.1 R and CASS 11.5.2 R
+Organisational requirements
+CASS 11.6.1 R and CASS 11.6.2 G
+Statutory trust
+CASS 11.7.1 G and CASS 11.7.5 G
+Selecting an approved bank at which to hold client money
+CASS 11.8.1 G to CASS 11.8.13 R
+Client bank account acknowledgement letters
+CASS 11.9.1 R to CASS 11.9.13 G
+Segregation and the operation of client money accounts
+CASS 11.10.1 R to CASS 11.10.7 G
+Payments to creditors
+CASS 11.11.1 R to CASS 11.11.12 R, CASS 11.11.30 R and CASS 11.11.32 G
+Records, accounts and reconciliations
+CASS 11.12.1 G to CASS 11.12.7 R
+CASS 11 resolution pack
+CASS 11.13.1 R to CASS 11.13.14 R
+Client money distribution in the event of a failure of a firm or approved bank
+Application to CASS large debt management firms
+CASS 11.1.5
+01/04/2014
+R
+Subject to CASS 11.1.6 R, the rules and guidance in the debt management client money chapter apply to CASS large debt management firms, except where indicated otherwise in the relevant rule.
+Solicitors
+CASS 11.1.6
+01/04/2014
+R
+(1) An authorised professional firm regulated by the Law Society of England and Wales, the Law Society of Scotland or the Law Society of Northern Ireland that, with respect to its regulated activities, is subject to the following rules of its designated professional body, must comply with those rules and, if it does so, it will be deemed to comply with the debt management client money chapter.
+(2) The relevant rules are:
+(a) if the firm is regulated by the Law Society of England and Wales, the SRA Accounts Rules 2011;
+(b) if the firm is regulated by the Law Society of Scotland, the Law Society of Scotland Practice Rules 2011; and
+(c) if the firm is regulated by the Law Society of Northern Ireland, the Solicitors' Accounts Regulations 1998.
+CASS 11.2 Firm classification
+CASS 11.2.1
+01/04/2014
+R
+(1) A CASS debt management firm must, once every year and by the time it is required to make a notification in accordance with CASS 11.2.4 R, determine whether it is a CASS large debt management firm or a CASS small debt management firm according to the amount of client money which it held during the previous year or, if it did not hold client money during the previous year, according to the amount of client money it projects to hold in the following year, in each case using the limits set out in the table in CASS 11.2.3 R.
+(2) For the purpose of determining its 'CASS debt management firm type' in accordance with CASS 11.2.3 R, a CASS debt management firm must:
+(a) if it currently holds client money, calculate the highest total amount of client money held during the previous calendar year ending on 31 December and use that figure to determine its 'CASS debt management firm type';
+(b) if it did not hold client money in the previous calendar year but projects that it will do so in the current calendar year, calculate the highest total amount of client money that it projects that it will hold during that year and use that figure to determine its 'CASS debt management firm type'.
+CASS 11.2.2
+01/04/2014
+R
+For the purpose of calculating the value of the total amounts of client money that it holds on any given day during a calendar year (in complying with CASS 11.2.1 R) a CASS debt management firm must base its calculation on accurate internal records of client money holdings. A CASS large debt management firm must do this using the internal reconciliations performed during the previous year that are prescribed in CASS 11.11.13 R. A CASS small debt management firm must use the records used in carrying out checks required of it under CASS 11.11.8 R.
+CASS 11.2.3
+01/04/2014
+R
+CASS debt management firm types
+CASS debt management firm type
+Highest total amount of client money held during the CASS debt management firm's last calendar year or as the case may be that it projects that it will hold during the current calendar year
+CASS large debt management firm
+An amount equal to or greater than £1 million
+CASS small debt management firm
+Less than £1 million
+Notification
+CASS 11.2.4
+07/05/2025
+R
+Once every calendar year, a CASS debt management firm must notify the FCA, in the relevant questions under a CCR009 return, of the information in (1), (2) or (3), as applicable, and the information in (4), in each case no later than the day specified in (1) to (4):
+(1) if it held client money in the previous calendar year, the highest total amount of client money held during the previous calendar year, notification of which must be made within the first 40 business days of the calendar year; or
+(2) if it did not hold client money in the previous calendar year but at any point up to and including the first 40 business days of the calendar year the firm projects that it will do so in the current calendar year, the highest total amount of client money that the firm projects that it will hold during the current calendar year, notification of which must be made within the first 40 business days of the calendar year; or
+(3) in any other case, the highest total amount of client money that the firm projects that it will hold during the remainder of the current calendar year, notification of which must be made no later than the business day before the firm begins to hold client money; and
+(4) in every case, of its 'CASS debt management firm type' classification, notification of which must be made at the same time the firm makes the notification under (1), (2) or (3).
+CASS 11.2.5
+01/04/2014
+R
+For the purpose of the annual notification in CASS 11.2.4 R, a CASS debt management firm must apply the calculation rule in CASS 11.2.2 R.
+Option to be treated as a CASS large debt management firm
+CASS 11.2.6
+01/04/2014
+G
+CASS 11.2.7 R provides a CASS debt management firm with the ability to opt in to a higher category of 'CASS debt management firm type'. This may be useful for a CASS debt management firm whose holding of client money is near the upper categorisation limit for a CASS small debt management firm.
+CASS 11.2.7
+01/04/2014
+R
+(1) Notwithstanding CASS 11.2.3 R, provided that the conditions in (2) are satisfied, a CASS debt management firm that would otherwise be classified as a CASS small debt management firm under the limits provided for in CASS 11.2.3 R may elect to be treated as a CASS large debt management firm.
+(2) The conditions to which (1) refers are that in either case:
+(a) the election is notified to the FCA in writing;
+(b) the notification in accordance with (a) is made at least one week before the election is intended to take effect; and
+(c) the FCA has not objected.
+Effective date of firm type
+CASS 11.2.8
+01/04/2014
+R
+A firm's 'CASS debt management firm type' and any change to it takes effect:
+(1) if the firm notifies the FCA in accordance with CASS 11.2.4 R (1) or CASS 11.2.4 R (2), on 1 February following the notification; or
+(2) if the firm notifies the FCA in accordance with CASS 11.2.4 R (3), on the day it begins to hold client money; or
+(3) if the firm makes an election under CASS 11.2.7 R and provided the conditions in CASS 11.2.7 R (2) are satisfied, on the day the notification made under CASS 11.2.7 R (2)(a) states that the election is intended to take effect.
+CASS 11.2.9
+01/04/2014
+G
+Any written notification made to the FCA under this chapter should be marked for the attention of: "Debt Management Client Assets Firm Classification".
+CASS 11.3 Responsibility for CASS operational oversight
+CASS small debt management firm other than a not-for-profit debt advice body
+CASS 11.3.1
+07/05/2025
+R
+(1) A CASS small debt management firm, other than a not-for-profit debt advice body, must allocate to a director or senior manager responsibility for:
+(a) oversight of the firm's operational compliance with CASS 11;
+(b) reporting to the firm's governing body in respect of that oversight; and
+(c) completing and submitting responses to the relevant questions under a CCR009 return to the FCA in accordance with SUP 16.12.29CR.
+(2) [deleted]
+CASS 11.3.1A
+10/12/2018
+G
+CASS 11.3.3G(5) to (11) also apply to a CASS small debt management firm that is an SMCR firm and the function in CASS 11.3.1R. However:
+(1) the function in CASS 11.3.1R is not a separate FCA certification function; and
+(2) the person performing that function will not necessarily be subject to the employee certification regime described in SYSC 27 (Senior managers and certification regime: Certification regime).
+CASS small debt management firm that is a not-for-profit debt advice body
+CASS 11.3.2
+07/05/2025
+R
+A CASS small debt management firm that is a not-for-profit debt advice body must allocate to a director or senior manager:
+(1) oversight of the firm's operational compliance with CASS 11;
+(2) reporting to the firm's governing body in respect of that oversight; and
+(3) completing and submitting responses to the relevant questions under a CCR009 return to the FCA in accordance with SUP 16.12.29C R.
+CASS 11.3.2A
+09/12/2019
+G
+(1) CASS 11.3.3G(5) to (11) do not apply to a CASS small debt management firm that is a not-for-profit debt advice body. This is because neither SYSC 24 (Senior managers and certification regime: Allocation of prescribed responsibilities) nor SYSC 26 (Senior managers and certification regime: Overall and local responsibility) apply to it.
+(2) It will not have any SMF managers as no designated senior management functions apply to it.
+(3) The function in CASS 11.3.2R is not a separate FCA certification function and the person performing that function will not necessarily be subject to the employee certification regime described in SYSC 27 (Senior managers and certification regime: Certification Regime).
+CASS large debt management firms
+CASS 11.3.3
+23/10/2020
+G
+(1) [deleted]
+(2) As a consequence of CASS 11.3.4R, in a CASS large debt management firm (including a not-for-profit debt advice body fitting into that category) the function described in CASS 11.3.4R is required to be discharged by a director or senior manager.
+(3) [deleted]
+(4) [deleted]
+(4A) For an SMCR firm, the function in CASS 11.3.4R is not a separate controlled function and performing that function does not require approval as an approved person. Paragraphs (5) to (11) describe how CASS 11.3.4R applies to such firms.
+(4B) There are three elements of the regime for SMCR firms that are particularly relevant to CASS 11.3, although they do not all apply to all SMCR firms:
+(a) a firm’s obligation to allocate certain responsibilities to its SMF managers (see SYSC 24 (Senior managers and certification regime: Allocation of prescribed responsibilities));
+(b) a firm’ s obligation to ensure that one or more of its SMF managers have overall responsibility for each of its activities, business areas and management functions (see SYSC 26 (Senior managers and certification regime: Overall and local responsibility)); and
+(c) the certification regime (the certification regime is explained in SYSC 27 (Senior managers and certification regime: Certification regime) and SYSC TP 7 (Bank of England and Financial Services Act 2016: Certification and regulatory references) explains that the certification regime comes into force sometime after other parts of the senior managers and certification regime).
+(5) Paragraphs (6) to (9) explain how CASS 11.3.4R applies to an SMCR firm to which SYSC 24 and SYSC 26 apply.
+(6) The SMCR firm must allocate responsibility for the firm’s compliance with CASS to one of its SMF managers (see SYSC 24.2.1R). That responsibility is an “FCA-prescribed senior management responsibility”. The full list of FCA-prescribed senior management responsibilities is in the table in SYSC 24.2.6R.
+(7) Although the CASS function in SYSC 24.2.1R is different from the function in CASS 11.3.4R, the SMCR firm may allocate the function in CASS 11.3.4R to the SMF manager in (6).
+(8) The SMCR firm may allocate the CASS FCA-prescribed senior management responsibility described in (6) to an SMF manager who does not perform any other function coming within the FCA regime for SMF managers in SMCR firms. See SUP 10C.7 (Other overall responsibility function (SMF18)) and SUP 10C.8.1R (Other local responsibility function (SMF22)) for details.
+(9) The SMCR firm may choose to allocate the function in CASS 11.3.4R to someone who is not an approved person and SMF manager. If so:
+(a) that person will be subject to the employee certification regime described in SYSC 27 (Senior managers and certification regime: Certification regime);
+(b) that person will be subject to supervision by the SMF manager in (6); and
+(c) the function in CASS 11.3.4R will be the CASS oversight FCA certification function in SYSC 27.8.1R.
+(10) In relation to an SMCR firm to which SYSC 24 applies but SYSC 26 does not apply the guidance in paragraphs (6), (7) and (9) applies, but the guidance in paragraph (8) does not apply.
+(11)
+(a) The position of an SMCR firm to which neither SYSC 24 nor SYSC 26 apply is slightly different.
+(b) The firm may choose to allocate the function in CASS 11.3.4R to an SMF manager.
+(c) The firm may instead choose to allocate the CASS function to someone who is not an SMF manager.
+(d) Where (c) applies, the person performing the function in CASS 11.3.4R will fall into the certification regime. The function in CASS 1A.3.1AR will be the CASS oversight FCA certification function in SYSC 27.8.1R.
+(e) A not-for-profit debt advice body will not have any SMF managers as no controlled functions apply to it.
+CASS 11.3.4
+07/05/2025
+R
+A CASS large debt management firm must allocate to a director or senior manager the function of:
+(1) oversight of the operational effectiveness of that CASS debt management firm's systems and controls that are designed to achieve compliance with CASS 11;
+(2) reporting to the CASS debt management firm's governing body in respect of that oversight; and
+(3) completing and submitting responses to the relevant questions under a CCR009 return to the FCA in accordance with SUP 16.12.29CR.
+Record of responsibility for CASS operational oversight
+CASS 11.3.6
+01/04/2014
+R
+(1) Subject to (2), a CASS debt management firm must make and retain an appropriate record of the person to whom responsibility is allocated in accordance with, as applicable, CASS 11.3.1 R, CASS 11.3.2 R, and CASS 11.3.4 R.
+(2) A CASS small debt management firm must make and retain such a record only where it allocates responsibility to a person other than the person in that firm who performs the compliance oversight function.
+(3) A CASS debt management firm must ensure that a record made under this rule is retained for a period of five years after it is made.
+CASS 11.4 Definition of client money and the discharge of fiduciary duty
+CASS 11.4.1
+01/04/2014
+G
+CASS 11 provides important safeguards for the protection of client money held by CASS debt management firms that sit alongside the fiduciary duty owed by firms in relation to client money. CASS 11.4.2 R to CASS 11.4.4 G provide guidance and rules for when money ceases to be client money for the purposes of both those rules and of the fiduciary duty which CASS debt management firms owe to clients in relation to client money.
+CASS 11.4.2
+02/08/2024
+R
+Money ceases to be client money if:
+(1) it is paid to the client, or a duly authorised representative of the client; or
+(2) it is:
+(a) paid to a third party on the instruction of the client, or with the specific consent of the client; or
+(b) paid to a third party further to an obligation on the firm under any applicable law; or
+(3) it is paid into an account of the client (not being an account which is also in the name of the firm) on the instruction, or with the specific consent, of the client;
+(4) it is due and payable to the firm for its own account;
+(5) it is paid to the firm as an excess in the client bank account (see CASS 11.11.12 R (2) and CASS 11.11.23 R (3)); or
+(6) it is transferred to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 11.4.5R.
+CASS 11.4.3
+01/04/2014
+R
+When a CASS debt management firm draws a cheque or other payable order to discharge its fiduciary duty to the client, it must continue to treat the sum concerned as client money until the cheque or order is presented and paid.
+CASS 11.4.4
+01/04/2014
+G
+Money is not client money when it is properly due and payable to the firm for its own account. The circumstances in which money may become due and payable to the firm could include when fees have become due and payable from the client to the firm under the agreement between the client and the firm.
+CASS 11.4.5
+02/08/2024
+G
+A payment of client money under section 21 of the Dormant Assets Act 2022 to a dormant asset fund operator that has Part 4A permission for dealing with unwanted asset money would amount to a payment to a third party with the instruction of the client for the purposes of CASS 11.4.2R(2)(a).
+Transfers of client money to a dormant asset fund operator under Part 1 of the Dormant Assets Act 2022
+CASS 11.4.6
+02/08/2024
+R
+A firm may transfer a client money balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022. If it does so the transferred balance will cease to be client money under CASS 11.4.2R(6), provided that the firm can demonstrate it took reasonable steps to trace the client concerned and to return the balance prior to making such a transfer.
+CASS 11.4.7
+02/08/2024
+E
+(1) Taking reasonable steps in CASS 11.4.6R includes following this course of conduct:
+(a) determining, as far as reasonably possible, the correct contact details for the relevant client;
+(b) writing to the client at the last known address either by post or by electronic mail to inform it of the firm’s intention to no longer treat the client money balance as client money and to transfer the sums concerned to a dormant asset fund operator if the firm does not receive instructions from the client within 28 days (naming the specific relevant dormant asset fund operator);
+(c) where the client has not responded after the 28 days referred to in (b), attempting to communicate the information set out in (b) to the client on at least one further occasion by any means other than that used in (b) including by post, electronic mail, telephone or media advertisement;
+(d) subject to (e) and (f), where the client has not responded within 28 days following the most recent communication, writing again to the client at the last known address either by post or by electronic mail to inform them:
+(i) that, as the firm did not receive a claim for the relevant client money balance, it will in 28 days transfer the balance to a dormant asset fund operator (naming the specific relevant dormant asset fund operator); and
+(ii) of the steps that they must take to make a repayment claim;
+(e) if the firm has carried out the steps in (b) or (c) and in response has received positive confirmation in writing that the client is no longer at a particular address, the firm should not use that address for the purposes of (d);
+(f) if, after carrying out the steps in (a), (b) and (c), the firm has obtained positive confirmation that none of the contact details it holds for the relevant client are accurate or, if utilised, the communication is unlikely to reach the client, the firm does not have to comply with (d); and
+(g) waiting a further 28 days following the most recent communication under this rule before transferring the balance to the dormant asset fund operator.
+(2) Compliance with (1) may be relied on as tending to establish compliance with CASS 11.4.6R.
+(3) Contravention of (1) may be relied on as tending to establish contravention of CASS 11.4.6R.
+CASS 11.4.8
+02/08/2024
+G
+(1) Unless the firm has failed and CASS 11.6.1R(3) applies, any costs associated with a firm ceasing to treat unclaimed client money balances as client money pursuant to CASS 11.4.5R should be paid for from the firm’s own funds.
+(2) When transferring a client money balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022, a firm will need to consider its obligations under any contractual or other arrangements of the sort described at section 23 of the Dormant Assets Act 2022 in addition to meeting its obligations under the debt management client money rules and the debt management client money distribution rules.
+CASS 11.5 Organisational requirements
+CASS 11.5.1
+01/04/2014
+R
+A CASS debt management firm must, when holding client money, make adequate arrangements to safeguard the client's rights and prevent the use of client money for its own account.
+CASS 11.5.2
+01/04/2014
+R
+A CASS debt management firm must introduce adequate organisational arrangements to minimise the risk of the loss or diminution of client money, or of rights in connection with client money, as a result of misuse of client money, fraud, poor administration, inadequate record-keeping or negligence.
+CASS 11.6 Statutory trust
+CASS 11.6.1
+01/04/2014
+R
+A CASS debt management firm receives and holds client money as trustee on the following terms:
+(1) for the purposes and on the terms of the debt management client money rules and the debt management client money distribution rules;
+(2) subject to (3), for the clients for whom that money is held, according to their respective interests in it;
+(3) on failure of the CASS debt management firm, for the payment of the costs properly attributable to the distribution of the client money in accordance with (2); and
+(4) after all valid claims and costs under (2) and (3) have been met, for the CASS debt management firm itself.
+CASS 11.6.2
+01/04/2014
+G
+Section 137B(1) of the Act provides that rules may make provisions which result in client money being held by a firm on trust. CASS 11.6.1 R creates such a rule in relation to client money held by a CASS debt management firm. The consequence of this rule is there is a fiduciary relationship between a CASS debt management firm and its client, under which client money is in the legal ownership of the firm but remains in the beneficial ownership of the client. In the event of failure of the CASS debt management firm, costs relating to the distribution of client money may have to be borne by the trust.
+CASS 11.7 Selecting an approved bank at which to hold client money
+CASS 11.7.1
+01/04/2014
+G
+A CASS debt management firm owes a duty of care as a trustee to its clients in relation to client money and has to exercise that duty of care in deciding where to hold client money.
+CASS 11.7.2
+01/04/2014
+R
+Before a CASS large debt management firm opens a client bank account and as often as is appropriate on a continuing basis (such frequency being no less than once in each financial year) it must take reasonable steps to establish that it is appropriate for the firm to hold client money at the approved bank concerned.
+CASS 11.7.3
+01/04/2014
+R
+A CASS large debt management firm must consider the risks associated with holding all client money with one approved bank and should consider whether it would be appropriate to hold client money in client bank accounts at a number of different approved banks.
+CASS 11.7.4
+01/04/2014
+G
+In complying with CASS 11.7.3 R a CASS large debt management firm should consider as appropriate, together with any other relevant matters:
+(1) the amount of client money held by the firm;
+(2) the amount of client money the firm anticipates holding at the approved bank; and
+(3) the credit worthiness of the approved bank.
+CASS 11.7.5
+01/04/2014
+G
+A CASS small debt management firm can demonstrate compliance with CASS 11.7.1 G by checking that the person it proposes to hold client money with is an approved bank and that nothing has come to the firm's attention to cause it to believe that such person is not an appropriate place at which to hold client money.
+CASS 11.7.6
+01/04/2014
+R
+A CASS large debt management firm must make a record of the grounds upon which it satisfies itself as to the appropriateness of its selection of an approved bank. The firm must make the record on the date it makes the selection and must keep it from the date of such selection until five years after the firm ceases to use the approved bank to hold client money.
+CASS 11.8 Client bank account acknowledgement letters
+CASS 11.8.1
+01/04/2014
+G
+The main purposes of a client bank account acknowledgement letter are:
+(1) to put the approved bank on notice of a firm's clients' interests in client money that has been deposited with such person;
+(2) to ensure that the client bank account has been opened in accordance with CASS 11.9.3 R, and is distinguished from any account containing money that belongs to the firm; and
+(3) to ensure that the approved bank understands and agrees that it will not have any recourse or right against money standing to the credit of the client bank account, in respect of any liability of the firm to such person (or person connected to such person).
+CASS 11.8.2
+01/04/2014
+R
+(1) For each client bank account, a CASS debt management firm must, in accordance with CASS 11.8.4 R, complete and sign a client bank account acknowledgement letter clearly identifying the client bank account, and send it to the approved bank with whom the client bank account is, or will be, opened, requesting the bank to acknowledge and agree to the terms of the letter by countersigning it and returning it to the firm.
+(2) Subject to CASS 11.8.6 R, a CASS debt management firm must not hold or receive any client money in or into a client bank account unless it has received a duly countersigned client bank account acknowledgement letter from the approved bank that has not been inappropriately redrafted and clearly identifies the client bank account.
+CASS 11.8.3
+01/04/2014
+R
+In drafting client bank account acknowledgement letters under CASS 11.8.2 R a CASS debt management firm is required to use the relevant template in CASS 11 Annex 1 R.
+CASS 11.8.4
+01/04/2014
+R
+When completing a client bank account acknowledgement letter under CASS 11.8.2 R (1) a CASS debt management firm:
+(1) must not amend any of the acknowledgement letter fixed text;
+(2) subject to (3), must ensure the acknowledgement letter variable text is removed, included or amended as appropriate; and
+(3) must not amend any of the acknowledgement letter variable text in a way that would alter or otherwise change the meaning of the acknowledgement letter fixed text.
+CASS 11.8.5
+01/04/2014
+G
+CASS 11 Annex 2 contains guidance on using the template client bank account acknowledgement letters, including on when and how firms should amend the acknowledgement letter variable text that is in square brackets.
+CASS 11.8.6
+01/04/2014
+R
+(1) If, on countersigning and returning the client bank account acknowledgement letter to a firm, the relevant approved bank has also:
+(a) made amendments to any of the acknowledgement letter fixed text; or
+(b) made amendments to any of the acknowledgement letter variable text in a way that would alter or otherwise change the meaning of the acknowledgement letter fixed text;
+the client bank account acknowledgement letter will have been inappropriately redrafted for the purposes of CASS 11.8.2 R (2).
+(2) Amendments made to the acknowledgement letter variable text, in the client bank account acknowledgement letter returned to a firm by the relevant approved bank, will not have the result that the letter has been inappropriately redrafted if those amendments do not affect the meaning of the acknowledgement letter fixed text, have been specifically agreed with the firm and do not cause the client bank account acknowledgement letter to be inaccurate.
+CASS 11.8.7
+01/04/2014
+R
+A CASS debt management firm must use reasonable endeavours to ensure that any individual that has countersigned a client bank account acknowledgement letter that has been returned to the firm was authorised to countersign the letter on behalf of the relevant approved bank.
+CASS 11.8.8
+01/04/2014
+R
+A CASS debt management firm must retain each countersigned client bank account acknowledgement letter it receives from the date of receipt until the expiry of a period of five years starting on the date on which the last client bank account to which the acknowledgment letter relates is closed.
+CASS 11.8.9
+01/04/2014
+R
+A CASS debt management firm must also retain any other documentation or evidence it believes is necessary to demonstrate that it has complied with each of the applicable requirements in this section (such as any evidence it has obtained to ensure that the individual that has countersigned a client bank account acknowledgement letter that has been returned to the firm was authorised to countersign the letter on behalf of the relevant approved bank).
+CASS 11.8.10
+01/04/2014
+R
+A CASS debt management firm must, periodically (at least annually, and whenever it becomes aware that something referred to in a client bank account acknowledgement letter has changed) review each of its countersigned client bank account acknowledgement letters to ensure that they remain accurate.
+CASS 11.8.11
+01/04/2014
+R
+Whenever a CASS debt management firm finds a countersigned client bank account acknowledgement letter to contain an inaccuracy, the firm must promptly draw up a new replacement client bank account acknowledgement letter under CASS 11.8.2 R and ensure that the new client bank account acknowledgement letter is duly countersigned and returned by the relevant approved bank.
+CASS 11.8.12
+01/04/2014
+G
+Under CASS 11.8.10 R, a CASS debt management firm should obtain a replacement client bank account acknowledgement letter whenever:
+(1) there has been a change in any of the parties' names or addresses or a change in any of the details of the relevant account(s) as set out in the letter; or
+(2) it becomes aware of an error or misspelling in the letter.
+CASS 11.8.13
+01/04/2014
+R
+If a CASS debt management firm's client bank account is transferred to another approved bank, the firm must promptly draw up a new client bank account acknowledgement letter under CASS 11.8.2 R and ensure that the new client bank account acknowledgement letter is duly countersigned and returned by the relevant approved bank within 20 business days of the firm sending it to that person.
+CASS 11.9 Segregation and the operation of client money accounts
+Requirement to segregate
+CASS 11.9.1
+01/04/2014
+R
+A CASS debt management firm must take all reasonable steps to ensure that all client money it receives is paid directly into a client bank account at an approved bank, rather than being first received into the firm's own account and then segregated.
+CASS 11.9.2
+01/04/2014
+G
+A CASS debt management firm should arrange for clients and third parties to make transfers and payments of any money which will be client money directly into the firm's client bank accounts.
+CASS 11.9.3
+01/04/2014
+R
+A CASS debt management firm must ensure that client money is held in a client bank account at one or more approved banks.
+CASS 11.9.4
+01/04/2014
+R
+Cheques received by a CASS debt management firm, made out to the firm, representing client money or a mixed remittance must be treated as client money from receipt by the firm.
+CASS 11.9.5
+01/04/2014
+R
+Where a CASS debt management firm receives client money in the form of cash, a cheque or other payable order, it must:
+(1) pay the money into a client bank account in accordance with CASS 11.9.1 R promptly and no later than on the business day after it receives the money;
+(2) if the firm holds the money overnight, hold it in a secure location in line with Principle 10; and
+(3) record the receipt of the money in the firm's books and records under the applicable requirements of CASS 11.11 (Records, accounts and reconciliations).
+Mixed remittance
+CASS 11.9.6
+01/04/2014
+R
+If a CASS debt management firm receives a mixed remittance it must:
+(1) pay the full sum into a client bank account promptly and in accordance with CASS 11.9.1 R to CASS 11.9.5 R; and
+(2) no later than one business day after the payment of the mixed remittance into the client bank account has cleared, pay the money that is not client money out of the client bank account.
+Allocation of client money receipts
+CASS 11.9.7
+01/04/2014
+R
+(1) A CASS debt management firm must allocate in its books and records any client money it receives to an individual client promptly and, in any case, no later than five business days following the receipt.
+(2) Pending a CASS debt management firm's allocation of a client money receipt to an individual client under (1), it must record the received client money in its books and records as "unallocated client money".
+CASS 11.9.8
+01/04/2014
+R
+If a CASS debt management firm receives money (either in a client bank account or an account of its own) which it is unable immediately to identify as client money or its own money, it must:
+(1) take all necessary steps to identify the money as either client money or its own money;
+(2) if it considers it reasonably prudent to do so, given the risk that client money may not be adequately protected if it is not treated as such, treat the entire balance of money as client money and record the money in its books and records as "unidentified client money" while it performs the necessary steps under (1).
+CASS 11.9.9
+01/04/2014
+G
+If a CASS debt management firm is unable to identify money that it has received as either client money or its own money under CASS 11.9.8 R (1), it should consider whether it would be appropriate to return the money to the person who sent it (or, if that is not possible, to the source from where it was received, for example, the bank). A firm should have regard to its fiduciary duties when considering such matters.
+Money received by appointed representatives, tied agents, field representatives and other agents
+CASS 11.9.10
+01/04/2014
+R
+A CASS debt management firm must ensure that client money received by its appointed representatives, field representatives or other agents is:
+(1) received directly into a client bank account of the firm; or
+(2) if it is received in the form of a cheque or other payable order:
+(a) paid into a client bank account of the CASS debt management firm promptly and, in any event, no later than the next business day after receipt; or
+(b) forwarded to the firm or, in the case of a field representative, forwarded to a specified business address of the CASS debt management firm, to ensure that the money arrives at the specified business address promptly and, in any event, no later than the close of the third business day following the receipt of the money from the client; or
+(3) if it is received in the form of cash, paid into a client bank account of the CASS debt management firm promptly and, in any event, no later than the next business day after receipt.
+Interest
+CASS 11.9.11
+01/04/2014
+R
+A CASS debt management firm must pay a client any interest earned on client money held for that client.
+Returning money to clients
+CASS 11.9.12
+01/04/2014
+R
+A CASS debt management firm must, on receipt of a written request to withdraw from a debt management plan, promptly return to the client any client money held by it for the client.
+CASS 11.9.13
+01/04/2014
+G
+The FCA would expect compliance with the requirement in CASS 11.9.12 R to return client money promptly to require client money to be returned to a client within five business days of the date on which a client's withdrawal from a debt management plan takes effect.
+CASS 11.10 Payments to creditors
+CASS 11.10.1
+01/04/2014
+R
+Where a CASS debt management firm receives client money from a client in relation to a debt management plan or for the purpose of distribution to the client's creditors, the firm must pay that money to creditors as soon as reasonably practicable, save in the circumstances in CASS 11.10.3 R.
+CASS 11.10.2
+01/04/2014
+G
+In the FCA's view, the payment to creditors under CASS 11.10.1 R should normally be within five business days of the receipt of cleared funds.
+CASS 11.10.3
+01/04/2014
+R
+The circumstances referred to in CASS 11.10.1 R are:
+(1) the contract between the client and the CASS debt management firm expressly provides that client money might be held for more than five business days without being distributed to creditors;
+(2) the existence of such a term expressly providing that client money might be held for more than five business days without being distributed to creditors has been separately brought to the attention of the client prior to his entering into the contract; and
+(3) the CASS debt management firm has explained to the client the risks and implications, if any, of payment to creditors being delayed prior to the entry into the contract.
+CASS 11.10.4
+01/04/2014
+R
+On each occasion that a CASS debt management firm receives client money from a client in relation to a debt management plan, or for the purpose of distribution to the client's creditors, and it is proposed not to make a client's payment to creditors within five business days of receipt of the client money in the circumstances described in CASS 11.10.3 R (1), it must:
+(1) as soon as reasonably practicable and within the five business day period, inform the client's creditors of the fact that it has received client money from the client for the purpose of distribution to his or her creditors and that it will not distribute that client money to the creditors within the five business-day period; and
+(2) perform daily reconciliations of the money held for the client concerned in accordance with the provisions of CASS 11.11.
+CASS 11.10.5
+01/04/2014
+R
+On each occasion a CASS debt management firm receives client money from a client in relation to a debt management plan, or for the purpose of distribution to the client's creditors, and is unable for any reason other than in the circumstances described in CASS 11.10.3 R (1) to make a payment to the client's creditors within five business days of receipt, it must:
+(1) inform the client of the delay and the reason for the delay;
+(2) inform the client of the risks and implications of the late payments;
+(3) inform the client's creditors of this delay as soon as reasonably practicable and within the period of five business days of the receipt of the relevant client money; and
+(4) perform daily checks of its records of the money held for the client concerned in accordance with the provisions of CASS 11.11.
+CASS 11.10.6
+01/04/2014
+R
+(1) Subject to (2), where a CASS debt management firm receives client money from a client in relation to a debt management plan or for the purpose of distribution to the client's creditors, and it fails to pay that money to creditors as soon as reasonably practicable following its receipt (see CASS 11.10.1 R and CASS 11.10.2 G), it must put the client into the financial position he would have been in had the delay not occurred.
+(2) Paragraph (1) does not apply in the circumstances described in CASS 11.10.3 R or where the delay is due to circumstances beyond the firm's control.
+CASS 11.10.7
+01/04/2014
+G
+Putting a client into the position he would have been in had the delay not occurred under CASS 11.10.6 R should include paying to the client a sum equivalent to the amount of any additional interest which would not have accrued but for the delay and any default charges that have been applied to the account as a result of the delay.
+CASS 11.11 Records, accounts and reconciliations
+Records and accounts
+CASS 11.11.1
+01/04/2014
+R
+A CASS debt management firm must keep such records and accounts as are necessary to enable it, at any time and without delay, to distinguish client money held for one client from client money held for any other client, and from its own money.
+CASS 11.11.2
+01/04/2014
+G
+In accordance with CASS 11.11.1 R, a CASS debt management firm must maintain internal records and accounts of the client money it holds (for example, a cash book). These internal records are separate to any external records it has obtained from approved banks with whom it has deposited client money (for example, bank statements).
+CASS 11.11.3
+01/04/2014
+R
+A CASS debt management firm must maintain its records and accounts in a way that ensures their accuracy and, in particular, their correspondence to the client money held for individual clients.
+CASS 11.11.4
+01/04/2014
+R
+A CASS debt management firm must maintain up-to-date records that detail all payments to, from, or made on behalf of, clients and written and oral contact with clients and their creditors.
+Policies and procedures
+CASS 11.11.5
+01/04/2014
+G
+CASS debt management firms are reminded that they must, under SYSC 6.1.1 R, establish, implement and maintain adequate policies and procedures sufficient to ensure compliance of the firm with the rules in this chapter.
+Checks and reconciliations of internal records
+CASS 11.11.6
+01/04/2014
+G
+So that a CASS debt management firm may check that it has sufficient money segregated in its client bank accounts to meet its obligations to clients for whom it is undertaking debt management activity, it is required periodically to carry out reconciliations of its internal records and accounts to check that the total amount of client money that it should have segregated in client bank accounts is equal to the total amount of client money it actually has segregated in client bank accounts. CASS 11.11.8 R to CASS 11.11.23 R provide rules that the different types of CASS debt management firm are obliged to follow to meet this obligation.
+Checks of internal records: CASS small debt management firm
+CASS 11.11.7
+01/04/2014
+G
+For a CASS small debt management firm to demonstrate it has maintained its records and accounts in a way envisaged by CASS 11.11.3 R, it should carry out checks of its internal records and accounts that are reasonable and proportionate to its business. CASS 11.11.8 R provides a rule that a CASS small debt management firm is obliged to follow to meet this obligation.
+CASS 11.11.8
+01/04/2014
+R
+A CASS small debt management firm must undertake periodic checks of its internal accounts and records to ensure that the amount of money it holds in its client bank accounts is equal to the amount of client money that should be segregated under CASS 11.9.
+CASS 11.11.9
+01/04/2014
+R
+In carrying out the checks required by CASS 11.11.8 R a CASS small debt management firm must use the values contained in its internal records and ledgers (for example, its cash book or other internal accounting records), rather than the values contained in the records it has obtained from approved banks with whom it has deposited client money (for example, bank statements).
+CASS 11.11.10
+01/04/2014
+G
+The checks that a CASS small debt management firm is required to undertake under CASS 11.11.8 R include checking that its internal records and accounts accurately record the balances of client money held in respect of individual clients, and that the aggregate of those individual client money balances are equal to the total client money segregated in its client bank accounts. In undertaking the comparison between the internal records of balances of client money and the client money segregated in client bank accounts, a firm should use the previous day's closing client money balances and should compare those with other records relating to the same day. In determining an appropriate frequency for its record checks, a firm should consider the volume and frequency of transactions in its client bank accounts.
+CASS 11.11.11
+01/04/2014
+G
+In seeking to comply with its obligation to carry out checks on its internal records and accounts, a CASS small debt management firm may choose to follow the steps specifically required of CASS large debt management firms in undertaking a CASS large debt management firm internal client money reconciliation and CASS large debt management firm external client money reconciliation. A CASS small debt management firm which follows that procedure is likely to be regarded by the FCA as having fulfilled its obligation under CASS 11.11.8 R.
+CASS small debt management firms: remedying discrepancies
+CASS 11.11.12
+01/04/2014
+R
+Where the check of its internal records and accounts that a CASS small debt management firm is required to undertake under CASS 11.11.8 R reveals a difference between the amount of money it holds in its client bank accounts and the amount of client money that should be held and segregated under CASS 11.9, a CASS small debt management firm must:
+(1) ensure that any shortfall in the amount held in its client bank accounts as compared to the amount that should be held there is made up by a prompt payment into the firm's client bank accounts;
+(2) ensure that any excess in the amount held in its client bank accounts as compared to the amount that should be held there is promptly withdrawn from its client bank accounts; and
+(3) ensure that any correction of a shortfall or excess of the kind referred to in (1) and (2) is carried out, at the latest, before the end of the business day following the day on which difference was discovered.
+CASS large debt management firms internal client money reconciliation
+CASS 11.11.13
+01/04/2014
+R
+A CASS large debt management firm must, as regularly as is necessary, but no less often than every five business days, carry out a CASS large debt management firm internal client money reconciliation.
+CASS 11.11.14
+01/04/2014
+R
+A CASS large debt management firm internal client money reconciliation requires a CASS large debt management firm to check whether its client money resource, as determined by CASS 11.11.16 R, on the previous business day, was at least equal to the client money requirement, as determined by CASS 11.11.17 R as at the close of business on that day.
+CASS 11.11.15
+01/04/2014
+R
+In carrying out a CASS large debt management firm internal client money reconciliation, a CASS large debt management firm must use the values contained in its internal records and ledgers (for example, its cash book or other internal accounting records), rather than the values contained in the records it has obtained from approved banks with whom it has deposited client money (for example, bank statements).
+Calculating the client money resource
+CASS 11.11.16
+01/04/2014
+R
+The client money resource for client money held in accordance with CASS 11.11.14 R is the aggregate of the balances on the firm's client bank accounts, as at the close of business on the previous business day.
+Calculating the client money requirement
+CASS 11.11.17
+01/04/2014
+R
+(1) The client money requirement is the sum of:
+(a) the aggregate of all individual client balances calculated in accordance with CASS 11.11.21 R and CASS 11.11.22 R;
+(b) the amount of any unallocated client money under CASS 11.9.7 R;
+(c) the amount of any unidentified client money under CASS 11.9.8 R; and
+(d) any other amounts of client money included in the calculation under (2).
+(2) For the purposes of (1)(d), the CASS debt management firm must consider whether there are amounts of client money, other than those in (1)(a) to (c), to which the requirement to segregate applies and that it is appropriate to include in the calculation of its client money requirement and, if so, adjust the calculation accordingly.
+CASS 11.11.18
+01/04/2014
+G
+The client money requirement calculated in accordance with CASS 11.11.17 R should represent the total amount of client money a CASS debt management firm is required to have segregated in client bank accounts under the debt management client money chapter.
+CASS 11.11.19
+01/04/2014
+G
+Firms are reminded that, under CASS 11.4.3 R, if a firm has drawn any cheques, or other payable orders, to discharge its fiduciary duty to its clients (for example, to return client money to the client or distribute it to the client's creditors), the sum concerned must be included in the firm's calculation of its client money requirement until the cheque or order is presented and paid.
+CASS 11.11.20
+01/04/2014
+G
+The following guidance applies where a CASS debt management firm receives client money in the form of cash, a cheque or other payable order:
+(1) In carrying out the calculation of the client money requirement, a CASS debt management firm may initially include the amount of client money received as cash, cheques or payment orders that has not yet been deposited in a client bank account in line with CASS 11.9.5 R. If it does so, the firm should ensure, before finalising the calculation, that it deducts these amounts to avoid them giving rise to a difference between the firm's client money requirement and client money resource.
+(2) In carrying out the calculation of the client money requirement, a CASS debt management firm may alternatively exclude the amount of client money received as cash, cheques or payment orders that has not yet been deposited in a client bank account in line with CASS 11.9.5 R. If it does so, the firm is reminded that it must separately record the receipt of the money in the firm's books and records under CASS 11.9.5 R (3).
+(3) A CASS debt management firm that receives client money in the form of cash, a cheque or other payable order is reminded that it must pay that money into a client bank account promptly and no later than on the business day after it receives the money (see CASS 11.9.5 R).
+CASS 11.11.21
+01/04/2014
+R
+The individual client balance for each client must be calculated as follows:
+(1) the amount paid by the client to the CASS debt management firm; plus
+(2) the amount of any interest, and any other sums, due to the client;
+less:
+(3) the aggregate of the amount of money:
+(a) paid back to that client; and
+(b) due and payable by the client to the CASS debt management firm; and
+(c) paid out to a third party for, or on behalf of, that client.
+CASS 11.11.22
+01/04/2014
+R
+Where the individual client balance calculated in respect of an individual client under CASS 11.11.21 R is a negative figure (because the amounts paid by or due to a client under CASS 11.11.21 R (1) and CASS 11.11.21 R (2) are less than the amounts paid out or due and payable by that client under CASS 11.11.21 R (3), that individual client balance should be treated as zero for the purposes of the calculation of the firm's client money requirement in CASS 11.11.17 R.
+Large debt management firms: reconciliation differences and discrepancies
+CASS 11.11.23
+01/04/2014
+R
+When a CASS large debt management firm internal client money reconciliation reveals a difference between the client money resource and its client money requirement a CASS large debt management firm must:
+(1) identify the reason for the difference;
+(2) ensure that any shortfall in the amount of the client money resource as compared to the amount of the client money requirement is made up by a payment into the firm's client bank accounts by the end of the business day following the day on which difference was discovered; and
+(3) ensure that any excess in the amount of the client money resource as compared to the amount of the client money requirement is withdrawn from the firm's client bank accounts by the end of the business day following the day on which the difference was discovered.
+CASS large debt management firm external client money reconciliation
+CASS 11.11.24
+01/04/2014
+G
+The purpose of the reconciliation process required by CASS 11.11.25 R is to ensure the accuracy of a firm's internal accounts and records against those of any third parties by whom client money is held.
+CASS 11.11.25
+01/04/2014
+R
+A CASS large debt management firm should perform a CASS large debt management firm external client money reconciliation:
+(1) as regularly as is necessary; and
+(2) no less frequently than the CASS large debt management firm internal client money reconciliations; and
+(3) as soon as reasonably practicable after the date to which the reconciliation relates;
+to ensure the accuracy of its internal accounts and records against those of approved banks with whom client money is deposited.
+CASS 11.11.26
+01/04/2014
+R
+A CASS large debt management firm external client money reconciliation requires a CASS large debt management firm to conduct a reconciliation between its internal accounts and records and those of any approved banks by whom client money is held.
+CASS 11.11.27
+01/04/2014
+G
+The FCA expects a CASS large debt management firm which carries out transactions for its clients on a daily basis to carry out a CASS large debt management firm external client money reconciliation on a daily basis.
+CASS 11.11.28
+01/04/2014
+R
+When any discrepancy is revealed by a CASS large debt management firm external client money reconciliation, a CASS large debt management firm must identify the reason for the discrepancy and correct it as soon as possible, unless the discrepancy arises solely as a result of timing differences between the accounting systems of the party providing the statement or confirmation and that of the firm.
+CASS 11.11.29
+01/04/2014
+R
+While a CASS large debt management firm is unable to resolve a discrepancy arising from the CASS large debt management firm external client money reconciliation, and one record or a set of records examined by the firm during the reconciliation process indicates that there is a need to have greater amount of client money than is in fact the case, the firm must assume, until the matter is finally resolved, that the record or set of records is accurate and pay its own money into a relevant account.
+Notification requirements
+CASS 11.11.30
+01/04/2014
+R
+A CASS debt management firm must inform the FCA in writing without delay if:
+(1) its internal records and accounts of client money are materially out of date or materially inaccurate so that the firm is no longer able to comply with the requirements in CASS 11.11.1 R to CASS 11.11.4 R; or
+(2) it becomes aware that, at any time in the preceding 12 months, the amount of client money segregated in its client bank accounts materially differed from the total aggregate amount of client money the firm was required to segregate in client bank accounts in accordance with the segregation requirements in CASS 11.9.
+CASS 11.11.31
+01/04/2014
+R
+A CASS large debt management firm must inform the FCA in writing without delay if:
+(1) after having carried out a CASS large debt management firm internal client money reconciliation in accordance with CASS 11.11.13 R it will be unable to, or materially fails to, pay any shortfall into (or withdraw any excess from) a client bank account so that the firm is unable to comply with CASS 11.11.23 R;
+(2) after having carried out a CASS large debt management firm external client money reconciliation in accordance with CASS 11.11.25 R it will be unable to, or materially fails to, identify and correct any discrepancies in accordance with CASS 11.11.28 R;
+(3) it will be unable to or materially fails to conduct a CASS large debt management firm internal client money reconciliation in compliance with CASS 11.11.13 R; or
+(4) it will be unable to or materially fails to conduct a CASS large debt management firm external client money reconciliation in compliance with CASS 11.11.25 R.
+CASS 11.11.32
+01/04/2014
+G
+CASS debt management firms are also reminded of their obligation to notify the appropriate regulator of a significant breach of a rule under SUP 15.3.11 R.
+CASS 11.12 CASS 11 resolution pack
+CASS 11.12.1
+01/04/2014
+G
+The purpose of the CASS 11 resolution pack is to ensure that a firm maintains and is able to retrieve information that would, in the event of its insolvency, assist an insolvency practitioner in dealing with client money in a timely manner.
+CASS 11.12.2
+01/04/2014
+R
+A CASS debt management firm which holds client money must maintain at all times and be able to retrieve, in the manner described in this section, a CASS 11 resolution pack.
+CASS 11.12.3
+01/04/2014
+R
+A CASS debt management firm must include within its CASS 11 resolution pack all those documents referred to in CASS 11.12.4 R.
+CASS 11.12.4
+01/04/2014
+R
+The documents in CASS 11.12.3 R that a CASS debt management firm must include within its CASS 11 resolution pack are:
+(1) a master document containing information sufficient to retrieve each document in the firm's CASS 11 resolution pack;
+(2) a document which identifies all the approved banks with whom client money may be deposited;
+(3) a document which identifies each appointed representative, field representative or other agent of the firm which may receive client money in its capacity as the firm's agent;
+(4) a document which identifies each senior manager and director and any other individual and the nature of their responsibility within the firm who is critical or important to the performance of operational functions related to any of the obligations imposed on the firm under the debt management client money rules;
+(5) for all approved banks identified in (2) the written client bank account acknowledgement letters sent and received in accordance with CASS 11.8.2 R; and
+(6) records relating to the internal and external client money checks it is required to carry out under CASS 11.11.
+CASS 11.12.5
+01/04/2014
+R
+In relation to each document in a CASS debt management firm's CASS 11 resolution pack a firm must:
+(1) put in place adequate arrangements to ensure that an administrator, receiver, trustee, liquidator or analogous officer appointed in respect of it or any material part of its property is able to retrieve each document as soon as practicable and, in any event, within 48 hours of that officer’s appointment; and
+(2) ensure that it is able to retrieve each document as soon as practicable and, in any event, within 48 hours where it has taken a decision to do so or as a result of an FCA request.
+CASS 11.12.6
+01/04/2014
+R
+(1) A CASS debt management firm must ensure that it reviews the content of its CASS 11 resolution pack on an ongoing basis to ensure that it remains accurate.
+(2) In relation to any change of circumstances that has the effect of rendering inaccurate, in any material respect, the content of a document specified in CASS 11.12.4 R, a firm must ensure that any inaccuracy is corrected promptly and in any event no more than five business days after the change of circumstances arose.
+CASS 11.12.7
+01/04/2014
+R
+A CASS debt management firm must notify the FCA in writing immediately if it has not complied with, or is unable to comply with, CASS 11.12.2 R and CASS 11.12.6 R.
+CASS 11.13 Client money distribution in the event of a failure of a firm or approved bank
+Application
+CASS 11.13.1
+01/04/2014
+R
+This section (the debt management client money distribution rules) applies to a CASS debt management firm that holds client money which is subject to the debt management client money rules when a primary pooling event or a secondary pooling event occurs.
+Purpose
+CASS 11.13.2
+01/04/2014
+G
+The debt management client money distribution rules seek, in the event of the failure of a CASS debt management firm or of an approved bank at which the CASS debt management firm holds client money, to protect client money and to facilitate the timely payment of sums to creditors or the timely return of client money to clients.
+Failure of a CASS debt management firm: primary pooling event
+CASS 11.13.3
+01/04/2014
+R
+A primary pooling event occurs:
+(1) on the failure of a CASS debt management firm;
+(2) on the vesting of assets in a trustee in accordance with an 'assets requirement' imposed under section 55P(1)(b) or (c) (as the case may be) of the Act where such a requirement is imposed in respect of all client money held by the firm.
+Pooling and distribution after a primary pooling event
+CASS 11.13.4
+01/05/2015
+R
+If a primary pooling event occurs, then:
+(1) all client money:
+(a) held in the CASS debt management firm's client bank accounts; and
+(b) received by the CASS debt management firm on behalf of a client but not yet paid into the firm's client bank accounts;
+is treated as pooled together to form a notional pool;
+(2) a CASS debt management firm must calculate the amount it should be holding on behalf of each individual client as at the time of the primary pooling event using the method of calculating individual client balance provided for by CASS 11.11.21 R;
+(3) a CASS debt management firm must decide whether it is in the best interests of its clients to transfer all its debt management activity business to another CASS debt management firm.
+Distribution if client money not transferred to another firm
+CASS 11.13.5
+01/05/2015
+R
+Where a primary pooling event occurs and the client money is not transferred to another firm in accordance with CASS 11.13.4 R, a CASS debt management firm must distribute client money comprising the notional pool so that each client receives a sum that is rateable to their entitlement to the notional pool calculated in CASS 11.13.4 R (2).
+CASS 11.13.5A
+02/08/2024
+R
+(1) Subject to (2), as an alternative to distributing a client’s client money to them under CASS 11.13.5R, a firm may transfer all of that client’s client money to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 11.4.5R.
+(2) As a consequence of any such transfer to a dormant asset fund operator, the firm must not distribute to any other client an amount of money that would be less than that which such other client was entitled to have distributed under CASS 11.13.5R.
+CASS 11.13.5B
+02/08/2024
+G
+The purpose of CASS 11.13.5AR(2) is to ensure that where a particular client’s client money is transferred under CASS 11.13.5AR(1) to a dormant asset fund operator, such a transfer does not prejudice any other client. This means, for example, that the amount that may be transferred to a dormant asset fund operator under that provision should take account of any shortfall that affects the relevant clients.
+Transfer of client money to another firm
+CASS 11.13.6
+01/04/2014
+G
+If in the event of a primary pooling event occurring the debt management activity business undertaken by a CASS debt management firm ("the transferor") is to be transferred to another CASS debt management firm ("the transferee"), then the transferor may also move the client money associated with that business to the transferee.
+CASS 11.13.7
+01/04/2014
+R
+The remaining client money may be transferred under CASS 11.13.6 G only if it will be held by the transferee in accordance with the debt management client money chapter, including the statutory trust in CASS 11.6.1 R.
+CASS 11.13.8
+01/04/2014
+R
+If there is a shortfall in the client money transferred under CASS 11.13.6 G then the client money must be allocated to each of the clients for whom the client money was held so that each client is allocated a sum which is rateable to that client's client money entitlement in accordance with CASS 11.13.4 R (2). This calculation may be done by either transferor or transferee in accordance with the terms of any transfer.
+CASS 11.13.9
+01/04/2014
+R
+The transferee must, within seven days after the transfer of client money under CASS 11.13.6 G notify clients that:
+(1) their money has been transferred to the transferee; and
+(2) they have the option of having client money returned to them or to their order by the transferee, otherwise the transferee will hold the client money for the clients and conduct debt management activities for those clients.
+Closing a client money pool - transfers to dormant asset fund operator
+CASS 11.13.9A
+02/08/2024
+R
+(1) This rule applies to a firm which, prior to a primary pooling event, had put in place contractual or other arrangements with a dormant asset fund operator of the sort described at section 23 of the Dormant Assets Act 2022.
+(2) If, having attempted to, a firm is unable to distribute a balance of client money in accordance with CASS 11.13.5R to the relevant client, it must attempt to transfer the balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 11.4.5R.
+CASS 11.13.9B
+02/08/2024
+G
+(1) A firm may be unable to distribute a balance of client money in accordance with CASS 11.13.5R for reasons including that:
+(a) the firm is unable to trace the client; or
+(b) despite the firm making enquiries, the relevant client has not provided the firm with instructions that would enable the firm to make a distribution.
+(2) Where the firm transfers a balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 11.4.5R, it may cease to treat the balance as client money under CASS 11.4.2R(6).
+(3) In attempting to transfer the balance to a dormant asset fund operator under CASS 11.13.9AR(2), the firm should begin by seeking confirmation from the relevant dormant asset fund operator as to whether or not it would be in a position to accept the balance.
+Failure of an approved bank: secondary pooling event
+CASS 11.13.10
+01/04/2014
+R
+A secondary pooling event occurs on the failure of an approved bank at which a CASS debt management firm holds client money in a client bank account.
+CASS 11.13.11
+01/04/2014
+R
+(1) Subject to (2), if a secondary pooling event occurs as a result of the failure of an approved bank where one or more client bank accounts are held then in relation to every client bank account of the firm, the provisions of CASS 11.13.12 R (1), CASS 11.13.12 R (2) and CASS 11.13.12 R (3) will apply.
+(2) CASS 11.13.12 R does not apply if, on the failure of the approved bank, the CASS debt management firm pays to its clients, or pays into a client bank account at an unaffected approved bank, an amount equal to the amount of client money that would have been held if a shortfall had not occurred as a result of the failure.
+CASS 11.13.12
+01/04/2014
+R
+Money held in each client bank account of the firm must be treated as pooled and:
+(1) any shortfall in client money held, or which should have been held, in client bank accounts, that has arisen as a result of the failure of the approved bank, must be borne by all clients whose client money is held in a client bank account of the firm, rateably in accordance with their entitlements to the pool;
+(2) a new client money entitlement must be calculated for each client by the firm, to reflect the requirements in (1), and the firm's records must be amended to reflect the reduced client money entitlement;
+(3) the CASS debt management firm must make and retain a record of each client's share of the client money shortfall at the failed approved bank until the client is repaid; and
+(4) the firm must use the new client entitlements, calculated in accordance with (2), when performing the client money calculation in CASS 11.11.17 R.
+CASS 11.13.13
+01/04/2014
+R
+The term 'which should have been held' is a reference to the failed approved bank's failure to hold the client money at the time of the pooling event.
+CASS 11.13.14
+01/04/2014
+R
+Any interest earned on client money following a primary or secondary pooling event will be due to clients in accordance with CASS 11.9.11 R (Interest).
+CASS 11 Annex 1 CASS debt management firm client bank account acknowledgement letter template
+CASS 11 Annex 1
+01/04/2014
+R
+This annex consists only of one or more forms. Forms are to be found through the following address:
+CASS debt management firm client bank account acknowledgment letter template - CASS 11 Annex 1 R
+CASS 11 Annex 2 Guidance notes for client bank account acknowledgement letters (CASS 11.8.5G)
+CASS 11 Annex 2
+01/04/2014
+G
+Introduction
+1. This annex contains guidance on the use of the template client bank account acknowledgement letters in CASS 11 Annex 1.
+General
+2. Under CASS 11.8.2 R (2), CASS debt management firms are required to have in place a duly signed and countersigned client bank account acknowledgement letter for a client bank account before they are allowed to hold or receive client money in or into the account.
+3. For each client bank account a CASS debt management firm is required to complete, sign and send to the approved bank a client bank account acknowledgement letter identifying that account and in the form set out in CASS 11 Annex 1 (CASS debt management firm client bank account acknowledgment letter template).
+4. When completing a client bank account acknowledgement letter using the appropriate template, a CASS debt management firm is reminded that it must not amend any of the text which is not in square brackets (acknowledgment letter fixed text). A CASS debt management firm should also not amend the non-italicised text that is in square brackets. It may remove or include square bracketed text from the letter, or replace bracketed and italicised text with the required information, in either case as appropriate. The notes below give further guidance on this.
+Clear identification of relevant accounts
+5. A CASS debt management firm is reminded that for each client bank account it needs to have in place a client bank account acknowledgement letter. As a result, it is important that it is clear to which account or accounts each client bank account acknowledgement letter relates. As a result, the templates in CASS 11 Annex 1 require that the client bank account acknowledgement letter include the full title and at least one unique identifier, such as a sort code and account number, deposit number or reference code, for each client bank account.
+6. The title and unique identifiers included in a client bank account acknowledgement letter for a client bank account should be the same as those reflected in both the records of the CASS debt management firm and the relevant approved bank, as appropriate, for that account. Where an approved bank's systems are not able to reflect the full title of an account, that title may be abbreviated to accommodate that system, provided that:
+(a) the account may continue to be appropriately identified in line with the requirements of CASS 11 (for example, ‘segregated’ may be shortened to ‘seg’, ‘account’ may be shortened to ‘acct’ etc); and
+(b) when completing a client bank account acknowledgement letter, such letter must include both the long and short versions of the account title.
+7. A CASS debt management firm should ensure that all relevant account information is contained in the space provided in the body of the client bank account acknowledgement letter. Nothing should be appended to a client bank account acknowledgement letter.
+8. In the space provided in the template letters for setting out the account title and unique identifiers for each relevant account/deposit, a CASS debt management firm firm may include the required information in the format of the following table:
+Full account title Unique identifier Title reflected in [name of approved bank] systems
+[Debt Management Firm Client Bank Account] [00-00-00 12345678] [DM FIRM CLIENT A/C]
+9. Where a client bank account acknowledgement letter is intended to cover a range of client bank accounts, some of which may not exist as at the date the client bank account acknowledgement letter is countersigned by the approved bank, a CASS debt management firm should set out in the space provided in the body of the client bank account acknowledgement letter that it is intended to apply to all present and future accounts which: (a) are titled in a specified way (e.g. with the word ‘client’ in their title); and (b) which possess a common unique identifier or which may be clearly identified by a range of unique identifiers (e.g. all accounts numbered between XXXX1111 and ZZZZ9999). For example, in the space provided in the template letter in CASS 11 Annex 1 which allows a CASS debt management firm to include the account title and a unique identifier for each relevant account, a CASS debt management firm should include a statement to the following effect:
+Any account open at present or to be opened in the future which contains the term [‘client’][insert appropriate abbreviation of the term ‘client’ as agreed and to be reflected in the Approved Bank’s systems] in its title and which may be identified with [the following [insert common unique identifier]][an account number from and including [XXXX1111] to and including [ZZZZ9999]][clearly identify range of unique identifiers].
+Signatures and countersignatures
+10. A CASS debt management firm should ensure that each client bank account acknowledgement letter is signed and countersigned by all relevant parties and individuals (including where a firm or the approved bank may require more than one signatory).
+11. A client bank account acknowledgement letter that is signed or countersigned electronically should not, for that reason alone, result in a breach of the rules in CASS 11.8. However, where electronic signatures are used, a CASS debt management firm should consider whether, taking into account the governing law and choice of competent jurisdiction, it needs to ensure that the electronic signature and the certification by any person of such signature would be admissible as evidence in any legal proceedings in the relevant jurisdiction in relation to any question as to the authenticity or integrity of the signature or any associated communication.
+Completing a client bank account acknowledgment letter
+12. A CASS debt management firm should use at least the same level of care and diligence when completing a client bank account acknowledgement letter as it would in managing its own commercial agreements.
+13. A CASS debt management firm should ensure that each client bank account acknowledgement letter is legible (e.g. any handwritten details should be easy to read), produced on the firm's own letter-headed paper, dated and addressed to the correct legal entity (e.g. where the approved bank belongs to a group of companies).
+14. A CASS debt management firm should also ensure each client bank account acknowledgement letter includes all the required information (such as account names and numbers, the parties’ full names, addresses and contact information, and each signatory’s printed name and title).
+15. A CASS debt management firm should similarly ensure that no square brackets remain in the text of each client bank account acknowledgement letter (e.g. after having removed or included square bracketed text, as appropriate, or having replaced square bracketed and italicised text with the required information as indicated in the templates in CASS 11 Annex 1) and that each page of the letter is numbered.
+16. A CASS debt management firm should complete a client bank account acknowledgement letter so that no part of the letter can be easily altered (e.g. the letter should be signed in ink rather than pencil).
+17. In respect of the client bank account acknowledgement letter's governing law and choice of competent jurisdiction (see paragraphs (l) and (m) of the template client bank account acknowledgement letters), a CASS debt management firm should agree with the approved bank and reflect in the letter that the laws of a particular jurisdiction will govern the client bank account acknowledgement letter and that the courts of that same jurisdiction will have jurisdiction to settle any disputes arising out of, or in connection with, the client bank account acknowledgement letter, its subject matter or formation.
+18. If a CASS debt management firm does not, in any client bank account acknowledgement letter, utilise the governing law and choice of competent jurisdiction that is the same as either or both:
+(a) the laws of the jurisdiction under which either the firm or the relevant approved bank are organised; or
+(b) as is found in the underlying agreement/s (e.g. banking services agreement) with the relevant approved bank;
+then the CASS debt management firm should consider whether it is at risk of breaching either CASS 11.8.4 R (3) or, if it is a CASS large debt management firm, CASS 11.7.2 R.
+Authorised signatories
+19. A CASS debt management firm is required under CASS 11.8.7 R to use reasonable endeavours to ensure that any individual that has countersigned a client bank account acknowledgement letter returned to the firm was authorised to countersign the letter on behalf of the relevant approved bank.
+20. If an individual that has countersigned a client bank account acknowledgement letter does not provide the CASS debt management firm with sufficient evidence of his/her authority to do so then the CASS debt management firm is expected to make appropriate enquiries to satisfy itself of that individual’s authority.
+21. Evidence of an individual’s authority to countersign a client bank account acknowledgement letter may include a copy of the approved bank's list of authorised signatories, a duly executed power of attorney, use of a company seal or bank stamp, and/or material verifying the title or position of the individual countersigning the client bank account acknowledgement letter.
+22. A CASS debt management firm should ensure it obtains at least the same level of assurance over the authority of an individual to countersign the client bank account acknowledgement letter as the firm would seek when managing its own commercial arrangements.
+Third party administrators
+23. If a CASS debt management firm uses a third party administrator (TPA) to carry out the administrative tasks of drafting, sending and processing a client bank account acknowledgement letter, the text "[Signed by [Name of Third Party Administrator] on behalf of [CASS debt management firm]]" should be inserted to confirm that the client bank account acknowledgement letter was signed by the TPA on behalf of the CASS debt management firm.
+24. In these circumstances, the CASS debt management firm should first provide the TPA with the requisite authority (such as a power of attorney) before the TPA will be able to sign the client bank account acknowledgement letter on the CASS debt management firm's behalf. A CASS debt management firm should also ensure that the client bank account acknowledgement letter continues to be drafted on letter-headed paper belonging to the CASS debt management firm.
+Client bank accounts
+25. A CASS debt management firm must ensure that each of its client bank accounts follows the naming conventions prescribed in the Glossary. This includes ensuring that all client bank accounts include the term ‘client’ in their title or an appropriate abbreviation in circumstances where this is permitted by the Glossary definition.
+26. All references to the term “Client Bank Account[s]” in a client bank account acknowledgement letter should also be made consistently in either the singular or plural, as appropriate.

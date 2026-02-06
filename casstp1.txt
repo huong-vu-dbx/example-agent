@@ -1,0 +1,210 @@
+CASS 1A.3.1 C
+R
+A firm which has only an interim permission, and which is in the situation described in this rule:
+(1) need not comply with CASS 1A.3.1 CR (1); and
+(2) need only allocate responsibility for the functions described in CASS 1A.3.1 CR (2) to any director or senior manager.
+For as long as the firm has only an interim permission.
+-1
+CASS 1A
+R
+Expired
+1
+CASS 2 to CASS 4
+R
+[deleted]
+2
+Every rule in the Handbook
+R
+Expired
+G
+Expired
+2A
+G
+[deleted]
+3
+CASS 5.1 to CASS 5.6
+R
+Apply in relation to money (and where appropriate designated investments) held by a firm on 14 January 2005 (being money or designated investments to which CASS 5.1 to CASS 5.6 would not otherwise apply) to the extent that such money (or designated investments) relate to business carried on before 14 January 2005 and which would, if conducted on or after 14 January 2005, be an insurance mediation activity and if conducted on or after 1 October 2018, be an insurance distribution activity.
+Indefinitely
+14 January 2005
+3A
+CASS 5.1 to CASS 5.6
+R
+Apply in relation to money (and where appropriate designated investments) held by a firm on 1 October 2018 (being money or designated investments to which CASS 5.1 to CASS 5.6 would not otherwise apply) to the extent that such money (or designated investments) relate to business carried on before 1 October 2018 and which would, if conducted on or after 1 October 2018, be reinsurance distribution.
+Indefinitely
+1 October 2018
+4
+CASS 5.1.5A R
+R
+Expired
+5
+CASS 5.3.2 R
+R
+Expired
+6
+CASS 5.4.7 R
+R
+Expired
+7
+CASS 5.5.65 R
+R
+Expired
+7A
+CASS 6.1.6B R
+R
+Firms need not comply with this rule in respect of any arrangement relating to the transfer of full ownership of a client's safe custody asset to the firm for the purposes set out in CASS 6.1.6 R (1) and CASS 6.1.6A R (1) that existed before 1 December 2014, unless and until the arrangement is materially amended on or after that date. Firms must comply with this rule in respect of any arrangement for such purposes that is entered into on or after 1 December 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+7B
+CASS 6.1.12 R to CASS 6.1.12C G
+R
+(1) Firms need not comply with these rules in respect of a business relationship with a particular client consisting of the provision of either or both MiFID business or designated investment business services that existed before 1 December 2014, unless and until the terms governing the relationship are materially amended on or after that date. Firms must comply with these rules in respect of any such relationship that is entered into on or after 1 December 2014.
+(2) Where the rules in column (2) are disapplied by (1), CASS 6.1.12 R to CASS 6.1.16 G will continue to apply as they were in force as at 30 November 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+7C
+CASS 6.3.4B G
+R
+Firms need not comply with this rule in respect of arrangements with third parties with whom it deposits clients' safe custody assets or arranges safeguarding and administration of assets which are clients' safe custody assets that were entered into before 1 December 2014, unless and until they are materially amended on or after that date. Firms must comply with this rule in respect of any arrangements with such third parties that are entered into on or after 1 December 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+8
+CASS 6.3.5 R
+[deleted]
+8A
+CASS 6.3.5 R to CASS 6.3.8R
+R
+Expired
+G
+Notwithstanding the operation of CASS TP 1.1R(8A), a firm should as soon as reasonably practicable modify its agreement with that third party so as to meet the requirements of CASS 6.3.5 R to CASS 6.3.8 R.
+9
+CASS 6.1.6 R (2) and CASS 6.1.6A R
+[deleted]
+9A
+CASS 7.1.8C R to CASS 7.1.8D R and CASS 7.1.10A R to CASS 7.1.10C R
+R
+Firms need not comply with these rules in respect of a business relationship with a particular client that existed before 1 December 2014, unless and until the terms governing the relationship are materially amended on or after that date. Firms must comply with this rule in respect of any such relationship that is entered into on or after 1 December 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+9B
+CASS 7.2.3B R
+R
+Firms need not comply with this rule in respect of any arrangement relating to the transfer of full ownership of a client's money to the firm for the purposes set out in CASS 7.2.3R (1) and CASS 7.2.3AR (1) that existed before 1 December 2014, unless and until the arrangement is materially amended on or after that date. Firms must comply with this rule in respect of any arrangement for such purposes that is entered into on or after 1 December 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+9C
+CASS 7.10.7AR(2)
+R
+A firm need not give the FCA at least one month’s notice under this rule, if it informs the FCA immediately at the time of making the election under CASS 7.10.7AR(1).
+From 21 March 2016 to 22 April 2016
+21 March 2016
+9D
+CASS 7.10.7BR(1)
+R
+A firm need not give customers at least one month’s advance notice under this rule, if it informs customers as soon as practicable at the time of making the election under CASS 7.10.7AR(1).
+From 21 March 2016 to 22 April 2016
+21 March 2016
+10
+CASS 7.2.3R (2) and CASS 7.2.3A R
+[deleted]
+10A
+CASS 7.13.13R (2)
+R
+(1) The rule in column (1) applies when a firm enters into a new contract with a bank to provide a client bank account.
+(2) In relation to an arrangement under which a firm holds a client bank account with a bank that is in place as at the date in column (5), and as soon as it is permitted to do so under that arrangement, the firm must terminate any contract that does not comply with the rule in column (1) and enter into a new contract (in respect of which (1) shall apply). If necessary to comply with the rule in column (1), a firm must move client money into another client bank account under compliant terms.
+Indefinitely
+1 July 2014
+10B
+CASS 7.2.8AA R to CASS 7.2.8AE R
+R
+(1) These rules do not apply in respect of a business relationship with a particular client that existed before 1 December 2014, unless and until the terms governing the relationship are materially amended on or after that date. Firms must comply with this rule in respect of any such relationship that is entered into on or after 1 December 2014.
+(2) Where the rules in column (2) are disapplied by (1), CASS 7.2.8 R to CASS 7.2.11 G will continue to apply as they were in force as at 30 November 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+10C
+CASS 7.4.17B R to CASS 7.4.19C R
+R
+(1) Firms that are operating the alternative approach for any business line on 30 November 2014, having previously sent a written confirmation to the FCA under CASS 7.4.15 R, need not comply with the rules in column (1) for such business line during the period in column (5) and may continue to segregate client money during that period for such business line on the basis set out in that confirmation to the FCA, unless and until during the period in column (5) they start complying with CASS 7.4.18A R to CASS 7.4.19C R for such business line having already complied with CASS 7.4.17B R to CASS 7.4.17E R.
+(2) In circumstances where the rules in column (2) are disapplied by (1), CASS 7.4.16 G to CASS 7.4.19 G will continue to apply as they were in force as at 30 November 2014.
+From 1 December 2014 to 31 May 2015
+1 December 2014
+10D
+CASS 7.6.6A R
+R
+(1) A firm operating an internal reconciliation of client money balances that is not a standard method of internal client money reconciliation as at 30 November 2014 need not comply with this rule, except to the extent referred to in (3).
+(2) Where a firm does not comply with the rule in column (2) in accordance with (1), CASS 7.6.7 R and CASS 7.6.8 R will continue to apply to that firm as they were in force as at 30 November 2014.
+(3)(a) In order for a firm within (1) to operate an internal reconciliation that is not a standard method of internal client money reconciliation on 1 June 2015 it must, before that date, have complied with CASS 7.6.6AR (1)(b) and (c).
+(3)(b) A firm within paragraph (1) that materially changes its internal reconciliation method that is not a standard method of internal client money reconciliation on or after 1 December 2014 must, notwithstanding (1), comply with the rule in column (2) from the date it makes these material changes.
+(4) In order for any firm not within (1) to operate an internal reconciliation that is not a standard method of internal client money reconciliation on 1 December 2014 it must, before that date, have complied with CASS 7.6.6AR (1)(b) and (c).
+From 1 December 2014 to 31 May 2015
+1 December 2014
+10E
+The changes to CASS 7.8 in Part 2 of Annex C of the Client Assets Sourcebook (Amendment No 5) Instrument 2014
+R
+(1) Where the conditions in (2) are met in respect of a firm's client bank account or client transaction account, the changes effected by the provisions in the Annex listed in column (2) do not apply to the firm in respect of the client bank account or client transaction account and therefore the provisions in CASS 7.8.1 R and CASS 7.8.2 R amended by that Annex will continue to apply as they were in force as at 31 November 2014.
+(2) The conditions are: (a) the client bank account or client transaction account was opened by the firm before 1 December 2014; (b) the firm complied with CASS 7.8.1 R or CASS 7.8.2 R (as appropriate) in respect of the client bank account or client transaction account before 1 December 2014; and (c) the client bank account or client transaction account is not transferred to another person during the period in column (5).
+From 1 December 2014 to 1 June 2015
+1 December 2014
+10EA
+The changes to CASS in Annex A of the Client Assets (Term Deposits) Instrument 2018
+R
+The changes effected by the provisions in the Annex listed in column (2) do not apply to any firm in respect of which:
+(1) prior to 22 January 2018 the FCA has directed under s.138A of the Act that CASS 7.13.13R(3) be applied with modifications; and
+(2) such a direction is in effect on 22 January 2018.
+From 22 January 2018 to the date on which the relevant direction referred to in column (4) ceases to have effect.
+22 January 2018
+10F
+CASS 7.18.3(3)
+R
+A firm will not be in breach of the requirement under this rule to not allow the relevant person to hold any client money in a client transaction account maintained by that person for the firm unless the firm has received a duly countersigned client transaction account acknowledgement letter from that person, provided that:
+(i) the breach is only in respect of a failure to use the template in CASS 7 Annex 3R, where such failure results only from amendments to the template made under the Client Assets (Indirect Clearing) Instrument 2017; and
+(ii) the relevant client transaction account is identified in a letter that was countersigned and returned to the firm before 3 January 2018, and which met the requirements of CASS 7.18.3R(3) immediately before the Client Assets (Indirect Clearing) Instrument 2017 came into force.
+3 January 2018 to 3 March 2018
+1 June 2015
+11
+CASS 7 and CASS 7A
+R
+Expired
+12
+CASS 7 and CASS 7A
+R
+(1) The rules in column (2) apply to an operator of an electronic system in relation to lending where the FCA or PRA has granted an application made by the firm for Part 4A permission and an interim permission the firm was treated as having has ceased to have effect.
+Indefinitely
+1 April 2014
+(2) The rules in column (2) apply in relation to money held by the firm on the date on which the written notice given by the FCA or PRA under section 55V(5) of the Act takes effect, to the extent that such money was received, or is held in the course of or in connection with the operation of an electronic system in relation to lending carried on before that date (or business carried on before 1 April 2014 and which would, if conducted on or after 1 April 2014, be money which was received, or held in the course of or in connection with the operation of an electronic system in relation to lending).
+12A
+CASS 9.4
+R
+Firms need not comply with this rule in respect of a business relationship with a particular client consisting of the provision of either or both MiFID business or designated investment business services that existed before 1 December 2014, unless and until the terms governing the relationship are materially amended on or after that date. Firms must comply with this rule in respect of any such relationship that is entered into on or after 1 December 2014.
+From 1 December 2014 to 1 June 2015
+1 December 2014
+13
+CASS 11
+R
+(1) CASS 11 does not apply to a CASS debt management firm which is a not-for-profit debt advice body treated as having Part 4A permission on and after 1 April 2014 by virtue of article 60 of the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 until 1 October 2014, if the firm acts in accordance with the provisions of paragraphs 3.42 and 3.43 of the Debt management (and credit repair services) guidance (OFT366rev) previously issued by the Office of Fair Trading, as they were in effect immediately before 1 April 2014.
+Indefinitely
+1 April 2014
+(2) CASS 11 applies in relation to money held by a CASS debt management firm within (1) on 1 October 2014 to the extent that such money was received, or is held on behalf of an individual, in the course of or in connection with debt management activity carried on before that date (or business carried on before 1 April 2014 and which would, if conducted on or after 1 April 2014, be a debt management activity).
+14
+CASS 11
+R
+(1) This rule applies to a CASS debt management firm where the FCA or PRA has granted an application made by the firm for Part 4A permission and an interim permission the firm was treated as having has ceased to have effect.
+Indefinitely
+1 April 2014
+(2) CASS 11 applies in relation to money held by the CASS debt management firm on the date on which the written notice given by the FCA or PRA under section 55V(5) of the Act takes effect, to the extent that such money was received, or is held on behalf of an individual, in the course of or in connection with debt management activity carried on before that date (or business carried on before 1 April 2014 and which would, if conducted on or after 1 April 2014, be a debt management activity).
+(15)
+CASS 13
+R
+CASS 13 applies in relation to money held by the firm on 1 April 2019 to the extent that such money was received or is held on behalf of an individual, in the course of or in connection with the performance of activities which were:
+Indefinitely
+1 April 2019
+(a)
+carried on before 1 April 2019; and
+(b)
+would, if carried on after that date, be regulated claims management activities.
+(16)
+CASS 13
+G
+The rule in (15) applies to the firm irrespective of whether it has a claims management temporary permission or a Part 4A permission.
+Indefinitely
+1 April 2019

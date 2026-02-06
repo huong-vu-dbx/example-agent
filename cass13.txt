@@ -1,0 +1,623 @@
+CASS 13 Claims management: client money
+You are viewing CASS 13 Claims management: client money as of 06/02/2026. CASS 13 Claims management: client money was last updated on 02/08/2024.
+Rules
+Guidance
+Evidential Provisions
+Related resources
+CASS 13.1 Application
+CASS 13.1.1
+01/04/2019
+R
+This chapter applies to a firm that:
+(1) carries on a regulated claims management activity; and
+(2) receives or holds client money.
+CASS 13.2 Organisational requirements and responsibility for CASS operational oversight
+CASS 13.2.1
+01/04/2019
+R
+A firm must, when holding client money, make adequate arrangements to safeguard the customer’s rights and prevent the use of client money for its own account.
+CASS 13.2.2
+01/04/2019
+R
+A firm must introduce adequate organisational arrangements to minimise the risk of the loss or diminution of client money, or of rights in connection with client money, as a result of misuse of client money, fraud, poor administration, inadequate record-keeping or negligence.
+CASS 13.2.3
+01/04/2019
+R
+A firm must allocate to a director or senior manager responsibility for:
+(1) oversight of the firm’s operational compliance with CASS 13;
+(2) reporting to the firm’s governing body in respect of that oversight; and
+(3) completing and submitting the client money parts of a CMC001 return in accordance with SUP 16.25.3R to SUP 16.25.8R.
+CASS 13.2.4
+01/04/2019
+R
+(1) A firm must make and retain an appropriate record of the person to whom responsibility is allocated in accordance with CASS 13.2.3R.
+(2) But a firm must make and retain such a record only where:
+(a) there is a person in that firm who performs the compliance oversight function; and
+(b) it allocates responsibility in accordance with CASS 13.2.3R to a person other than the person in that firm who performs the compliance oversight function.
+(3) A firm must ensure that a record made under this rule is retained for a period of five years after it is made.
+CASS 13.2.5
+23/10/2020
+G
+(1) This paragraph CASS 13.2.5G explains how CASS 13.2.3R fits into the senior managers and certification regime. This paragraph does not deal with a firm that is a PRA-authorised person.
+(2) The senior managers and certification regime is summarised in SYSC 23.3 (Overview of the senior managers and certification regime).
+(3) The function in CASS 13.2.3R is not a separate controlled function and performing that function does not require approval as an approved person.
+(4) There are three elements of the senior managers and certification regime that are particularly relevant to CASS 13.2.3R, although they do not all apply to all SMCR firms:
+(a) a firm’s obligation to allocate certain responsibilities to its SMF managers (see SYSC 24 (Senior managers and certification regime: Allocation of prescribed responsibilities));
+(b) a firm’s obligation to ensure that one or more of its SMF managers have overall responsibility for each of its activities, business areas and management functions (see SYSC 26 (Senior managers and certification regime: Overall and local responsibility)); and
+(c) the certification regime (the certification regime is explained in SYSC 27 (Senior managers and certification regime: Certification regime) and SYSC TP 7 (Bank of England and Financial Services Act 2016: Certification and regulatory references) explains that the certification regime comes into force sometime after other parts of the senior managers and certification regime).
+(5)
+(a) This paragraph (5) explains how CASS 13.2.3R applies to a limited scope SMCR firm. Most firms carrying on a regulated claims management activity will be limited scope SMCR firms.
+(b) Neither SYSC 24 nor SYSC 26 applies to a limited scope SMCR firm.
+(c) The firm may choose to allocate the function in CASS 13.2.3R to an SMF manager.
+(d) The firm may instead choose to allocate the function in CASS 13.2.3R to someone who is not an SMF manager.
+(e) Where (d) applies, the person performing the function in CASS 13.2.3R will fall into the certification regime. The function in CASS 13.2.3R will be the CASS oversight FCA certification function in SYSC 27.8.1R.
+(6)
+(a) This paragraph (6) explains how CASS 13.2.3R applies to a core SMCR firm.
+(b) SYSC 24 applies to a core SMCR firm but SYSC 26 does not.
+(c) The firm must allocate responsibility for the firm’s compliance with CASS to one of its SMF managers (see SYSC 24.2.1R). That responsibility is an “FCA-prescribed senior management responsibility”. The full list of FCA-prescribed senior management responsibilities is in the table in SYSC 24.2.6R.
+(d) Although the CASS function in SYSC 24.2.1R is different from the function in CASS 13.2.3R, the firm may allocate the function in CASS 13.2.3R to the SMF manager in CASS 13.2.5G(6)(c).
+(e) The firm may choose to allocate the function in CASS 13.2.3R to someone who is not an SMF manager. If so:
+(i) that person will be subject to the certification regime described in SYSC 27 (Senior managers and certification regime: Certification regime);
+(ii) that person will be subject to supervision by the SMF manager in (c); and
+(iii) the function in CASS 13.2.3R will be the CASS oversight FCA certification function in SYSC 27.8.1R.
+(7)
+(a) This paragraph (7) explains how CASS 13.2.3R applies to an enhanced scope SMCR firm.
+(b) Both SYSC 24 and SYSC 26 apply to an enhanced scope SMCR firm.
+(c) CASS 13.2.5G(6) applies to an enhanced scope SMCR firm.
+(d) In addition, the firm may allocate the CASS FCA-prescribed senior management responsibility to an SMF manager who does not perform any other function coming within the FCA regime for SMF managers in SMCR firms. See SUP 10C0.7 (Other overall responsibility function (SMF18)) and SUP 10C.8.1R (Other local responsibility function (SMF22)) for details. Where this is the case, the manager will be performing the other overall responsibility function or the other local responsibility function.
+(8) A firm may only give the function in CASS 13.2.3R to a director or senior manager. It is likely that an SMF manager will satisfy this condition. If the firm wants to give the function to someone else, it should make sure that it meets the requirements of CASS 13.2.3R as well as of the senior managers and certification regime.
+CASS 13.3 Statutory trust
+CASS 13.3.1
+01/04/2019
+R
+A firm receives and holds client money as trustee on the following terms:
+(1) for the purposes and on the terms of the claims management client money rules and the claims management client money distribution rules;
+(2) subject to (3), for the customers for whom that money is held, according to their respective interests in it;
+(3) on failure of the firm, for the payment of the costs properly attributable to the distribution of the client money in accordance with (2); and
+(4) after all valid claims and costs under (2) and (3) have been met, for the firm itself.
+CASS 13.4 Selecting an approved bank at which to hold client money
+CASS 13.4.1
+01/04/2019
+G
+A firm owes a duty of care as a trustee to its clients in relation to client money and has to exercise that duty of care in deciding where to hold client money.
+CASS 13.4.2
+01/04/2019
+R
+Before a firm opens a client bank account and as often as is appropriate on a continuing basis (such frequency being no less than once in each financial year) it must take reasonable steps to establish that it is appropriate for the firm to hold client money at the approved bank concerned.
+CASS 13.4.3
+01/04/2019
+R
+A firm must consider the risks associated with holding all client money with one approved bank and should consider whether it would be appropriate to hold client money in client bank accounts at a number of different approved banks.
+CASS 13.4.4
+01/04/2019
+G
+In complying with CASS 13.4.3R, a firm should consider as appropriate, together with any other relevant matters:
+(1) the amount of client money held by the firm;
+(2) the amount of client money the firm anticipates holding at the approved bank; and
+(3) the creditworthiness of the approved bank.
+CASS 13.4.5
+01/04/2019
+G
+A firm can demonstrate compliance with CASS 13.4.2R by checking that the person it proposes to hold client money with is an approved bank and that nothing has come to the firm’s attention to cause it to believe that such person is not an appropriate place at which to hold client money.
+CASS 13.5 Client bank account acknowledgement letters
+CASS 13.5.1
+01/04/2019
+G
+The main purposes of a client bank account acknowledgement letter are:
+(1) to put the approved bank on notice of a firm’s clients’ interests in client money that has been deposited with such person;
+(2) to ensure that the client bank account has been opened in accordance with CASS 13.6.3R, and is distinguished from any account containing money that belongs to the firm; and
+(3) to ensure that the approved bank understands and agrees that it will not have any recourse or right against money standing to the credit of the client bank account, in respect of any liability of the firm to such person (or person connected to such person).
+Requirement for and content of client bank account acknowledgement letters
+CASS 13.5.2
+01/04/2019
+R
+(1) For each client bank account, a firm must, in accordance with CASS 13.5.4R, complete and sign a client bank account acknowledgement letter clearly identifying the client bank account, and send it to the approved bank with whom the client bank account is, or will be, opened, requesting the bank to acknowledge and agree to the terms of the letter by countersigning it and returning it to the firm.
+(2) Subject to CASS 13.5.6R, a firm must not hold or receive any client money in or into a client bank account unless it has received a duly countersigned client bank account acknowledgement letter from the approved bank. The letter must not have been inappropriately redrafted and should clearly identify the client bank account.
+CASS 13.5.3
+01/04/2019
+R
+In drafting client bank account acknowledgement letters under CASS 13.5.2R a firm is required to use the relevant template in CASS 13 Annex 1R.
+CASS 13.5.4
+01/04/2019
+R
+When completing a client bank account acknowledgement letter under CASS 13.5.2R(1) a firm:
+(1) must not amend any of the acknowledgement letter fixed text;
+(2) subject to (3), must ensure the acknowledgement letter variable text is removed, included or amended as appropriate; and
+(3) must not amend any of the acknowledgement letter variable text in a way that would alter or otherwise change the meaning of the acknowledgement letter fixed text.
+CASS 13.5.5
+01/04/2019
+G
+CASS 13 Annex 2G contains guidance on using the template client bank account acknowledgement letters, including on when and how firms should amend the acknowledgement letter variable text that is in square brackets.
+Countersignature by the bank
+CASS 13.5.6
+01/04/2019
+R
+(1) If, on countersigning and returning the client bank account acknowledgement letter to a firm, the relevant approved bank has also:
+(a) made amendments to any of the acknowledgement letter fixed text; or
+(b) made amendments to any of the acknowledgement letter variable text in a way that would alter or otherwise change the meaning of the acknowledgement letter fixed text;
+the client bank account acknowledgement letter will have been inappropriately redrafted for the purposes of CASS 13.5.2R(2).
+(2) Amendments made to the acknowledgement letter variable text, in the client bank account acknowledgement letter returned to a firm by the relevant approved bank, will not have the result that the letter has been inappropriately redrafted if those amendments:
+(a) do not affect the meaning of the acknowledgement letter fixed text;
+(b) have been specifically agreed with the firm; and
+(c) do not cause the client bank account acknowledgement letter to be inaccurate.
+CASS 13.5.7
+01/04/2019
+R
+A firm must use reasonable endeavours to ensure that any individual that has countersigned a client bank account acknowledgement letter that has been returned to the firm was authorised to countersign the letter on behalf of the relevant approved bank.
+Retention of client bank account acknowledgement letters
+CASS 13.5.8
+01/04/2019
+R
+A firm must retain each countersigned client bank account acknowledgement letter it receives from the date of receipt until the expiry of a period of five years starting on the date on which the last client bank account to which the acknowledgment letter relates is closed.
+CASS 13.5.9
+01/04/2019
+R
+A firm must also retain any other documentation or evidence it believes is necessary to demonstrate that it has complied with each of the applicable requirements in this section (such as any evidence it has obtained to ensure that the individual that has countersigned a client bank account acknowledgement letter that has been returned to the firm was authorised to countersign the letter on behalf of the relevant approved bank).
+Review and replacement of client bank account acknowledgement letters
+CASS 13.5.10
+01/04/2019
+R
+A firm must, periodically (at least annually, and whenever it becomes aware that something referred to in a client bank account acknowledgement letter has changed) review each of its countersigned client bank account acknowledgement letters to ensure that they remain accurate.
+CASS 13.5.11
+01/04/2019
+R
+Whenever a firm finds a countersigned client bank account acknowledgement letter to contain an inaccuracy, the firm must promptly draw up a new replacement client bank account acknowledgement letter under CASS 13.5.2R and ensure that the new client bank account acknowledgement letter is duly countersigned and returned by the relevant approved bank.
+CASS 13.5.12
+01/04/2019
+G
+Under CASS 13.5.10R, a firm should obtain a replacement client bank account acknowledgement letter whenever:
+(1) there has been a change in any of the parties’ names or addresses or a change in any of the details of the relevant account(s) as set out in the letter; or
+(2) it becomes aware of an error or misspelling in the letter.
+CASS 13.5.13
+01/04/2019
+R
+If a firm’s client bank account is transferred to another approved bank, the firm must promptly draw up a new client bank account acknowledgement letter under CASS 13.5.2R and ensure that the new client bank account acknowledgement letter is duly countersigned and returned by the relevant approved bank within 20 business days of the firm sending it to that person.
+CASS 13.6 Segregation and the operation of client money accounts
+Requirement to segregate
+CASS 13.6.1
+01/04/2019
+R
+A firm must take all reasonable steps to ensure that all client money it receives is paid directly into a client bank account at an approved bank, rather than being first received into the firm’s own account and then segregated.
+CASS 13.6.2
+01/04/2019
+G
+A firm should arrange for clients and third parties to make transfers and payments of any money which will be client money directly into the firm’s client bank accounts.
+CASS 13.6.3
+01/04/2019
+R
+A firm must ensure that client money is held in a client bank account at one or more approved banks.
+CASS 13.6.4
+01/04/2019
+R
+Cheques received by a firm, made out to the firm, representing client money or a mixed remittance must be treated as client money from receipt by the firm.
+CASS 13.6.5
+01/04/2019
+R
+Where a firm receives client money in the form of cash, a cheque or other payable order, it must:
+(1) pay the money into a client bank account in accordance with CASS 13.6.1R promptly and no later than the business day after the day on which it receives the money;
+(2) if the firm holds the money overnight, hold it in a secure location in line with Principle 10; and
+(3) record the receipt of the money in the firm’s books and records under the applicable requirements of CASS 13.10 (Records, accounts and reconciliations).
+CASS 13.6.6
+01/04/2019
+R
+If a firm receives money (either in a client bank account or an account of its own) which it is unable immediately to identify as client money or its own money, it must:
+(1) take all necessary steps to identify the money as either client money or its own money; and
+(2) if it considers it reasonably prudent to do so, given the risk that client money may not be adequately protected if it is not treated as such, treat the entire balance of money as client money and record the money in its books and records as “unidentified client money” while it performs the necessary steps under (1).
+CASS 13.6.7
+01/04/2019
+G
+If a firm is unable to identify money that it has received as either client money or its own money under CASS 13.6.6R(1), it should consider whether it would be appropriate to return the money to the person who sent it (or, if that is not possible, to the source from where it was received, for example, the bank). A firm should have regard to its fiduciary duties when considering such matters.
+CASS 13.6.8
+01/04/2019
+G
+A firm must ensure that client money received by its agents is:
+(1) received directly into a client bank account of the firm; or
+(2) if it is received in the form of a cheque or other payable order:
+(a) paid into a client bank account of the firm promptly and, in any event, no later than the next business day after receipt; or
+(b) forwarded to the firm promptly and, in any event, so that it is received by the firm no later than the close of the third business day following the receipt of the money from the customer; or
+(3) if it is received in the form of cash, paid into a client bank account of the firm promptly and, in any event, no later than the next business day after receipt.
+Mixed remittance
+CASS 13.6.9
+01/04/2019
+R
+If a firm receives a mixed remittance it must:
+(1) pay the full sum into a client bank account promptly and in accordance with CASS 13.6.1R to 13.6.5R; and
+(2) no later than one business day after the payment of the mixed remittance into the client bank account has cleared, pay the money that is not client money out of the client bank account.
+Interest
+CASS 13.6.10
+01/04/2019
+R
+A firm must pay a client any interest earned on client money held for that client.
+CASS 13.7 Money due and payable to the firm
+CASS 13.7.1
+01/04/2019
+R
+Money is not client money when it is or becomes properly due and payable to the firm for its own account.
+CASS 13.7.2
+01/04/2019
+G
+(1) The circumstances in which money may be or become due and payable to the firm for its own account could include:
+(a) when fees and/or third party disbursements have become due and payable to the firm for its own account under the agreement between the customer and the firm; and
+(b) when money recovered for a customer or a sum in respect of damages, compensation or settlement of a claim is paid into a client bank account and the firm has agreed with the client that a proportion of the sum is to be paid to the firm for fees or in respect of liabilities the firm has incurred on behalf of the customer.
+(2) The circumstances in which money is due and payable will depend on the contractual arrangement between the firm and the client.
+CASS 13.7.3
+01/04/2019
+G
+Firms are reminded that when entering into or varying contractual arrangements with customers regarding circumstances in which money becomes properly due and payable to the firm for its own account, firms should comply with any relevant obligations to customers including the client’s best interests rule and requirements under the Unfair Terms Regulations and the Consumer Rights Act 2015.
+CASS 13.8 Money due to a client or third party.
+CASS 13.8.1
+01/04/2019
+R
+Client money in respect of money recovered for a customer or money in respect of damages, compensation or settlement of a claim received into a client bank account must be paid to the customer, or a duly authorised representative of the customer, as soon as reasonably practicable after receipt and, in any event, a firm must take steps within two business days of receipt to make such a payment.
+CASS 13.8.2
+01/04/2019
+R
+Money received from a customer in respect of third party disbursements which is due and payable to the third party in accordance with the terms of the contractual arrangements between the parties should be paid to the third party as soon as reasonably practicable after receipt.
+CASS 13.9 Discharge of fiduciary duty
+CASS 13.9.1
+01/04/2019
+G
+CASS 13 provides important safeguards for the protection of client money held by firms that sit alongside the fiduciary duty owed by firms in relation to client money. CASS 13.9.2R to 13.9.3R provide for when money ceases to be client money for the purposes of CASS 13 and the fiduciary duty which firms owe to clients in relation to client money.
+CASS 13.9.2
+02/08/2024
+R
+Money ceases to be client money if:
+(1) it is paid to the customer, or a duly authorised representative of the customer; or
+(2) it is:
+(a) paid to a third party on the instruction of the customer, or with the specific consent of the customer; or
+(b) paid to a third party further to an obligation on the firm under any applicable law; or
+(3) it is paid into an account of the customer (not being an account which is also in the name of the firm) on the instruction, or with the specific consent, of the customer; or
+(4) it is due and payable to the firm for its own account (see CASS 13.7.1R to 13.7.2G); or
+(5) it is paid to the firm as an excess in the client bank account (see CASS 13.10.15R(3)); or
+(6) it is transferred to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 13.9.4R.
+CASS 13.9.3
+01/04/2019
+R
+When a firm draws a cheque or other payable order to discharge its fiduciary duty to the client, it must continue to treat the sum concerned as client money until the cheque or order is presented and paid.
+Transfers of client money to a dormant asset fund operator under Part 1 of the Dormant Assets Act 2022
+CASS 13.9.4
+02/08/2024
+R
+A firm may transfer a client money balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022. If it does so the transferred balance will cease to be client money under CASS 13.9.2R(6), provided that the firm can demonstrate it took reasonable steps to trace the client concerned and to return the balance prior to making such a transfer.
+CASS 13.9.5
+02/08/2024
+E
+(1) Taking reasonable steps in CASS 13.9.4R includes following this course of conduct:
+(a) determining, as far as reasonably possible, the correct contact details for the relevant client;
+(b) writing to the client at the last known address either by post or by electronic mail to inform it of the firm’s intention to no longer treat the client money balance as client money and to transfer the sums concerned to a dormant asset fund operator if the firm does not receive instructions from the client within 28 days (naming the specific relevant dormant asset fund operator);
+(c) where the client has not responded after the 28 days referred to in (b), attempting to communicate the information set out in (b) to the client on at least one further occasion by any means other than that used in (b) including by post, electronic mail, telephone or media advertisement;
+(d) subject to (e) and (f), where the client has not responded within 28 days following the most recent communication, writing again to the client at the last known address either by post or by electronic mail to inform them:
+(i) that, as the firm did not receive a claim for the relevant client money balance, it will in 28 days transfer the balance to a dormant asset fund operator (naming the specific relevant dormant asset fund operator); and
+(ii) of the steps that they must take to make a repayment claim;
+(e) if the firm has carried out the steps in (b) or (c) and in response has received positive confirmation in writing that the client is no longer at a particular address, the firm should not use that address for the purposes of (d);
+(f) if, after carrying out the steps in (a), (b) and (c), the firm has obtained positive confirmation that none of the contact details it holds for the relevant client are accurate or, if utilised, the communication is unlikely to reach the client, the firm does not have to comply with (d); and
+(g) waiting a further 28 days following the most recent communication under this rule before transferring the balance to the dormant asset fund operator.
+(2) Compliance with (1) may be relied on as tending to establish compliance with CASS 13.9.4R.
+(3) Contravention of (1) may be relied on as tending to establish contravention of CASS 13.9.4R.
+CASS 13.9.6
+02/08/2024
+G
+(1) Unless the firm has failed and CASS 13.3.1R(3) applies, any costs associated with a firm ceasing to treat unclaimed client money balances as client money pursuant to CASS 13.9.4R should be paid for from the firm’s own funds.
+(2) When transferring a client money balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022, a firm will need to consider its obligations under any contractual or other arrangements of the sort described at section 23 of the Dormant Assets Act 2022 in addition to meeting its obligations under the claims management client money rules and the claims management client money distribution rules.
+CASS 13.10 Records, accounts and reconciliations
+Records and accounts
+CASS 13.10.1
+01/04/2019
+R
+(1) A firm must keep such records and accounts as are necessary to enable it, at any time and without delay, to distinguish client money held for one customer from client money held for any other customer, and from its own money.
+(2) A firm must allocate in its books and records any client money it receives to an individual customer promptly and, in any case, no later than two business days following the receipt.
+(3) Pending a firm’s allocation of a receipt of client money to an individual customer under (2), it must record the received client money in its books and records as “unallocated client money”.
+CASS 13.10.2
+01/04/2019
+G
+In accordance with CASS 13.10.1R, a firm must maintain internal records and accounts of the client money it holds (for example, a cash book and client ledger accounts). These internal records are separate to any external records it has obtained from approved banks with whom it has deposited client money (for example, bank statements).
+CASS 13.10.3
+01/04/2019
+R
+A firm must maintain its records and accounts in a way that ensures their accuracy and, in particular, their correspondence to the client money held for individual customers.
+CASS 13.10.4
+01/04/2019
+R
+A firm must maintain up-to-date records that detail all payments received for, or on behalf of, customers and all payments to, from, or made on behalf of, customers.
+Internal client money reconciliation
+CASS 13.10.5
+01/04/2019
+R
+A firm must carry out an internal client money reconciliation each business day.
+CASS 13.10.6
+01/04/2019
+R
+An internal client money reconciliation requires a firm to check whether its client money resource, as determined by CASS 13.10.8R, on the previous business day, was at least equal to the client money requirement, as determined by CASS 13.10.9R, as at the close of business on that day.
+CASS 13.10.7
+01/04/2019
+R
+In carrying out an internal client money reconciliation, a firm must use the values contained in its internal records and ledgers (for example, its cash book or other internal accounting records), rather than the values contained in the records it has obtained from approved banks with whom it has deposited client money (for example, bank statements).
+Calculating the client money resource
+CASS 13.10.8
+01/04/2019
+R
+The client money resource for client money held in accordance with CASS 13.10.6R is the aggregate of the balances on the firm’s client bank accounts, as at the close of business on the previous business day.
+Calculating the client money requirement
+CASS 13.10.9
+01/04/2019
+R
+(1) The client money requirement is the sum of:
+(a) the aggregate of all individual customer balances calculated in accordance with CASS 13.10.13R and CASS 13.10.14R;
+(b) the amount of any unallocated client money under CASS 13.10.1R(3);
+(c) the amount of any unidentified client money under CASS 13.6.6R(2)R; and
+(d) any other amounts of client money included in the calculation under (2).
+(2) For the purposes of (1)(d), the firm must consider whether there are amounts of client money, other than those in (1)(a) to (c), to which the requirement to segregate applies and that it is appropriate to include in the calculation of its client money requirement and, if so, adjust the calculation accordingly.
+CASS 13.10.10
+01/04/2019
+G
+The client money requirement calculated in accordance with CASS 13.10.9R should represent the total amount of client money a firm is required to have segregated in client bank accounts under CASS 13.
+CASS 13.10.11
+01/04/2019
+G
+Firms are reminded that, under CASS 13.9.3R, if a firm has drawn any cheques, or other payable orders, to discharge its fiduciary duty to its clients (for example, to return client money to the client), the sum concerned must be included in the firm’s calculation of its client money requirement until the cheque or order is presented and paid.
+CASS 13.10.12
+01/04/2019
+G
+(1) The following guidance applies where a firm receives client money in the form of cash, a cheque or other payable order.
+(2) In carrying out the calculation of the client money requirement, a firm may initially include the amount of client money received as cash, cheques or payment orders that has not yet been deposited in a client bank account in line with CASS 13.6.5R. If it does so, the firm should ensure, before finalising the calculation, that it deducts these amounts to avoid them giving rise to a difference between the firm’s client money requirement and client money resource.
+(3) In carrying out the calculation of the client money requirement, a firm may alternatively exclude the amount of client money received as cash, cheques or payment orders that has not yet been deposited in a client bank account in line with CASS 13.6.5R. If it does so, the firm is reminded that it must separately record the receipt of the money in the firm’s books and records under CASS 13.6.5R(3).
+(4) A firm that receives client money in the form of cash, a cheque or other payable order is reminded that it must pay that money into a client bank account promptly and no later than on the business day after it receives the money (see CASS 13.6.5R).
+CASS 13.10.13
+01/04/2019
+R
+The individual customer balance for each client must be calculated as follows:
+(1) the amount received for or on behalf of the customer by the firm; plus
+(2) the amount of any interest, and any other sums, due from the firm to the customer; less:
+(3) the aggregate of the amount of money:
+(a) paid to that customer by the firm; and
+(b) due and payable by the customer to the firm; and
+(c) due by the customer to a third party in accordance with the contractual arrangements in place between the firm and the customer.
+CASS 13.10.14
+01/04/2019
+R
+Where the individual customer balance calculated in respect of an individual client under CASS 13.10.13R is a negative figure (because the amounts received for or on behalf of, or due, to a client under CASS 13.10.13R(1) and CASS 13.10.13R(2) are less than the amounts paid by, or due and payable by, that customer under CASS 13.10.13R(3), that individual customer balance should be treated as zero for the purposes of the calculation of the firm’s client money requirement in CASS 13.10.9R.
+Reconciliation differences and discrepancies
+CASS 13.10.15
+01/04/2019
+R
+When an internal client money reconciliation reveals a difference between the client money resource and its client money requirement a firm must:
+(1) identify the reason for the difference;
+(2) ensure that any shortfall in the amount of the client money resource as compared to the amount of the client money requirement is made up by a payment into the firm’s client bank accounts by the end of the business day following the day on which the difference was discovered; and
+(3) ensure that any excess in the amount of the client money resource as compared to the amount of the client money requirement is withdrawn from the firm’s client bank accounts by the end of the business day following the day on which the difference was discovered.
+External client money reconciliation
+CASS 13.10.16
+01/04/2019
+G
+The purpose of the reconciliation process required by CASS 13.10.17R is to ensure the accuracy of a firm’s internal accounts and records against those of any third parties by whom client money is held.
+CASS 13.10.17
+01/04/2019
+R
+A firm must perform an external client money reconciliation:
+(1) each business day; and
+(2) as soon as reasonably practicable after the relevant internal client money reconciliation;
+to ensure the accuracy of its internal accounts and records by comparing its internal accounts records against those of approved banks with whom client money is deposited.
+CASS 13.10.18
+01/04/2019
+G
+An external client money reconciliation requires a firm to conduct a reconciliation between its internal accounts and records and those of any approved banks by whom client money is held.
+CASS 13.10.19
+01/04/2019
+R
+When any discrepancy is revealed by an external client money reconciliation, a firm must identify the reason for the discrepancy and correct it as soon as possible, unless the discrepancy arises solely as a result of timing differences between the accounting system of the party providing the statement or confirmation and that of the firm.
+CASS 13.10.20
+01/04/2019
+R
+While a firm is unable to resolve a discrepancy arising from an external client money reconciliation, and one record or a set of records examined by the firm during the reconciliation process indicates that there is a need to have greater amount of client money than is in fact the case, the firm must assume, until the matter is finally resolved, that the record or set of records is accurate and pay its own money into a relevant client bank account.
+Notification requirements
+CASS 13.10.21
+01/04/2019
+R
+A firm must inform the FCA in writing without delay if:
+(1) its internal records and accounts of client money are materially out of date or materially inaccurate so that the firm is no longer able to comply with the requirements in CASS 13.10.1R to CASS 13.10.4R; or
+(2) it will be unable to or materially fails to conduct an internal client money reconciliation in compliance with CASS 13.10.5R; or
+(3) after having carried out an internal client money reconciliation in accordance with CASS 13.10.5R it will be unable to, or materially fails to, pay any shortfall into (or withdraw any excess from) a client bank account so that the firm is unable to comply with CASS 13.10.15R; or
+(4) it will be unable to or materially fails to conduct an external client money reconciliation in compliance with CASS 13.10.17R; or
+(5) after having carried out an external client money reconciliation in accordance with CASS 13.10.17R it will be unable to, or materially fails to, identify the reason for any discrepancies and correct them in accordance with CASS 13.10.19R; or
+(6) it becomes aware that, at any time in the preceding 12 months, the amount of client money segregated in its client bank accounts materially differed from the total aggregate amount of client money the firm was required to segregate in client bank accounts in accordance with the segregation requirements in CASS 13.6.
+CASS 13.11 Client money distribution in the event of a failure of a firm or approved bank
+Application
+CASS 13.11.1
+01/04/2019
+R
+This section (the claims management client money distribution rules) applies to a firm that holds client money which is subject to the claims management client money rules when a primary pooling event or a secondary pooling event occurs.
+Purpose
+CASS 13.11.2
+01/04/2019
+G
+The claims management client money distribution rules seek, in the event of the failure of a firm or of an approved bank at which the firm holds client money, to protect client money and to facilitate the timely return of client money to clients.
+Failure of the authorised firm: primary pooling event
+CASS 13.11.3
+01/04/2019
+R
+A primary pooling event occurs:
+(1) on the failure of the firm;
+(2) on the vesting of assets in a trustee in accordance with an ‘assets requirement’ imposed under section 55P(1)(b) or (c) (as the case may be) of the Act; or
+(3) on the coming into force of a requirement or requirements which, either separately or in combination:
+(a) is or are for all client money held by the firm; and
+(b) require the firm to take steps to cease holding all client money.
+Pooling and distribution after a primary pooling event
+CASS 13.11.4
+01/04/2019
+R
+If a primary pooling event occurs, then:
+(1) all client money:
+(a) held in the firm’s client bank accounts; and
+(b) any client money identifiable in any other account held by the firm into which client money has been received;
+is treated as pooled together to form a notional pool; and
+(2) a firm must calculate the amount it should be holding on behalf of each individual customer as at the time of the primary pooling event using the method of calculating individual customer balance provided for by CASS 13.10.13R.
+Distribution if client money not transferred to another firm
+CASS 13.11.5
+01/04/2019
+R
+Where a primary pooling event occurs and the client money pool is not transferred to another firm in accordance with CASS 13.11.6R, a firm must distribute client money comprising the notional pool so that each client receives a sum that is rateable to its entitlement to the notional pool calculated in accordance with CASS 13.11.4R(2).
+CASS 13.11.5A
+02/08/2024
+R
+(1) Subject to (2), as an alternative to distributing a client’s client money to them under CASS 13.11.5R, a firm may transfer all of that client’s client money to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 13.9.4R.
+(2) As a consequence of any such transfer to a dormant asset fund operator, the firm must not distribute to any other client an amount of money that would be less than that which such other client was entitled to have distributed under CASS 13.11.5R.
+CASS 13.11.5B
+02/08/2024
+G
+The purpose of CASS 13.11.5AR(2) is to ensure that where a particular client’s client money is transferred under CASS 13.11.5AR(1) to a dormant asset fund operator, such a transfer does not prejudice any other client. This means, for example, that the amount that may be transferred to a dormant asset fund operator under that provision should take account of any shortfall that affects the relevant clients.
+Transfer of client money to another firm
+CASS 13.11.6
+01/04/2019
+R
+If, in the event of a primary pooling event occurring, the regulated claims management activity business undertaken by a firm (“the transferor”) is to be transferred to another firm (“the transferee”), then the transferor may move the client money pool to the transferee.
+CASS 13.11.7
+01/04/2019
+R
+If the transferor decides to move the client money pool to the transferee, the transferor must immediately on making the decision, and before the move takes place, notify the FCA in writing of:
+(1) the proposed move, including the date of the proposed move if known at the time of the notification; and
+(2) the proposed transferee.
+CASS 13.11.8
+01/04/2019
+R
+The client money pool may be transferred under CASS 13.11.6R only if it will be held by the transferee in accordance with CASS 13, including the statutory trust in CASS 13.3.1R.
+CASS 13.11.9
+01/04/2019
+R
+If there is a shortfall in the client money transferred under CASS 13.11.6R then the client money must be allocated to each of the customers for whom the client money was held so that each client is allocated a sum which is rateable to that customer’s client money entitlement in accordance with CASS 13.11.4R(2). This calculation may be done by either transferor or transferee in accordance with the terms of any transfer.
+CASS 13.11.10
+01/04/2019
+R
+The transferee must, within seven days after the transfer of client money under CASS 13.11.6R notify customers that:
+(1) their money has been transferred to the transferee; and
+(2) they have the option of having client money returned to them or to their order by the transferee, otherwise the transferee will hold the client money for the customers and conduct regulated claims management activities for those customers.
+Closing a client money pool - transfers to dormant asset fund operator
+CASS 13.11.10A
+02/08/2024
+R
+(1) This rule applies to a firm which, prior to a primary pooling event, had put in place contractual or other arrangements with a dormant asset fund operator of the sort described at section 23 of the Dormant Assets Act 2022.
+(2) If, having attempted to, a firm is unable to distribute a balance of client money in accordance with CASS 13.11.5R to the relevant client, it must attempt to transfer the balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 13.9.4R.
+CASS 13.11.10B
+02/08/2024
+G
+(1) A firm may be unable to distribute a balance of client money in accordance with CASS 13.11.5R for reasons including that:
+(a) the firm is unable to trace the client; or
+(b) despite the firm making enquiries, the relevant client has not provided the firm with instructions that would enable the firm to make a distribution.
+(2) Where the firm transfers a balance to a dormant asset fund operator under the applicable provisions of Part 1 of the Dormant Assets Act 2022 and in accordance with CASS 13.9.4R, it may cease to treat the balance as client money under CASS 13.9.2R(6).
+(3) In attempting to transfer the balance to a dormant asset fund operator under CASS 13.11.10AR(2), the firm should begin by seeking confirmation from the relevant dormant asset fund operator as to whether or not it would be in a position to accept the balance.
+Failure of an approved bank: secondary pooling event
+CASS 13.11.11
+01/04/2019
+R
+A secondary pooling event occurs on the failure of an approved bank at which a firm holds client money in a client bank account.
+CASS 13.11.12
+01/04/2019
+R
+(1) Subject to (2), if a secondary pooling event occurs as a result of the failure of an approved bank where one or more client bank accounts are held then in relation to every client bank account of the firm, the provisions of CASS 13.11.13R(1), CASS 13.11.13R(2) and CASS 13.11.13R(3) will apply.
+(2) CASS 13.11.13R does not apply if, on the failure of the approved bank, the firm pays to its clients, or pays into a client bank account at an unaffected approved bank, an amount equal to the amount of client money that would have been held if a shortfall had not occurred as a result of the failure.
+CASS 13.11.13
+01/04/2019
+R
+Money held in each client bank account of the firm must be treated as pooled and:
+(1) any shortfall in client money held, or which should have been held, in client bank accounts, that has arisen as a result of the failure of the approved bank, must be borne by all customers whose client money is held in a client bank account of the firm, rateably in accordance with their entitlements to the pool;
+(2) a new client money entitlement must be calculated for each customer by the firm, to reflect the requirements in (1), and the firm’s records must be amended to reflect the reduced client money entitlement;
+(3) the firm must make and retain a record of each client’s share of the client money shortfall at the failed approved bank until the client is repaid; and
+(4) the firm must use the new client entitlements, calculated in accordance with (2), when performing the client money calculation in CASS 13.10.9R.
+CASS 13.11.14
+01/04/2019
+R
+The term “which should have been held” is a reference to the failed approved bank’s failure to hold the client money at the time of the pooling event.
+CASS 13.11.15
+01/04/2019
+R
+Any interest earned on client money following a primary or secondary pooling event will be due to clients in accordance with CASS 13.6.10R (Interest).
+CASS 13 Annex 1 CASS client bank account acknowledgement letter template
+CASS 13 Annex 1R
+01/04/2019
+R
+[Letterhead of firm subject to CASS 13.5.3R, including full name and address of firm]
+[Name and address of approved bank]
+[Date]
+Client Money Acknowledgment Letter (pursuant to the rules of the Financial Conduct Authority)
+We refer to the following [current/deposit account[s]] which [name of firm], regulated by the Financial Conduct Authority (Firm Reference Number [FRN]), (“us”, “we” or “our”) has opened or will open with [name of approved bank] (“you” or “your”):
+[Insert the account title[s], the account unique identifier[s] (for example, as relevant, sort code and account number) and (if applicable) any abbreviated name of the account[s] as reflected in the approved bank’s systems]
+([collectively,] the “Client Bank Account[s]”).
+In relation to [each of] the Client Bank Account[s] identified above you acknowledge that we have notified you that:
+(a) we are under an obligation to keep money we hold belonging to our clients separate from our own money;
+(b) we have opened or will open the Client Bank Account for the purpose of depositing money with you on behalf of our clients; and
+(c) we hold all money standing to the credit of the Client Bank Account in our capacity as trustee under the laws applicable to us.
+In relation to [each of] the Client Bank Account[s] identified above you agree that:
+(d) you do not have any recourse or right against money in the Client Bank Account in respect of any sum owed to you, or owed to any third party, on any other account (including any account we use for our own money), and this means for example that you do not have any right to combine the Client Bank Account with any other account and any right of set-off or counterclaim against money in the Client Bank Account;
+(e) you will title, or have titled, the Client Bank Account as stated above and that such title is different to the title of any other account containing money that belongs to us or to any third party; and
+(f) you are required to release on demand all money standing to the credit of the Client Bank Account, upon proper notice and instruction from us or a liquidator, receiver, administrator, or trustee (or similar person) appointed for us in bankruptcy, (or similar procedure) in any relevant jurisdiction, except for any properly incurred charges or liabilities owed to you on, and arising from the operation of, the Client Bank Account, provided that you have a contractual right to retain such money and that this right is notwithstanding (a) to (c) above and without breach of your agreement to (d) above.
+We acknowledge that:
+(g) you are not responsible for ensuring compliance by us with our own obligations, including as trustee, in respect of the Client Bank Account[s].
+You and we agree that:
+(h) the terms of this letter will remain binding upon the parties, their successors and assigns, and, for the avoidance of doubt, regardless of any change in name of any party;
+(i) this letter supersedes and replaces any previous agreement between the parties in connection with the Client Bank Account[s], to the extent that such previous agreement is inconsistent with this letter;
+(j) in the event of any conflict between this letter and any other agreement between the parties in connection with the Client Bank Account[s], this letter agreement will prevail;
+(k) no variation to the terms of this letter will be effective unless it is in writing, signed by the parties and permitted under the rules of the Financial Conduct Authority;
+(l) this letter will be governed by the laws of [insert appropriate jurisdiction]; and
+(m) the courts of [insert same jurisdiction as previous] will have jurisdiction to settle any dispute or claim arising out of or in connection with this letter or its subject matter or formation (including non-contractual disputes or claims).
+Please sign and return the enclosed copy of this letter as soon as possible. We remind you that, pursuant to the rules of the Financial Conduct Authority, we are not allowed to use the Client Bank Account[s] to deposit any money belonging to our clients with you until you have acknowledged and agreed to the terms of this letter.
+For and on behalf of [name of firm]
+x___________________________
+Authorised Signatory
+Print Name:
+Title:
+ACKNOWLEDGED AND AGREED:
+For and on behalf of [name of approved bank]
+x___________________________
+Authorised Signatory
+Print Name:
+Title:
+Contact Information: [insert signatory’s phone number and email address]
+Date:
+CASS 13 Annex 2 Guidance notes for client bank account acknowledgement letters (CASS 13.5.5G)
+CASS 13 Annex 2G
+01/04/2019
+G
+Introduction
+1. This annex contains guidance on the use of the template client bank account acknowledgement letters in CASS 13 Annex 1R.
+General
+2. Under CASS 13.5.2R(2), firms are required to have in place a duly signed and countersigned client bank account acknowledgement letter for a client bank account before they are allowed to hold or receive client money in or into the account.
+3. For each client bank account a firm is required to complete, sign and send to the approved bank a client bank account acknowledgement letter identifying that account and in the form set out in CASS 13 Annex 1R (CASS claims management firm client bank account acknowledgment letter template).
+4. When completing a client bank account acknowledgement letter using the appropriate template, a firm is reminded that it must not amend any of the text which is not in square brackets (acknowledgment letter fixed text). A firm should also not amend the non-italicised text that is in square brackets. It may remove or include square bracketed text from the letter, or replace bracketed and italicised text with the required information, in either case as appropriate. The notes below give further guidance on this.
+Clear identification of relevant accounts
+5. A firm is reminded that for each client bank account it needs to have in place a client bank account acknowledgement letter. As a result, it is important that it is clear to which account or accounts each client bank account acknowledgement letter relates. As a result, the template in CASS 13 Annex 1R requires that the client bank account acknowledgement letter includes the full title and at least one unique identifier, such as a sort code and account number, deposit number or reference code, for each client bank account.
+6. The title and unique identifiers included in a client bank account acknowledgement letter for a client bank account should be the same as those reflected in both the records of the firm and the relevant approved bank, as appropriate, for that account. Where an approved bank’s systems are not able to reflect the full title of an account, that title may be abbreviated to accommodate that system, provided that:
+(a) the account may continue to be appropriately identified in line with the requirements of CASS 13 (for example, ‘segregated’ may be shortened to ‘seg’, ‘account’ may be shortened to ‘acct’ etc); and
+(b) when completing a client bank account acknowledgement letter, such letter must include both the long and short versions of the account title.
+7. A firm should ensure that all relevant account information is contained in the space provided in the body of the client bank account acknowledgement letter. Nothing should be appended to a client bank account acknowledgement letter.
+8. In the space provided in the template letter for setting out the account title and unique identifiers for each relevant account/deposit, a firm may include the required information in the format of the following table:
+Full account title
+Unique identifier
+Title reflected in [name of approved bank] systems
+[Claims Management Firm Client Bank Account]
+[00-00-00 12345678]
+[CM FIRM CLIENT A/C]
+9. Where a client bank account acknowledgement letter is intended to cover a range of client bank accounts, some of which may not exist as at the date the client bank account acknowledgement letter is countersigned by the approved bank, a firm should set out in the space provided in the body of the client bank account acknowledgement letter that it is intended to apply to all present and future accounts which: (a) are titled in a specified way (e.g. with the word ‘client’ in their title); and (b) which possess a common unique identifier or which may be clearly identified by a range of unique identifiers (e.g. all accounts numbered between XXXX1111 and ZZZZ9999). For example, in the space provided in the template letter in CASS 13 Annex 1R which allows a firm to include the account title and a unique identifier for each relevant account, a firm should include a statement to the following effect:
+Any account open at present or to be opened in the future which contains the term [‘client’][insert appropriate abbreviation of the term ‘client’ as agreed and to be reflected in the Approved Bank’s systems] in its title and which may be identified with [the following [insert common unique identifier]][an account number from and including [XXXX1111] to and including [ZZZZ9999]][clearly identify range of unique identifiers].
+Signatures and countersignatures
+10. A firm should ensure that each client bank account acknowledgement letter is signed and countersigned by all relevant parties and individuals (including where a firm or the approved bank may require more than one signatory).
+11. A client bank account acknowledgement letter that is signed or countersigned electronically should not, for that reason alone, result in a breach of the rules in CASS 13.5. However, where electronic signatures are used, a firm should consider whether, taking into account the governing law and choice of competent jurisdiction, it needs to ensure that the electronic signature and the certification by any person of such signature would be admissible as evidence in any legal proceedings in the relevant jurisdiction in relation to any question as to the authenticity or integrity of the signature or any associated communication.
+Completing a client bank account acknowledgment letter
+12. A firm should use at least the same level of care and diligence when completing a client bank account acknowledgement letter as it would in managing its own commercial agreements.
+13. A firm should ensure that each client bank account acknowledgement letter is legible (e.g. any handwritten details should be easy to read), produced on the firm’s own letter-headed paper, dated and addressed to the correct legal entity (e.g. where the approved bank belongs to a group of companies).
+14. A firm should also ensure each client bank account acknowledgement letter includes all the required information (such as account names and numbers, the parties’ full names, addresses and contact information, and each signatory’s printed name and title).
+15. A firm should similarly ensure that no square brackets remain in the text of each client bank account acknowledgement letter (e.g. after having removed or included square bracketed text, as appropriate, or having replaced square bracketed and italicised text with the required information as indicated in the template in CASS 13 Annex 1R) and that each page of the letter is numbered.
+16. A firm should complete a client bank account acknowledgement letter so that no part of the letter can be easily altered (e.g. the letter should be signed in ink rather than pencil).
+17. In respect of the client bank account acknowledgement letter’s governing law and choice of competent jurisdiction (see paragraphs (11) and (12) of the template client bank account acknowledgement letters), a firm should agree with the approved bank and reflect in the letter that the laws of a particular jurisdiction will govern the client bank account acknowledgement letter and that the courts of that same jurisdiction will have jurisdiction to settle any disputes arising out of, or in connection with, the client bank account acknowledgement letter, its subject matter or formation.
+18. If a firm does not, in any client bank account acknowledgement letter, utilise the governing law and choice of competent jurisdiction that is the same as either or both:
+(a) the laws of the jurisdiction under which either the firm or the relevant approved bank are organised; or
+(b) as is found in the underlying agreement/s (e.g. banking services agreement) with the relevant approved bank;
+then the firm should consider whether it is at risk of breaching CASS 13.5.4R(3) or CASS 13.4.2R.
+Authorised signatories
+19.A firm is required under CASS 13.5.7R to use reasonable endeavours to ensure that any individual that has countersigned a client bank account acknowledgement letter returned to the firm was authorised to countersign the letter on behalf of the relevant approved bank.
+20. If an individual that has countersigned a client bank account acknowledgement letter does not provide the firm with sufficient evidence of their authority to do so then the firm is expected to make appropriate enquiries to satisfy itself of that individual’s authority.
+21. Evidence of an individual’s authority to countersign a client bank account acknowledgement letter may include a copy of the approved bank’s list of authorised signatories, a duly executed power of attorney, use of a company seal or bank stamp, and/or material verifying the title or position of the individual countersigning the client bank account acknowledgement letter.
+22. A firm should ensure it obtains at least the same level of assurance over the authority of an individual to countersign the client bank account acknowledgement letter as the firm would seek when managing its own commercial arrangements.
+Third party administrators
+23. If a firm uses a third party administrator (TPA) to carry out the administrative tasks of drafting, sending and processing a client bank account acknowledgement letter, the text “[Signed by [Name of Third Party Administrator] on behalf of [firm]]” should be inserted to confirm that the client bank account acknowledgement letter was signed by the TPA on behalf of the firm.
+24. In these circumstances, the firm should first provide the TPA with the requisite authority (such as a power of attorney) before the TPA will be able to sign the client bank account acknowledgement letter on the firm’s behalf. A firm should also ensure that the client bank account acknowledgement letter continues to be drafted on letter-headed paper belonging to the firm.
+Client bank accounts
+25. A firm must ensure that each of its client bank accounts follows the naming conventions prescribed in the Glossary. This includes ensuring that all client bank accounts include the term ‘client’ in their title or an appropriate abbreviation in circumstances where this is permitted by the Glossary definition.
+26. All references to the term “Client Bank Account[s]” in a client bank account acknowledgement letter should also be made consistently in either the singular or plural, as appropriate.
