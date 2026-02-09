@@ -1,12 +1,13 @@
 graph TB
     User[User/Auditor] -->|1. Upload PDF| Upload[PDF Document]
-    Upload --> AgentChoice{Agent Available?}
+    Upload --> AgentChoice{Agent Choice}
 
-    AgentChoice -->|Claude Code Available| ClaudeAgent[Claude Code Agent]
-    AgentChoice -->|Fallback Option| PythonAgent[Python-based Agent]
+    AgentChoice -->|If Claude Code Available| ClaudeAgent[Claude Code Agent]
+    AgentChoice -->|Pure Python| PythonAgent[Python-based Agent]
 
     ClaudeAgent -->|2a. Analyze & Route| ClaudeDecision{Decision Logic}
-    PythonAgent -->|2b. Route to MCP| PythonRoute[Direct MCP Call]
+    PythonAgent -->|3b. Call MCP with Test Number| MCP 
+    %%-->|2b. Route to MCP| PythonRoute[Direct MCP Call]
 
     subgraph "Execution Path A: Local Skills (Claude Code Only)"
         ClaudeDecision -->|3a. Invoke Local Skill| LocalSkills[Local Skills Layer]
@@ -20,12 +21,12 @@ graph TB
         CASS7_Skill --> LocalExec
         LA_Skill --> LocalExec
 
-        LocalExec -->|4a. Validate| MCPValidate[Validate Against MCP]
+        LocalExec -->|4a. Validate| MCPValidate[Validate Against FCA Handbook stored offline]
     end
 
     subgraph "Execution Path B: MCP Server"
-        ClaudeDecision -->|3b. Call MCP with Test Number| MCP[MCP Server]
-        PythonRoute -->|3c. Call MCP with Test Number| MCP
+        %% ClaudeDecision -->|3b. Call MCP with Test Number| MCP[MCP Server]
+        %%PythonRoute -->|3b. Call MCP with Test Number| MCP
 
         MCP --> TestRouter{Test Number Router}
 
@@ -37,7 +38,7 @@ graph TB
         CASS7_Proc --> FCA_Connection
         LA_Proc --> FCA_Connection
 
-        FCA_Connection --> FCA_Rules[(FCA Handbook<br/>Rules & Regulations)]
+        FCA_Connection --> FCA_Rules[(Online FCA Handbook<br/>Rules & Regulations)]
 
         FCA_Rules -->|4b. Apply Rules| MCPExec[Execute MCP Check]
     end
@@ -55,4 +56,5 @@ graph TB
     style LocalSkills fill:#d4edda,stroke:#28a745,stroke-width:2px
     style MCP fill:#f8d7da,stroke:#dc3545,stroke-width:2px
     style FCA_Rules fill:#e7d4f5,stroke:#6f42c1,stroke-width:2px
+    style MCPValidate fill:#e7d4f5,stroke:#6f42c1,stroke-width:2px
     style Results fill:#cfe2ff,stroke:#0d6efd,stroke-width:3px
