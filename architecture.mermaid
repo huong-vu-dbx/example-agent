@@ -1,0 +1,58 @@
+graph TB
+    User[User/Auditor] -->|1. Upload PDF| Upload[PDF Document]
+    Upload --> AgentChoice{Agent Available?}
+
+    AgentChoice -->|Claude Code Available| ClaudeAgent[Claude Code Agent]
+    AgentChoice -->|Fallback Option| PythonAgent[Python-based Agent]
+
+    ClaudeAgent -->|2a. Analyze & Route| ClaudeDecision{Decision Logic}
+    PythonAgent -->|2b. Route to MCP| PythonRoute[Direct MCP Call]
+
+    subgraph "Execution Path A: Local Skills (Claude Code Only)"
+        ClaudeDecision -->|3a. Invoke Local Skill| LocalSkills[Local Skills Layer]
+
+        LocalSkills --> SkillRouter{Skill Router}
+        SkillRouter -->|CASS 6 Test| CASS6_Skill[CASS 6 Skill]
+        SkillRouter -->|CASS 7 Test| CASS7_Skill[CASS 7 Skill]
+        SkillRouter -->|LA Test| LA_Skill[Limited Assurance Skill]
+
+        CASS6_Skill --> LocalExec[Execute Local Check]
+        CASS7_Skill --> LocalExec
+        LA_Skill --> LocalExec
+
+        LocalExec -->|4a. Validate| MCPValidate[Validate Against MCP]
+    end
+
+    subgraph "Execution Path B: MCP Server"
+        ClaudeDecision -->|3b. Call MCP with Test Number| MCP[MCP Server]
+        PythonRoute -->|3c. Call MCP with Test Number| MCP
+
+        MCP --> TestRouter{Test Number Router}
+
+        TestRouter -->|Test Number: CASS6-XXX| CASS6_Proc[CASS 6 Procedures]
+        TestRouter -->|Test Number: CASS7-XXX| CASS7_Proc[CASS 7 Procedures]
+        TestRouter -->|Test Number: LA-XXX| LA_Proc[Limited Assurance Procedures]
+
+        CASS6_Proc --> FCA_Connection[FCA Handbook API]
+        CASS7_Proc --> FCA_Connection
+        LA_Proc --> FCA_Connection
+
+        FCA_Connection --> FCA_Rules[(FCA Handbook<br/>Rules & Regulations)]
+
+        FCA_Rules -->|4b. Apply Rules| MCPExec[Execute MCP Check]
+    end
+
+    MCPValidate -->|5a. Return Results| Results[Compliance Results]
+    MCPExec -->|5b. Return Results| Results
+
+    Results -->|6. Generate Report| Report[Compliance Report]
+    Report -->|7. Deliver| User
+
+    style AgentChoice fill:#ffe5cc,stroke:#ff8c00,stroke-width:2px
+    style ClaudeAgent fill:#b3d9ff,stroke:#0066cc,stroke-width:3px
+    style PythonAgent fill:#ffe066,stroke:#ccaa00,stroke-width:3px
+    style ClaudeDecision fill:#fff2cc,stroke:#d6b656,stroke-width:2px
+    style LocalSkills fill:#d4edda,stroke:#28a745,stroke-width:2px
+    style MCP fill:#f8d7da,stroke:#dc3545,stroke-width:2px
+    style FCA_Rules fill:#e7d4f5,stroke:#6f42c1,stroke-width:2px
+    style Results fill:#cfe2ff,stroke:#0d6efd,stroke-width:3px
